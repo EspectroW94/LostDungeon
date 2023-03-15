@@ -377,23 +377,23 @@
     },
     {
       "Path": "resources/packs/graphics0.asset",
-      "Hash": "36ea042463a473be0e0c2898c9934304",
-      "Size": 2090226
+      "Hash": "311f40351cc6c4ddea037356e0e03760",
+      "Size": 2097906
     },
     {
       "Path": "resources/packs/graphics0.meta",
-      "Hash": "bfeb7796bdbc529289bf6f5b8e893ec0",
+      "Hash": "e63f05142e4824ee093c2392b9bdb4f8",
       "Size": 47329
     },
     {
       "Path": "resources/packs/graphics1.asset",
-      "Hash": "ac5c5542212997f006563d1cfeb534e8",
-      "Size": 1692506
+      "Hash": "f0a12e86299b8f573f20bbf94e0e4a2b",
+      "Size": 1689370
     },
     {
       "Path": "resources/packs/graphics1.meta",
-      "Hash": "b09da1dbda605fa8ef4271d3025b00ba",
-      "Size": 24812
+      "Hash": "7c40b47e535b0a65ce169d4bcd00ae44",
+      "Size": 24796
     },
     {
       "Path": "resources/packs/graphics10.asset",
@@ -497,13 +497,13 @@
     },
     {
       "Path": "resources/packs/graphics2.asset",
-      "Hash": "43910d4c44cb87c9538516085baecaa8",
-      "Size": 1794792
+      "Hash": "5cfdf5ef12b0674b1ba3e85495ce5f28",
+      "Size": 1805245
     },
     {
       "Path": "resources/packs/graphics2.meta",
-      "Hash": "f980dba9ad9f9d8ef27acb89ea2e987b",
-      "Size": 37393
+      "Hash": "b0697fcf853d6db5ec22906fe9bf1a52",
+      "Size": 38513
     },
     {
       "Path": "resources/packs/graphics20.asset",
@@ -607,13 +607,13 @@
     },
     {
       "Path": "resources/packs/graphics3.asset",
-      "Hash": "c5ead4af171c677e4fbfd7b23ee76741",
-      "Size": 2989237
+      "Hash": "094ec4fa8ac468d7396a9666170aba61",
+      "Size": 2986373
     },
     {
       "Path": "resources/packs/graphics3.meta",
-      "Hash": "533b33a3a48324bbc17fadb7f5e333c1",
-      "Size": 21644
+      "Hash": "60519763f5b816f715361582ce16cb6b",
+      "Size": 21276
     },
     {
       "Path": "resources/packs/graphics30.asset",
@@ -727,23 +727,23 @@
     },
     {
       "Path": "resources/packs/graphics5.asset",
-      "Hash": "cecce086d7c191dae7e48b42aea5a462",
-      "Size": 3080094
+      "Hash": "80bccaf24606651063b7429be9647fa8",
+      "Size": 3073006
     },
     {
       "Path": "resources/packs/graphics5.meta",
-      "Hash": "0537f57550f60b452c7b6c0089d96f48",
+      "Hash": "64b18c46a41240890cd721fb81b021de",
       "Size": 62822
     },
     {
       "Path": "resources/packs/graphics6.asset",
-      "Hash": "704fa16fc4cfb9440b7820b7d9f178e0",
-      "Size": 1325303
+      "Hash": "e38e7d8e88c2fc7f0a356f20bb518d91",
+      "Size": 1334476
     },
     {
       "Path": "resources/packs/graphics6.meta",
-      "Hash": "fb8cd07abb1986dc2d7ab0bb2780ab54",
-      "Size": 47777
+      "Hash": "5bd26b969b7e2a83867f10aa6c72eabc",
+      "Size": 48865
     },
     {
       "Path": "resources/packs/graphics7.asset",
@@ -1804,6 +1804,26 @@
       "Path": "resources/sounds/wood-small.wav",
       "Hash": "ed040ff4becffe76fb9b80ca5681ba19",
       "Size": 83546
+    },
+    {
+      "Path": "resources/updater/background.png",
+      "Hash": "ad0c969961425a084883d09a0f772108",
+      "Size": 1462852
+    },
+    {
+      "Path": "resources/updater/font.xnb",
+      "Hash": "3f4b8382659011d39e31c504ddeab8b2",
+      "Size": 689774
+    },
+    {
+      "Path": "resources/updater/fontsmall.xnb",
+      "Hash": "8bf12b074d982df36d38b6f8906b7111",
+      "Size": 423534
+    },
+    {
+      "Path": "resources/updater/progressbar.png",
+      "Hash": "bbc858957ccd3da0ddaa8b4cc7941cf0",
+      "Size": 23798
     }
   ],
   "TrustCache": true
