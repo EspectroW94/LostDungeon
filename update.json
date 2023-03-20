@@ -1,6 +1,376 @@
 {
   "Files": [
     {
+      "Path": "resources/gui/layouts/debug/DebugWindow.json",
+      "Hash": "29ae4f97e1218e5013147267f54489cd",
+      "Size": 13851
+    },
+    {
+      "Path": "resources/gui/layouts/game/AdminWindow.json",
+      "Hash": "a849348a9f721b96ee19479fd578207c",
+      "Size": 67410
+    },
+    {
+      "Path": "resources/gui/layouts/game/AnnouncementWindow.json",
+      "Hash": "c8a6d2672619fa56c50f147d96534799",
+      "Size": 1614
+    },
+    {
+      "Path": "resources/gui/layouts/game/BagContextMenu.json",
+      "Hash": "785de8f0af20b87026a58f1753c546cf",
+      "Size": 8667
+    },
+    {
+      "Path": "resources/gui/layouts/game/BagItem.json",
+      "Hash": "e7e42211fb1e4ef97121d6b4366a80ec",
+      "Size": 2390
+    },
+    {
+      "Path": "resources/gui/layouts/game/BagWindow.json",
+      "Hash": "e68a6f823eb3715d7bbf7188580258e3",
+      "Size": 14719
+    },
+    {
+      "Path": "resources/gui/layouts/game/BankContextMenu.json",
+      "Hash": "785de8f0af20b87026a58f1753c546cf",
+      "Size": 8667
+    },
+    {
+      "Path": "resources/gui/layouts/game/BankItem.json",
+      "Hash": "c9b069406629a6820da91ef4a4a0017b",
+      "Size": 2393
+    },
+    {
+      "Path": "resources/gui/layouts/game/BankWindow.json",
+      "Hash": "7f28f3e346285fd0484a235ea7b65e4c",
+      "Size": 14738
+    },
+    {
+      "Path": "resources/gui/layouts/game/CharacterWindow.json",
+      "Hash": "91c721cf7bf828aa8a31a3c4bd2ee64a",
+      "Size": 67913
+    },
+    {
+      "Path": "resources/gui/layouts/game/ChatboxWindow.json",
+      "Hash": "18f7bdaf1f0fe8f4741c41df95e4631d",
+      "Size": 37592
+    },
+    {
+      "Path": "resources/gui/layouts/game/ChatContextMenu.json",
+      "Hash": "671234c8ec27c68c27ae5c7de28d3fb9",
+      "Size": 8667
+    },
+    {
+      "Path": "resources/gui/layouts/game/CraftedItem.json",
+      "Hash": "73f31f857a24d3c364e6d9434855afd5",
+      "Size": 2369
+    },
+    {
+      "Path": "resources/gui/layouts/game/CraftingIngredient.json",
+      "Hash": "38f6d65dddb657d692a7341dee431c0f",
+      "Size": 2369
+    },
+    {
+      "Path": "resources/gui/layouts/game/CraftingWindow.json",
+      "Hash": "6880b95aad0e45a81895a1984f7a3619",
+      "Size": 36349
+    },
+    {
+      "Path": "resources/gui/layouts/game/DescriptionWindow.json",
+      "Hash": "2f06a644e72ad4a6b343b0f7132e01d3",
+      "Size": 608
+    },
+    {
+      "Path": "resources/gui/layouts/game/DescriptionWindowDescription.json",
+      "Hash": "0f561d599b43c673527fc614da6e3b5e",
+      "Size": 1287
+    },
+    {
+      "Path": "resources/gui/layouts/game/DescriptionWindowDivider.json",
+      "Hash": "cd4059f381f751a9dfb529018543980a",
+      "Size": 631
+    },
+    {
+      "Path": "resources/gui/layouts/game/DescriptionWindowHeader.json",
+      "Hash": "f11362d0c02895009fab6b80aeaddd64",
+      "Size": 5062
+    },
+    {
+      "Path": "resources/gui/layouts/game/DescriptionWindowRowContainer.json",
+      "Hash": "58b4536e4f496f0e3214794211e8b10d",
+      "Size": 3519
+    },
+    {
+      "Path": "resources/gui/layouts/game/Draggable.json",
+      "Hash": "deb3412bc0d214790606e8f745636301",
+      "Size": 609
+    },
+    {
+      "Path": "resources/gui/layouts/game/EquipmentItem.json",
+      "Hash": "5149d234bbf3df1baf6b00e659072c0d",
+      "Size": 1118
+    },
+    {
+      "Path": "resources/gui/layouts/game/EscapeMenu.json",
+      "Hash": "8dcc5aca3b91fe7dfb90aeaaf56b830b",
+      "Size": 8287
+    },
+    {
+      "Path": "resources/gui/layouts/game/EventDialogWindow_1Response.json",
+      "Hash": "803df264f85feab7ca76dd7a8801dc08",
+      "Size": 25254
+    },
+    {
+      "Path": "resources/gui/layouts/game/EventDialogWindow_2Responses.json",
+      "Hash": "e93d54b6f72a17d8d76ff7b23336e433",
+      "Size": 26554
+    },
+    {
+      "Path": "resources/gui/layouts/game/EventDialogWindow_3Responses.json",
+      "Hash": "6f49cb7bf11bd152fdb2a657c3d3d446",
+      "Size": 27855
+    },
+    {
+      "Path": "resources/gui/layouts/game/EventDialogWindow_4Responses.json",
+      "Hash": "ba1ecf3dbfcb1fcaeb4ca65d0e189d41",
+      "Size": 29156
+    },
+    {
+      "Path": "resources/gui/layouts/game/FriendRow.json",
+      "Hash": "81a961e2e951c62d6563e637df1afb61",
+      "Size": 6368
+    },
+    {
+      "Path": "resources/gui/layouts/game/FriendsWindow.json",
+      "Hash": "55ccc7a352aafc883208ef10e49c08e7",
+      "Size": 16988
+    },
+    {
+      "Path": "resources/gui/layouts/game/GuildContextMenu.json",
+      "Hash": "11624d25d7e35465236af8c230569f4a",
+      "Size": 8667
+    },
+    {
+      "Path": "resources/gui/layouts/game/GuildWindow.json",
+      "Hash": "372f6437f84a72096dc78f9347fb475e",
+      "Size": 21274
+    },
+    {
+      "Path": "resources/gui/layouts/game/HotbarWindow.json",
+      "Hash": "b944d189d87e26157dee754218f6ae3b",
+      "Size": 59312
+    },
+    {
+      "Path": "resources/gui/layouts/game/InputBox.json",
+      "Hash": "ca5b2595468142534a960c557e9f23d5",
+      "Size": 15213
+    },
+    {
+      "Path": "resources/gui/layouts/game/InventoryContextMenu.json",
+      "Hash": "f2ffebc43d978b8f70dd5cdaac5ab1dc",
+      "Size": 8667
+    },
+    {
+      "Path": "resources/gui/layouts/game/InventoryItem.json",
+      "Hash": "2de65d3abc103157c0789f5cade07761",
+      "Size": 5459
+    },
+    {
+      "Path": "resources/gui/layouts/game/InventoryWindow.json",
+      "Hash": "97e8df91dab212f9511c3a4a2e816377",
+      "Size": 14732
+    },
+    {
+      "Path": "resources/gui/layouts/game/ItemDescWindow.json",
+      "Hash": "60b50356f8b8024dfb02ceba7f1676d4",
+      "Size": 6728
+    },
+    {
+      "Path": "resources/gui/layouts/game/ItemDescWindowExpanded.json",
+      "Hash": "591527f1b335eff09dede5d7e44ec8d3",
+      "Size": 8299
+    },
+    {
+      "Path": "resources/gui/layouts/game/MapItemIcon.json",
+      "Hash": "bc40d98e64d502a4218d815b1d8564e7",
+      "Size": 2394
+    },
+    {
+      "Path": "resources/gui/layouts/game/MapItemWindow.json",
+      "Hash": "3f9c6b5623a7803491f0fe74a70036e8",
+      "Size": 13018
+    },
+    {
+      "Path": "resources/gui/layouts/game/MenuContainer.json",
+      "Hash": "bef35dd2116bf6ef585e7e8d9753fce5",
+      "Size": 17849
+    },
+    {
+      "Path": "resources/gui/layouts/game/OptionsWindow.json",
+      "Hash": "314805c4b07a9abf576778539093da5b",
+      "Size": 211417
+    },
+    {
+      "Path": "resources/gui/layouts/game/PartyWindow.json",
+      "Hash": "a52070a58f34624d6f99bdeffbc7be6c",
+      "Size": 35063
+    },
+    {
+      "Path": "resources/gui/layouts/game/PlayerBox.json",
+      "Hash": "5ab7acdd8d5a4e1a65bb7ba0f59349f1",
+      "Size": 25563
+    },
+    {
+      "Path": "resources/gui/layouts/game/PlayerStatusIcon.json",
+      "Hash": "cc9ddec2c2a09e2fcd69cf649c7437d9",
+      "Size": 2325
+    },
+    {
+      "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
+      "Hash": "125175c0a7608e7ef869c9f8a6673d7c",
+      "Size": 19745
+    },
+    {
+      "Path": "resources/gui/layouts/game/QuestsWindow.json",
+      "Hash": "2c8304bdb2478eacf20ca9c50b8d3034",
+      "Size": 31595
+    },
+    {
+      "Path": "resources/gui/layouts/game/ShopContextMenu.json",
+      "Hash": "88aefd2dd0fb0600a3964b0fab528507",
+      "Size": 8667
+    },
+    {
+      "Path": "resources/gui/layouts/game/ShopItem.json",
+      "Hash": "b2f75377cf05bd9fded777fbd4a56156",
+      "Size": 1386
+    },
+    {
+      "Path": "resources/gui/layouts/game/ShopWindow.json",
+      "Hash": "846ea52df1d361d1350969277e8fef6f",
+      "Size": 14736
+    },
+    {
+      "Path": "resources/gui/layouts/game/Spell.json",
+      "Hash": "f400d5670fe6fe55ebc30cc4e990d2f7",
+      "Size": 2540
+    },
+    {
+      "Path": "resources/gui/layouts/game/SpellContextMenu.json",
+      "Hash": "88aefd2dd0fb0600a3964b0fab528507",
+      "Size": 8667
+    },
+    {
+      "Path": "resources/gui/layouts/game/SpellDescWindow.json",
+      "Hash": "f574e6d69978c3d93c4301355809d5be",
+      "Size": 4610
+    },
+    {
+      "Path": "resources/gui/layouts/game/SpellDescWindowExpanded.json",
+      "Hash": "6de30f256480eca63a82168df237e0c5",
+      "Size": 6392
+    },
+    {
+      "Path": "resources/gui/layouts/game/SpellsWindow.json",
+      "Hash": "a805f736474aaff28146a8dd8d03aa7c",
+      "Size": 14715
+    },
+    {
+      "Path": "resources/gui/layouts/game/TargetBox.json",
+      "Hash": "722dec71bede22abaf151a9168d6d13f",
+      "Size": 25815
+    },
+    {
+      "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
+      "Hash": "cc9ddec2c2a09e2fcd69cf649c7437d9",
+      "Size": 2325
+    },
+    {
+      "Path": "resources/gui/layouts/game/TheirTradeItem.json",
+      "Hash": "a34151db46a63f0f3b733b83deb1a207",
+      "Size": 2351
+    },
+    {
+      "Path": "resources/gui/layouts/game/TradeContextMenu.json",
+      "Hash": "5b51990a141295ed7b1ca3a1d07c2544",
+      "Size": 8667
+    },
+    {
+      "Path": "resources/gui/layouts/game/TradeWindow.json",
+      "Hash": "6d99d9b1d5b7e72fc958ef9796a8f9cc",
+      "Size": 30939
+    },
+    {
+      "Path": "resources/gui/layouts/game/YourTradeItem.json",
+      "Hash": "6b82197dd3f8ae9148f0fb6262e475b4",
+      "Size": 2371
+    },
+    {
+      "Path": "resources/gui/layouts/menu/CharacterCreationWindow.json",
+      "Hash": "80a1b544519742b7b5e6234f1d71fa37",
+      "Size": 38170
+    },
+    {
+      "Path": "resources/gui/layouts/menu/CharacterSelectionWindow.json",
+      "Hash": "b71249451bf9f3822295529a9f886f5f",
+      "Size": 12341
+    },
+    {
+      "Path": "resources/gui/layouts/menu/CreditsWindow.json",
+      "Hash": "94f806c4cda437bc113e0922f1afab56",
+      "Size": 13815
+    },
+    {
+      "Path": "resources/gui/layouts/menu/ForgotPasswordWindow.json",
+      "Hash": "ac9430ce8d73596c26ad0c3335a49591",
+      "Size": 8194
+    },
+    {
+      "Path": "resources/gui/layouts/menu/InputBox.json",
+      "Hash": "fb8d04ad42e1e5705b2e1a477c7fcc37",
+      "Size": 15212
+    },
+    {
+      "Path": "resources/gui/layouts/menu/LoginWindow.json",
+      "Hash": "be99bff4e68aa4785852f39ca5b0603a",
+      "Size": 14498
+    },
+    {
+      "Path": "resources/gui/layouts/menu/Logo.json",
+      "Hash": "1013f980efe9c3c09a9a334712d95e2c",
+      "Size": 628
+    },
+    {
+      "Path": "resources/gui/layouts/menu/MenuWindow.json",
+      "Hash": "c2de245a88d321632789b9cc10c94951",
+      "Size": 9189
+    },
+    {
+      "Path": "resources/gui/layouts/menu/OptionsWindow.json",
+      "Hash": "314805c4b07a9abf576778539093da5b",
+      "Size": 211417
+    },
+    {
+      "Path": "resources/gui/layouts/menu/RegistrationWindow.json",
+      "Hash": "66dc9a45945fd8871cd9dfd6a388ceca",
+      "Size": 16384
+    },
+    {
+      "Path": "resources/gui/layouts/menu/ResetPasswordWindow.json",
+      "Hash": "dce95f575e299217eddff14fc8c829a9",
+      "Size": 13329
+    },
+    {
+      "Path": "resources/gui/layouts/menu/ServerStatusArea.json",
+      "Hash": "eeacfada7f46e7a6e845fd031a0a5369",
+      "Size": 1611
+    },
+    {
+      "Path": "resources/gui/layouts/shared/SettingsWindow.json",
+      "Hash": "b4f5088197d67b914528ab163f06ef8d",
+      "Size": 364733
+    },
+    {
       "Path": "resources/music/Adrift.ogg",
       "Hash": "40c0d402d61dd259d7c3b69ee853a8c5",
       "Size": 1231845
@@ -387,13 +757,13 @@
     },
     {
       "Path": "resources/packs/graphics1.asset",
-      "Hash": "f0a12e86299b8f573f20bbf94e0e4a2b",
-      "Size": 1689370
+      "Hash": "a486072f2d33bd2b514c1181da2789d0",
+      "Size": 1693690
     },
     {
       "Path": "resources/packs/graphics1.meta",
-      "Hash": "7c40b47e535b0a65ce169d4bcd00ae44",
-      "Size": 24796
+      "Hash": "03508674a772ce1fb98ca58dda17d874",
+      "Size": 24764
     },
     {
       "Path": "resources/packs/graphics10.asset",
@@ -497,13 +867,13 @@
     },
     {
       "Path": "resources/packs/graphics2.asset",
-      "Hash": "5cfdf5ef12b0674b1ba3e85495ce5f28",
-      "Size": 1805245
+      "Hash": "ca41ba4653e35caa41825110b86af211",
+      "Size": 1859772
     },
     {
       "Path": "resources/packs/graphics2.meta",
-      "Hash": "b0697fcf853d6db5ec22906fe9bf1a52",
-      "Size": 38513
+      "Hash": "011298146b0f18fec9b09efca66477e6",
+      "Size": 42657
     },
     {
       "Path": "resources/packs/graphics20.asset",
@@ -607,13 +977,13 @@
     },
     {
       "Path": "resources/packs/graphics3.asset",
-      "Hash": "094ec4fa8ac468d7396a9666170aba61",
-      "Size": 2986373
+      "Hash": "45f57600d182a9544d4e679fadd29920",
+      "Size": 2992309
     },
     {
       "Path": "resources/packs/graphics3.meta",
-      "Hash": "60519763f5b816f715361582ce16cb6b",
-      "Size": 21276
+      "Hash": "2ed0076d0840e43fc4da433808ed76a1",
+      "Size": 25004
     },
     {
       "Path": "resources/packs/graphics30.asset",
@@ -717,33 +1087,33 @@
     },
     {
       "Path": "resources/packs/graphics4.asset",
-      "Hash": "5f19fb5666857a4a6abf62e3150f57ab",
-      "Size": 2948230
+      "Hash": "b1fd7fff16b20a5e52c27e0a904d2388",
+      "Size": 2949398
     },
     {
       "Path": "resources/packs/graphics4.meta",
-      "Hash": "31f606a641d37cf0d14161d11c1d8ba2",
-      "Size": 19692
+      "Hash": "c8dd30aab6899274b69e794a655a0b77",
+      "Size": 18236
     },
     {
       "Path": "resources/packs/graphics5.asset",
-      "Hash": "80bccaf24606651063b7429be9647fa8",
-      "Size": 3073006
+      "Hash": "f95eb3da754df5d77b839a63abf70313",
+      "Size": 3032767
     },
     {
       "Path": "resources/packs/graphics5.meta",
-      "Hash": "64b18c46a41240890cd721fb81b021de",
-      "Size": 62822
+      "Hash": "9d9b91b1030bb0a4c7117084b9ecf694",
+      "Size": 61062
     },
     {
       "Path": "resources/packs/graphics6.asset",
-      "Hash": "e38e7d8e88c2fc7f0a356f20bb518d91",
-      "Size": 1334476
+      "Hash": "81eef0c299955cac5b2784c69a2b4253",
+      "Size": 1421797
     },
     {
       "Path": "resources/packs/graphics6.meta",
-      "Hash": "5bd26b969b7e2a83867f10aa6c72eabc",
-      "Size": 48865
+      "Hash": "65775fba8219fa956992dd0d66d0b25d",
+      "Size": 62070
     },
     {
       "Path": "resources/packs/graphics7.asset",
