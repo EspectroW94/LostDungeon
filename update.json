@@ -1157,13 +1157,13 @@
     },
     {
       "Path": "resources/packs/sound.index",
-      "Hash": "28319132320a13f5690256066a225456",
-      "Size": 20636
+      "Hash": "99efb92f3cb21a225cdedad00eff5185",
+      "Size": 20732
     },
     {
       "Path": "resources/packs/sound0.asset",
-      "Hash": "1dd040814d32a67febe2bb8d27a2866f",
-      "Size": 23505956
+      "Hash": "7c4a2ed85f60ea5d8b1893d5a3cd8dcc",
+      "Size": 23792366
     },
     {
       "Path": "resources/sounds/armor-light.wav",
@@ -1374,6 +1374,11 @@
       "Path": "resources/sounds/creak3.wav",
       "Hash": "9b9271e72079cefbe8973e6fe211ba69",
       "Size": 66382
+    },
+    {
+      "Path": "resources/sounds/dog1.wav",
+      "Hash": "4ca17d108b01d0f0817ce293ef966374",
+      "Size": 286330
     },
     {
       "Path": "resources/sounds/door.wav",
