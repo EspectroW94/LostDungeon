@@ -1097,23 +1097,23 @@
     },
     {
       "Path": "resources/packs/graphics5.asset",
-      "Hash": "d032545f20197b35bee6277ac5afb09f",
-      "Size": 3049524
+      "Hash": "7155069caf82ce54f3b86336d905808b",
+      "Size": 3050953
     },
     {
       "Path": "resources/packs/graphics5.meta",
-      "Hash": "a5df0f67488215c7d08ba1c093568b8f",
+      "Hash": "edf195da85e4ebd3af728b2da6c3c1f6",
       "Size": 61062
     },
     {
       "Path": "resources/packs/graphics6.asset",
-      "Hash": "3deccd557395cde91bc08ff66003dd63",
-      "Size": 1417541
+      "Hash": "664b5df894b54dfb931422e84fba74d2",
+      "Size": 1417605
     },
     {
       "Path": "resources/packs/graphics6.meta",
-      "Hash": "ef713311b60a6555cd412b0739c57347",
-      "Size": 64294
+      "Hash": "886318d872df328dd04943d1411b0db9",
+      "Size": 63558
     },
     {
       "Path": "resources/packs/graphics7.asset",
@@ -1147,23 +1147,93 @@
     },
     {
       "Path": "resources/packs/music.index",
-      "Hash": "711d53047d6422e5d1d0725871c8bc07",
-      "Size": 8679
+      "Hash": "f0e6cc822dc971441c89bf41cb93ead5",
+      "Size": 8503
     },
     {
       "Path": "resources/packs/music0.asset",
-      "Hash": "e17bf7864f79c9b823fcc848670581a0",
-      "Size": 97793075
+      "Hash": "6477194f8c34526c1e0de864f9f128fc",
+      "Size": 6643328
+    },
+    {
+      "Path": "resources/packs/music1.asset",
+      "Hash": "f23cb7388f16ffa85913fccce06262d7",
+      "Size": 7893804
+    },
+    {
+      "Path": "resources/packs/music10.asset",
+      "Hash": "d63b848147da7e2069822809d17e2d1c",
+      "Size": 7606994
+    },
+    {
+      "Path": "resources/packs/music11.asset",
+      "Hash": "85239e5551e897174c4d1404cb2f8dcb",
+      "Size": 7617111
+    },
+    {
+      "Path": "resources/packs/music12.asset",
+      "Hash": "80675ef739b19d2e5562ebe2f24074d5",
+      "Size": 6350166
+    },
+    {
+      "Path": "resources/packs/music2.asset",
+      "Hash": "2ab064561a1db02241072199bccc0b90",
+      "Size": 7382241
+    },
+    {
+      "Path": "resources/packs/music3.asset",
+      "Hash": "a36b871431dfe1c67201c2e4c6834e36",
+      "Size": 6971428
+    },
+    {
+      "Path": "resources/packs/music4.asset",
+      "Hash": "f9e8673a4f130e5938ca6d31597f3c90",
+      "Size": 8015071
+    },
+    {
+      "Path": "resources/packs/music5.asset",
+      "Hash": "359230cffe2eeec4fa0b7b60d09b7211",
+      "Size": 7519177
+    },
+    {
+      "Path": "resources/packs/music6.asset",
+      "Hash": "251be436096efa2246223e5d2993d91f",
+      "Size": 8314158
+    },
+    {
+      "Path": "resources/packs/music7.asset",
+      "Hash": "e60de1c4e51a0e9d4424f66871421e3d",
+      "Size": 7848221
+    },
+    {
+      "Path": "resources/packs/music8.asset",
+      "Hash": "3b560961ffd180fcdbc5f37249a96c36",
+      "Size": 7459909
+    },
+    {
+      "Path": "resources/packs/music9.asset",
+      "Hash": "f9498c830acf5b2748ed7d81354fe306",
+      "Size": 8171825
     },
     {
       "Path": "resources/packs/sound.index",
-      "Hash": "99efb92f3cb21a225cdedad00eff5185",
-      "Size": 20732
+      "Hash": "7c0b2952b1b02befdb8484e149590594",
+      "Size": 20364
     },
     {
       "Path": "resources/packs/sound0.asset",
-      "Hash": "7c4a2ed85f60ea5d8b1893d5a3cd8dcc",
-      "Size": 23792366
+      "Hash": "35f16c228b27760b5edf64a74d5169c8",
+      "Size": 8251482
+    },
+    {
+      "Path": "resources/packs/sound1.asset",
+      "Hash": "8b4963f1d9a4bcff8c327edbeb4e1f02",
+      "Size": 8307001
+    },
+    {
+      "Path": "resources/packs/sound2.asset",
+      "Hash": "b85a26975199f28cc9edb63b4cebad62",
+      "Size": 7233956
     },
     {
       "Path": "resources/sounds/armor-light.wav",
