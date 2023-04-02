@@ -1083,8 +1083,8 @@
     },
     {
       "Path": "resources/packs/graphics39.asset",
-      "Hash": "2279f2d357eb4dd67689e56cab2bd3aa",
-      "Size": 2007897
+      "Hash": "4b61f7a4212a6654450936e09d629338",
+      "Size": 1655707
     },
     {
       "Path": "resources/packs/graphics39.meta",
@@ -1100,6 +1100,16 @@
       "Path": "resources/packs/graphics4.meta",
       "Hash": "4584f05f4b02dc670e309cadae343217",
       "Size": 21836
+    },
+    {
+      "Path": "resources/packs/graphics40.asset",
+      "Hash": "42a9ea5fdaa8bed76ce7e9f1e85ee212",
+      "Size": 1849255
+    },
+    {
+      "Path": "resources/packs/graphics40.meta",
+      "Hash": "9def31019ba0bc70070e141fd6cc29c7",
+      "Size": 535
     },
     {
       "Path": "resources/packs/graphics5.asset",
