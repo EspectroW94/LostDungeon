@@ -116,14 +116,14 @@
 
 	div#main{
 		display:inline-table;
-		padding:30px;
+		padding: 0px 30px 0px 30px;
 		width:100%;
 		max-width:860px;
 		height:auto;
 		text-align:left;
 		color:#FFF;
 		border-radius:10px;
-		background-color:#292929db;
+		background-color:#898686c9;
 		box-shadow:0 1px 0 rgb(255 255 255 / 15%), 0 0 10px rgb(0 0 0 / 50%) inset;
 		z-index:3;
 	}
@@ -188,4 +188,111 @@
 		  from{box-shadow:inset -3px 0px 0px #888;}
 		  to{box-shadow:inset -3px 0px 0px transparent;}
 	}
+	
+tr {
+    background-color: #00000061;
+    border: 1px solid black;
+}
+td{
+    border: 0px solid white;
+    border-collapse: collapse;
+    height: auto;
+	padding: 2px 10px 2px 3px;
+}
+td#icon{
+    height: 32px;
+    width: 32px;
+    padding: 2px 2px 2px 2px;
+}
+td#titulo{
+    padding: 0px 5px 0px 2px;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    border-style: double;
+}
+td#last{
+    padding: 0px 10px 0px 2px;
+    border-left: 3px solid black;
+    border-style: double;
+}
+table{
+    border: 0px solid white;
+    border-collapse: collapse;
+}
+img#icon{
+    border: 1px solid black;
+    background-color: black;
+}
+caption#titulo{
+    background-color: #00000061;
+    border: 1px solid black;
+    margin: 0px 0px 1px 0px;
+    text-shadow: 1px 3px #00000069;
+	padding: 5px 0px 5px 0px;
+}
+* {
+				margin:0px;
+				padding:0px;
+			}
+			
+			#header {
+		display:inline-table;
+		padding:5px 30px 5px 30px;
+		width:100%;
+		max-width:860px;
+		height:auto;
+		text-align:left;
+		color:#FFF;
+		border-radius:10px;
+		background-color:#898686c9;
+		box-shadow:0 1px 0 rgb(255 255 255 / 15%), 0 0 10px rgb(0 0 0 / 50%) inset;
+		z-index:3;
+		margin:0px 0px 10px 0px;
+			}
+			
+			ul, ol {
+				list-style:none;
+			}
+			
+			.nav > li {
+				float:left;
+				padding:0px 2px 0px 2px;
+			}
+			
+			.nav li a {
+				color:#fff;
+				text-decoration:none;
+				padding:10px 12px;
+				display:block;
+				box-shadow:0 1px 0 rgb(255 255 255 / 15%), 0 0 10px rgb(0 0 0 / 50%) inset;
+				border-radius: 20px;
+			}
+			
+			.nav li a:hover {
+				background-color:#434343;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			.nav li ul li ul {
+				right:-140px;
+				top:0px;
+			}
+			li#submenu{	
+					background-color:#898686;
+					box-shadow:0 1px 0 rgb(255 255 255 / 15%), 0 0 10px rgb(0 0 0 / 50%) inset;
+					border-radius: 20px;
+			}
 </style>
