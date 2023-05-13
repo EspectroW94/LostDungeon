@@ -1,5 +1,5 @@
 {
-  "Bounds": "499,215,442,469",
+  "Bounds": "291,149,442,469",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -51,7 +51,7 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "76,7,137,26",
+    "Bounds": "76,7,135,26",
     "Padding": "32,6,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -490,7 +490,7 @@
         "TextScale": 1.0
       },
       "ProductLabel": {
-        "Bounds": "216,20,53,16",
+        "Bounds": "216,20,54,16",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -550,7 +550,7 @@
         "TextScale": 1.0
       },
       "DestroyMaterialsChanceLabel": {
-        "Bounds": "216,96,237,16",
+        "Bounds": "216,96,165,16",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
