@@ -53,13 +53,13 @@
     },
     {
       "Path": "resources/gui/layouts/game/CharacterWindow.json",
-      "Hash": "91c721cf7bf828aa8a31a3c4bd2ee64a",
-      "Size": 67913
+      "Hash": "f1fbbef257805f62a6eea816a2062ab9",
+      "Size": 69588
     },
     {
       "Path": "resources/gui/layouts/game/ChatboxWindow.json",
-      "Hash": "18f7bdaf1f0fe8f4741c41df95e4631d",
-      "Size": 37592
+      "Hash": "166c6f66e0693f871aad884f8308c9e2",
+      "Size": 40122
     },
     {
       "Path": "resources/gui/layouts/game/ChatContextMenu.json",
@@ -73,12 +73,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/CraftingIngredient.json",
-      "Hash": "38f6d65dddb657d692a7341dee431c0f",
+      "Hash": "126b8545ea662c4b84560607e7c396ef",
       "Size": 2369
     },
     {
       "Path": "resources/gui/layouts/game/CraftingWindow.json",
-      "Hash": "6880b95aad0e45a81895a1984f7a3619",
+      "Hash": "2969069cabd5a108bf0d1082ee1eb2e4",
       "Size": 36349
     },
     {
@@ -133,7 +133,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_3Responses.json",
-      "Hash": "6f49cb7bf11bd152fdb2a657c3d3d446",
+      "Hash": "a299b8e137cedc2dad47b21bc17e8876",
       "Size": 27855
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "5ab7acdd8d5a4e1a65bb7ba0f59349f1",
+      "Hash": "c253366922faa39fa7d17ffd604ffcb2",
       "Size": 25563
     },
     {
@@ -253,7 +253,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "846ea52df1d361d1350969277e8fef6f",
+      "Hash": "f8f37d36f83775220986bae8c76787c3",
       "Size": 14736
     },
     {
@@ -303,7 +303,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/TradeWindow.json",
-      "Hash": "6d99d9b1d5b7e72fc958ef9796a8f9cc",
+      "Hash": "124434e29a0706c8fec5a419b78b1da4",
       "Size": 30939
     },
     {
