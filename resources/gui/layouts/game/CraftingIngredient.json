@@ -47,7 +47,7 @@
       "RightMouseClickSound": null
     },
     "IngredientItemValue": {
-      "Bounds": "2,24,32,11",
+      "Bounds": "8,24,26,11",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
