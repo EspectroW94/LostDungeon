@@ -73,13 +73,13 @@
     },
     {
       "Path": "resources/gui/layouts/game/CraftingIngredient.json",
-      "Hash": "126b8545ea662c4b84560607e7c396ef",
+      "Hash": "38f6d65dddb657d692a7341dee431c0f",
       "Size": 2369
     },
     {
       "Path": "resources/gui/layouts/game/CraftingWindow.json",
-      "Hash": "2969069cabd5a108bf0d1082ee1eb2e4",
-      "Size": 36349
+      "Hash": "d87923251d89e37685012f31feabda29",
+      "Size": 36348
     },
     {
       "Path": "resources/gui/layouts/game/DescriptionWindow.json",
