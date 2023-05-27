@@ -693,7 +693,7 @@
       }
     },
     "Response1Button": {
-      "Bounds": "403,135,100,20",
+      "Bounds": "12,107,496,44",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
