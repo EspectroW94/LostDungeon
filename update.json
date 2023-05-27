@@ -13,8 +13,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/AdminWindow.json",
-      "Hash": "a849348a9f721b96ee19479fd578207c",
-      "Size": 67410
+      "Hash": "00cbdace381e0129f05bec64426ba694",
+      "Size": 71499
     },
     {
       "Path": "resources/gui/layouts/game/AnnouncementWindow.json",
@@ -23,7 +23,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/BagContextMenu.json",
-      "Hash": "785de8f0af20b87026a58f1753c546cf",
+      "Hash": "bc8230ce91d8d4d194af5a5b836deb2d",
       "Size": 8667
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/BagWindow.json",
-      "Hash": "e68a6f823eb3715d7bbf7188580258e3",
+      "Hash": "f192e2d5410c972cd368183d89368eb2",
       "Size": 14719
     },
     {
       "Path": "resources/gui/layouts/game/BankContextMenu.json",
-      "Hash": "785de8f0af20b87026a58f1753c546cf",
+      "Hash": "bc8230ce91d8d4d194af5a5b836deb2d",
       "Size": 8667
     },
     {
@@ -73,12 +73,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/CraftingIngredient.json",
-      "Hash": "38f6d65dddb657d692a7341dee431c0f",
-      "Size": 2369
+      "Hash": "a03c5ce27df91d7d0798ba8a24a29df3",
+      "Size": 2370
     },
     {
       "Path": "resources/gui/layouts/game/CraftingWindow.json",
-      "Hash": "d87923251d89e37685012f31feabda29",
+      "Hash": "d3d62ed15de91a4f54eb30c37f0c221c",
       "Size": 36348
     },
     {
@@ -123,8 +123,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_1Response.json",
-      "Hash": "803df264f85feab7ca76dd7a8801dc08",
-      "Size": 25254
+      "Hash": "c81530daea99584898361cf59f6401c7",
+      "Size": 25253
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_2Responses.json",
@@ -133,7 +133,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_3Responses.json",
-      "Hash": "a299b8e137cedc2dad47b21bc17e8876",
+      "Hash": "86ed3a34baa65bc589f956e2c0708ca8",
       "Size": 27855
     },
     {
@@ -168,12 +168,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "ca5b2595468142534a960c557e9f23d5",
+      "Hash": "a2098936920ef3c674fa9420e8515182",
       "Size": 15213
     },
     {
       "Path": "resources/gui/layouts/game/InventoryContextMenu.json",
-      "Hash": "f2ffebc43d978b8f70dd5cdaac5ab1dc",
+      "Hash": "05f8ef3709af61b1154473e46e659cd2",
       "Size": 8667
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "c253366922faa39fa7d17ffd604ffcb2",
+      "Hash": "5ab7acdd8d5a4e1a65bb7ba0f59349f1",
       "Size": 25563
     },
     {
@@ -253,7 +253,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "f8f37d36f83775220986bae8c76787c3",
+      "Hash": "846ea52df1d361d1350969277e8fef6f",
       "Size": 14736
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "fb8d04ad42e1e5705b2e1a477c7fcc37",
+      "Hash": "37e3dfaeb41244c7768b61dd558a67b7",
       "Size": 15212
     },
     {
@@ -373,8 +373,8 @@
     },
     {
       "Path": "resources/gui/layouts/shared/SettingsWindow.json",
-      "Hash": "b4f5088197d67b914528ab163f06ef8d",
-      "Size": 364733
+      "Hash": "160d17bd540c1f138cdb0fa43dd84a8c",
+      "Size": 368880
     },
     {
       "Path": "resources/music/Adrift.ogg",
