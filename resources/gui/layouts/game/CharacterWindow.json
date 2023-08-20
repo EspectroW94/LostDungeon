@@ -1,5 +1,5 @@
 {
-  "Bounds": "658,208,360,500",
+  "Bounds": "994,208,360,500",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,6,60",
   "AlignmentTransform": "0,0",
@@ -1703,7 +1703,7 @@
         }
       },
       "EquipmentItem21": {
-        "Bounds": "0,0,10,10",
+        "Bounds": "55,144,36,36",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1718,16 +1718,16 @@
         "RestrictToParent": false,
         "MouseInputEnabled": true,
         "HideToolTip": false,
-        "ToolTipBackground": null,
-        "ToolTipFont": null,
-        "ToolTipTextColor": "",
-        "Texture": null,
+        "ToolTipBackground": "tooltip.png",
+        "ToolTipFont": "sourcesansproblack,10",
+        "ToolTipTextColor": "255,255,255,255",
+        "Texture": "equipmentitem.png",
         "HoverSound": null,
         "LeftMouseClickSound": null,
         "RightMouseClickSound": null,
         "Children": {
           "EquipmentIcon": {
-            "Bounds": "0,0,10,10",
+            "Bounds": "2,2,32,32",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
