@@ -295,4 +295,46 @@ caption#titulo{
 					box-shadow:0 1px 0 rgb(255 255 255 / 15%), 0 0 10px rgb(0 0 0 / 50%) inset;
 					border-radius: 20px;
 			}
+
+ldimage {
+	border-radius: 0%;
+    height: 32px;
+    position: relative;
+    width: 32px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+ldimage:after {
+  background-color: rgba(0, 0, 0, .5);
+  border-radius: 5px;
+  color: #fff;
+  content: attr(desc);
+  opacity: 0;
+  padding: 6px 12px;
+  position: absolute;
+  left: 110%;
+  top: 30px;
+  transition: all .25s ease;
+  visibility: hidden;
+  z-index: 100;
+  white-space: break-spaces;
+}
+
+ldimage[tooltip-dir="left"]:after {
+  left: auto;
+  right: 110%;
+}
+
+ldimage:hover:after {
+  opacity: 1;
+  visibility: visible;
+}
+
+select {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 6px 12px;
+}
+
 </style>
