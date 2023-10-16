@@ -306,7 +306,7 @@ ldimage {
 }
 
 ldimage:after {
-  background-color: rgba(0, 0, 0, .5);
+  background-color: rgba(0, 0, 0, .8);
   border-radius: 5px;
   color: #fff;
   content: attr(desc);
@@ -318,7 +318,8 @@ ldimage:after {
   transition: all .25s ease;
   visibility: hidden;
   z-index: 100;
-  white-space: break-spaces;
+  white-space: pre;
+  text-align: left;
 }
 
 ldimage[tooltip-dir="left"]:after {
