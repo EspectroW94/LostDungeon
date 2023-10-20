@@ -172,11 +172,6 @@
       "Size": 59313
     },
     {
-      "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "60263e3a0a8af8a4f689933cf1cedfb8",
-      "Size": 15213
-    },
-    {
       "Path": "resources/gui/layouts/game/InventoryContextMenu.json",
       "Hash": "05f8ef3709af61b1154473e46e659cd2",
       "Size": 8667
