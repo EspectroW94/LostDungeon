@@ -328,7 +328,7 @@
     },
     {
       "Path": "resources/gui/layouts/menu/CreditsWindow.json",
-      "Hash": "94f806c4cda437bc113e0922f1afab56",
+      "Hash": "6bb4d61ab73d64033806a70dcefdbe40",
       "Size": 13815
     },
     {
@@ -338,8 +338,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "37e3dfaeb41244c7768b61dd558a67b7",
-      "Size": 15212
+      "Hash": "61b64ace312db3b3911d375ed66bc6da",
+      "Size": 15242
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
@@ -350,6 +350,16 @@
       "Path": "resources/gui/layouts/menu/Logo.json",
       "Hash": "1013f980efe9c3c09a9a334712d95e2c",
       "Size": 628
+    },
+    {
+      "Path": "resources/gui/layouts/menu/MainMenuWindow_online.json",
+      "Hash": "6ba05a8509abb2647ec80745e75ac9dc",
+      "Size": 12077
+    },
+    {
+      "Path": "resources/gui/layouts/menu/MainMenuWindow_singleplayer.json",
+      "Hash": "96cb0c04235eca7f292166e32aac3bd9",
+      "Size": 11906
     },
     {
       "Path": "resources/gui/layouts/menu/MenuWindow.json",
