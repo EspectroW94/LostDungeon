@@ -2,8 +2,8 @@
   "Files": [
     {
       "Path": "Lost Dungeon.exe",
-      "Hash": "6e21efc27da4be8e3c47168c7c48a628",
-      "Size": 96828982
+      "Hash": "cdba56afd5130330fc80e2c6877b84ad",
+      "Size": 96833078
     },
     {
       "Path": "resources/client_strings.json",
@@ -350,6 +350,16 @@
       "Path": "resources/gui/layouts/menu/Logo.json",
       "Hash": "1013f980efe9c3c09a9a334712d95e2c",
       "Size": 628
+    },
+    {
+      "Path": "resources/gui/layouts/menu/MainMenuWindow_online.json",
+      "Hash": "c2505a42ec5641b8e6e50996c0c27efa",
+      "Size": 11981
+    },
+    {
+      "Path": "resources/gui/layouts/menu/MainMenuWindow_singleplayer.json",
+      "Hash": "96cb0c04235eca7f292166e32aac3bd9",
+      "Size": 11906
     },
     {
       "Path": "resources/gui/layouts/menu/MenuWindow.json",
