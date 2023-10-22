@@ -58,8 +58,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/CharacterWindow.json",
-      "Hash": "57aff2694abfa2d3d46bd8a52b4128db",
-      "Size": 78341
+      "Hash": "d68c62ebb9ec07ef683507cea2a3d9e5",
+      "Size": 80077
     },
     {
       "Path": "resources/gui/layouts/game/ChatboxWindow.json",
@@ -808,53 +808,53 @@
     },
     {
       "Path": "resources/packs/graphics12.asset",
-      "Hash": "62de04da31d1ebe123f8148a247379c1",
-      "Size": 1269295
+      "Hash": "3fbfaabfc61d1d95993f99a5ab55db54",
+      "Size": 1263967
     },
     {
       "Path": "resources/packs/graphics12.meta",
-      "Hash": "1729db68490b27e6d8660038a4bf9826",
+      "Hash": "aaf6dbdc6610c9fafda55da86549f716",
       "Size": 6606
     },
     {
       "Path": "resources/packs/graphics13.asset",
-      "Hash": "907e67554348a5d04c3aae85fb146d2c",
-      "Size": 2058031
+      "Hash": "49deef55f1e9a7a35aa394d826dace62",
+      "Size": 2056655
     },
     {
       "Path": "resources/packs/graphics13.meta",
-      "Hash": "54288d2bf8f56e2db7000fd3b9be7706",
+      "Hash": "4be465fddf5f7fd884bd1faf5f76e5d4",
       "Size": 3950
     },
     {
       "Path": "resources/packs/graphics14.asset",
-      "Hash": "04da118a2b03070344894b275fd780a2",
-      "Size": 2052063
+      "Hash": "df83f2f03586421b741b7e3b3aa95a47",
+      "Size": 2127235
     },
     {
       "Path": "resources/packs/graphics14.meta",
-      "Hash": "a4c1ee3f6d0cf656afbfb3b2ed3d0c68",
+      "Hash": "cfc0f9496e3149a15814c727d1bfa94c",
       "Size": 4318
     },
     {
       "Path": "resources/packs/graphics15.asset",
-      "Hash": "fed6231ad41600900cde87e0217f98c5",
-      "Size": 2692834
+      "Hash": "ec2f988ecddc4cfa630b7f178e4822a2",
+      "Size": 2691922
     },
     {
       "Path": "resources/packs/graphics15.meta",
-      "Hash": "91c05b682600d4838dc8e6eb3af58572",
-      "Size": 11678
+      "Hash": "795bf25712132fdca30fa3fb5bb28ef6",
+      "Size": 11694
     },
     {
       "Path": "resources/packs/graphics16.asset",
-      "Hash": "283b1eb09971a0b92ba267979535224a",
-      "Size": 2618777
+      "Hash": "933fb2574d596b3805042d15273516d5",
+      "Size": 2631758
     },
     {
       "Path": "resources/packs/graphics16.meta",
-      "Hash": "c8a5c0ef38ac8250dcd1a9b0ae9fa225",
-      "Size": 7006
+      "Hash": "74fd2dc90b6662b7b85520c6ce3abb21",
+      "Size": 7374
     },
     {
       "Path": "resources/packs/graphics17.asset",
@@ -1248,12 +1248,12 @@
     },
     {
       "Path": "resources/packs/graphics9.asset",
-      "Hash": "807e4507765eedcf5ad655a8145dbd22",
-      "Size": 4141226
+      "Hash": "5b3cf300bc2e2e5ef569277c360dd414",
+      "Size": 4123381
     },
     {
       "Path": "resources/packs/graphics9.meta",
-      "Hash": "8cc46eb2729b5f4cb182138ff66d8c65",
+      "Hash": "97527ca8d4791c1841aa51b8d622ca2b",
       "Size": 8830
     },
     {
