@@ -1188,23 +1188,13 @@
     },
     {
       "Path": "resources/packs/graphics47.asset",
-      "Hash": "0e4eef39c2ccf553e8126373367eaf32",
-      "Size": 1696721
+      "Hash": "7c582adf58c5350d48459c607b2a1157",
+      "Size": 1717190
     },
     {
       "Path": "resources/packs/graphics47.meta",
       "Hash": "055212a95783aacf3a03c8f5f4d6f9a6",
       "Size": 926
-    },
-    {
-      "Path": "resources/packs/graphics48.asset",
-      "Hash": "18826b8f6e08f6d9de748dc1d72bbc7d",
-      "Size": 1849262
-    },
-    {
-      "Path": "resources/packs/graphics48.meta",
-      "Hash": "be859528497530057b992f55667e3fe9",
-      "Size": 542
     },
     {
       "Path": "resources/packs/graphics5.asset",
