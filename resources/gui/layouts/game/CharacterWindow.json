@@ -283,7 +283,7 @@
         "TextScale": 1.0
       },
       "AttackLabel": {
-        "Bounds": "4,320,1,14",
+        "Bounds": "25,320,1,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -313,7 +313,7 @@
         "TextScale": 1.0
       },
       "IncreaseAttackButton": {
-        "Bounds": "65,322,9,9",
+        "Bounds": "4,322,9,9",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -351,7 +351,7 @@
         "ClickSound": ""
       },
       "DefenseLabel": {
-        "Bounds": "4,335,1,14",
+        "Bounds": "25,335,1,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -381,7 +381,7 @@
         "TextScale": 1.0
       },
       "IncreaseDefenseButton": {
-        "Bounds": "70,337,9,9",
+        "Bounds": "4,337,9,9",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -419,7 +419,7 @@
         "ClickSound": ""
       },
       "SpeedLabel": {
-        "Bounds": "4,350,1,14",
+        "Bounds": "25,350,1,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -449,7 +449,7 @@
         "TextScale": 1.0
       },
       "IncreaseSpeedButton": {
-        "Bounds": "72,352,9,9",
+        "Bounds": "4,352,9,9",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -487,7 +487,7 @@
         "ClickSound": ""
       },
       "AbilityPowerLabel": {
-        "Bounds": "4,365,1,14",
+        "Bounds": "25,365,1,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -517,7 +517,7 @@
         "TextScale": 1.0
       },
       "IncreaseAbilityPowerButton": {
-        "Bounds": "122,367,9,9",
+        "Bounds": "4,367,9,9",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -555,7 +555,7 @@
         "ClickSound": ""
       },
       "MagicResistLabel": {
-        "Bounds": "4,380,1,14",
+        "Bounds": "25,380,1,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -585,7 +585,7 @@
         "TextScale": 1.0
       },
       "IncreaseMagicResistButton": {
-        "Bounds": "125,382,9,9",
+        "Bounds": "4,382,9,9",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
