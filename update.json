@@ -2,8 +2,8 @@
   "Files": [
     {
       "Path": "Lost Dungeon.exe",
-      "Hash": "0353e170910e16a5ab0f8da485ebc66d",
-      "Size": 45963193
+      "Hash": "0028f54ff91cdbbb742a81ef6cddd3d7",
+      "Size": 45957597
     },
     {
       "Path": "resources/client_strings.json",
@@ -1328,23 +1328,28 @@
     },
     {
       "Path": "resources/packs/sound.index",
-      "Hash": "76855c1760d112709f5bf370169143f4",
-      "Size": 21459
+      "Hash": "b65e946460158a1c7f7b99341081d604",
+      "Size": 21523
     },
     {
       "Path": "resources/packs/sound0.asset",
-      "Hash": "49e008a17c45bb0e65c6cda2a288de5b",
-      "Size": 8214722
+      "Hash": "2bc5fc4a2b13965cd7537407a5a770ad",
+      "Size": 8178728
     },
     {
       "Path": "resources/packs/sound1.asset",
-      "Hash": "02fd42a31e393af43b7b8a9be52becd3",
-      "Size": 8358959
+      "Hash": "e386b41c552a1cebcf111c49dd01b0de",
+      "Size": 8281254
     },
     {
       "Path": "resources/packs/sound2.asset",
-      "Hash": "893c1614b8d78eda07873543c781461f",
-      "Size": 8372100
+      "Hash": "0c8836e2f8cdecd30ad19c52b665c1fb",
+      "Size": 8382164
+    },
+    {
+      "Path": "resources/packs/sound3.asset",
+      "Hash": "9ff6a267cc71842976ac33be27c0cadd",
+      "Size": 1548820
     },
     {
       "Path": "resources/sounds/armor-light.wav",
@@ -2405,6 +2410,11 @@
       "Path": "resources/sounds/Thunder4.wav",
       "Hash": "1793f289cc303cbb8a400125f9f8601f",
       "Size": 43854
+    },
+    {
+      "Path": "resources/sounds/ticking-clock.wav",
+      "Hash": "e7290a4a3e8494f9a12a2813ea320163",
+      "Size": 1444686
     },
     {
       "Path": "resources/sounds/wolfman.wav",
