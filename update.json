@@ -12,6 +12,11 @@
       "EditorIgnore": true
     },
     {
+      "Path": "resources/config.json",
+      "Hash": "ad1e8a1f3bc9bca6717f9507070efb63",
+      "Size": 1186
+    },
+    {
       "Path": "resources/gui/layouts/debug/DebugWindow.json",
       "Hash": "29ae4f97e1218e5013147267f54489cd",
       "Size": 13851
