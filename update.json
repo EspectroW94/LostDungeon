@@ -2443,8 +2443,8 @@
     },
     {
       "Path": "resources/updater/background.png",
-      "Hash": "e3082542acf4ac50ef4a11d2b3c23f78",
-      "Size": 989068
+      "Hash": "ab248688b238ee251a3c0fa9307fe97d",
+      "Size": 1037655
     },
     {
       "Path": "resources/updater/font.xnb",
@@ -2458,8 +2458,8 @@
     },
     {
       "Path": "resources/updater/progressbar.png",
-      "Hash": "e69aca96224452593d30f4df4097c011",
-      "Size": 17245
+      "Hash": "c1d94055d2e9e007745d95ff2b2d7ab9",
+      "Size": 27858
     }
   ],
   "TrustCache": true
