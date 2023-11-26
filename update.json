@@ -63,8 +63,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/CharacterWindow.json",
-      "Hash": "933c705830f188d3c03f3d03a9d2d3e4",
-      "Size": 80268
+      "Hash": "734daa7e893b9755e05732835d98e5d5",
+      "Size": 82009
     },
     {
       "Path": "resources/gui/layouts/game/ChatboxWindow.json",
@@ -1223,8 +1223,8 @@
     },
     {
       "Path": "resources/packs/graphics5.asset",
-      "Hash": "e43875f3acd5b4009488068e401f8c14",
-      "Size": 2369470
+      "Hash": "922f18ee0ce9adf0ebdf5f003499b785",
+      "Size": 2384083
     },
     {
       "Path": "resources/packs/graphics5.meta",
