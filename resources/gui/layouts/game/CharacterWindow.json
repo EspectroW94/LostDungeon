@@ -2071,7 +2071,7 @@
         "ToolTipBackground": "tooltip.png",
         "ToolTipFont": "sourcesansproblack,10",
         "ToolTipTextColor": "255,255,255,255",
-        "Texture": "equipmentitem_titulo.png",
+        "Texture": "equipmentitem_face.png",
         "HoverSound": null,
         "LeftMouseClickSound": null,
         "RightMouseClickSound": null,
