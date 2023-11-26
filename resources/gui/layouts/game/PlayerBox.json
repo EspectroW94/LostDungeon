@@ -167,7 +167,7 @@
           "TextScale": 1.0
         },
         "EntityGraphicContainer": {
-          "Bounds": "238,15,40,70",
+          "Bounds": "230,15,70,70",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",

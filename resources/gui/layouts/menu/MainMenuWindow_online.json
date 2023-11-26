@@ -20,8 +20,8 @@
   "ClampMovement": true,
   "ActiveImage": "mainmenu.png",
   "InactiveImage": "mainmenu.png",
-  "ActiveColor": "",
-  "InactiveColor": "",
+  "ActiveColor": "255,255,255,255",
+  "InactiveColor": "255,191,191,191",
   "Closable": false,
   "Titlebar": {
     "Bounds": "0,0,451,36",

@@ -233,7 +233,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "e3987beaa843b1326a29866c0e5fb348",
+      "Hash": "a392a35a10b91479564022ab70368a6d",
       "Size": 25563
     },
     {
@@ -358,8 +358,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/MainMenuWindow_online.json",
-      "Hash": "0c810725ae736f1fc98d3ffc2a89a4c5",
-      "Size": 12097
+      "Hash": "199bb057343fcffae759fe071b9c9206",
+      "Size": 12127
     },
     {
       "Path": "resources/gui/layouts/menu/MainMenuWindow_singleplayer.json",
