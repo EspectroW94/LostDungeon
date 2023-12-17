@@ -30,7 +30,7 @@
       "Margin": "0,0,0,0",
       "RenderColor": "255,255,255,255",
       "Alignments": "",
-      "DrawBackground": true,
+      "DrawBackground": false,
       "MinimumSize": "1,1",
       "MaximumSize": "4096,4096",
       "Disabled": false,
@@ -47,7 +47,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "EntityNameLabel": {
-          "Bounds": "76,7,77,20",
+          "Bounds": "76,7,55,20",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -118,7 +118,7 @@
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
           "Disabled": false,
-          "Hidden": false,
+          "Hidden": true,
           "RestrictToParent": false,
           "MouseInputEnabled": false,
           "HideToolTip": false,
@@ -260,7 +260,7 @@
           "RightMouseClickSound": null
         },
         "ShieldBar": {
-          "Bounds": "233,73,50,7",
+          "Bounds": "49,27,170,7",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -271,7 +271,7 @@
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
           "Disabled": false,
-          "Hidden": true,
+          "Hidden": false,
           "RestrictToParent": false,
           "MouseInputEnabled": true,
           "HideToolTip": false,
