@@ -63,8 +63,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/CharacterWindow.json",
-      "Hash": "80e0d7c095dc9ac3548e58eb7da49532",
-      "Size": 82007
+      "Hash": "54bd4a9d6c00f6d541c809c0072a6c27",
+      "Size": 88951
     },
     {
       "Path": "resources/gui/layouts/game/ChatboxWindow.json",
@@ -2453,8 +2453,8 @@
     },
     {
       "Path": "resources/updater/background.png",
-      "Hash": "ab248688b238ee251a3c0fa9307fe97d",
-      "Size": 1037655
+      "Hash": "718a6a97cdea2be54d8e70e769c2ca8f",
+      "Size": 996332
     },
     {
       "Path": "resources/updater/font.xnb",
@@ -2468,8 +2468,8 @@
     },
     {
       "Path": "resources/updater/progressbar.png",
-      "Hash": "c1d94055d2e9e007745d95ff2b2d7ab9",
-      "Size": 27858
+      "Hash": "5eecaf51e13c8fa129f460840838caa3",
+      "Size": 20669
     }
   ],
   "TrustCache": true
