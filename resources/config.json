@@ -1,6 +1,6 @@
 ﻿{
-  "Host": "ld.servegame.com",
-  "Port": 5400,
+  "Host": "na2.hosting.freemmorpgmaker.com",
+  "Port": 5861,
   "GameFont": "sourcesansproblack",
   "EntityNameFont": "sourcesansproblack",
   "ChatBubbleFont": "sourcesansproblack",
@@ -17,6 +17,7 @@
   "UpdateUrl": "https://espectrow94.github.io/LostDungeon/update.json",
   "MouseCursor": "",
   "MusicFadeTimer": 1500,
+  "FadeDurationMs": 3000.0,
   "EnableContextMenus": true,
   "EnableZebraStripedRows": true,
   "UiSkin": "Intersect2021",

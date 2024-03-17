@@ -2,8 +2,8 @@
   "Files": [
     {
       "Path": "Lost Dungeon.exe",
-      "Hash": "e36987d2d1c2d81a28ffd6c5adfa3817",
-      "Size": 45864183
+      "Hash": "06772eb1ea2055986aa3c415e7f1b502",
+      "Size": 45808168
     },
     {
       "Path": "resources/client_strings.json",
@@ -13,8 +13,8 @@
     },
     {
       "Path": "resources/config.json",
-      "Hash": "ad1e8a1f3bc9bca6717f9507070efb63",
-      "Size": 1186
+      "Hash": "b5ac826c8cc13ad0e52b3f2cff554150",
+      "Size": 1230
     },
     {
       "Path": "resources/gui/layouts/debug/DebugWindow.json",
