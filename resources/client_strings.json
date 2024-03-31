@@ -122,9 +122,9 @@
   "Chatbox": {
     "channel": "Canal:",
     "channels": {
-      "0": "local",
-      "1": "global",
-      "2": "party",
+      "0": "Local",
+      "1": "Global",
+      "2": "Party",
       "3": "Gremio"
     },
     "channeladmin": "admin",
@@ -139,7 +139,7 @@
       "Local": "Local",
       "Party": "Party",
       "Global": "Global",
-      "Guild": "Gremio",
+      "Guild": "Gramio",
       "System": "System"
     },
     "UnableToCopy": "It appears you are not able to copy/paste on this platform. Please make sure you have either the 'xclip' or 'wl-clipboard' packages installed if you are running Linux.",
@@ -211,7 +211,7 @@
       "opendebugger": "Abrir Debugger:",
       "openadminpanel": "Abrir Admin Panel:",
       "togglegui": "Toggle Interface:",
-      "openguild": "Open Guild:",
+      "openguild": "Abrir Gremio:",
       "turnaround": "Hold to turn around:",
       "togglezoomin": "Toggle Zoom In:",
       "holdtozoomin": "Hold to Zoom In:",
@@ -1024,7 +1024,7 @@
     "StatGrowthRange": "{00} to {01}"
   },
   "Settings": {
-    "Apply": "Apply",
+    "Apply": "Aplicar",
     "AudioSettingsTab": "Audio",
     "AutoCloseWindows": "Auto-close Windows",
     "Cancel": "Cancel",
