@@ -33,7 +33,8 @@
     "unmuteprompt": "Estás seguro de que quieres desmutear a {00}?",
     "warp2me": "Transportar a mi",
     "warpme2": "Transportarme a",
-    "OverworldReturn": "Leave Instance"
+    "OverworldReturn": "Leave Instance",
+    "Zoom": "Zoom"
   },
   "Bags": {
     "retreiveitem": "Recuperar Item",
@@ -47,7 +48,9 @@
     "deposititemprompt": "Cuantos {00} quieres depositar?",
     "title": "Banco",
     "withdrawitem": "Retirar Item",
-    "withdrawitemprompt": "Cuantos {00} Quieres retirar?"
+    "withdrawitemprompt": "Cuantos {00} Quieres retirar?",
+    "NoSpace": "There is no space left in your bank for that item!",
+    "WithdrawItemNoSpace": "There is no space left in your inventory for that item!"
   },
   "BanMute": {
     "oneday": "1 Dia",
@@ -136,10 +139,12 @@
       "Local": "Local",
       "Party": "Party",
       "Global": "Global",
-      "Guild": "Gramio",
+      "Guild": "Gremio",
       "System": "System"
     },
-    "UnableToCopy": "It appears you are not able to copy/paste on this platform. Please make sure you have either the 'xclip' or 'wl-clipboard' packages installed if you are running Linux."
+    "UnableToCopy": "It appears you are not able to copy/paste on this platform. Please make sure you have either the 'xclip' or 'wl-clipboard' packages installed if you are running Linux.",
+    "ToggleLogButtonToolTip": "Toggle chat log visibility",
+    "ClearLogButtonToolTip": "Clear chat log messages"
   },
   "Colors": {
     "presets": {
@@ -207,7 +212,12 @@
       "openadminpanel": "Abrir Admin Panel:",
       "togglegui": "Toggle Interface:",
       "openguild": "Open Guild:",
-      "turnaround": "Hold to turn around:"
+      "turnaround": "Hold to turn around:",
+      "togglezoomin": "Toggle Zoom In:",
+      "holdtozoomin": "Hold to Zoom In:",
+      "togglezoomout": "Toggle Zoom Out:",
+      "holdtozoomout": "Hold to Zoom Out:",
+      "togglefullscreen": "Toggle Fullscreen:"
     },
     "edit": "Editar controles",
     "listening": "Listening",
@@ -287,7 +297,9 @@
     "title": "Error!",
     "usernameinvalid": "Username is invalid. Please use alphanumeric characters with a length between 2 and 20.",
     "loadfile": "Failed to load a {00}. Please send the game administrator a copy of your errors log file in the logs directory.",
-    "lostconnection": "Lost connection to the game server. Please make sure you're connected to the internet and try again!"
+    "lostconnection": "Lost connection to the game server. Please make sure you're connected to the internet and try again!",
+    "HostNotFound": "DNS resolution error, please report this to the game administrator.",
+    "DisconnectionEvent": "Please provide this message to your administrator: {0}"
   },
   "Words": {
     "lcase_sound": "sound",
@@ -611,7 +623,8 @@
     "register": "Registrarse",
     "title": "Menú principal",
     "Settings": "Settings",
-    "SettingsTooltip": ""
+    "SettingsTooltip": "",
+    "Start": "Start"
   },
   "Options": {
     "fps30": "30",
@@ -874,7 +887,8 @@
     "SizeX": "Width",
     "SizeY": "Height",
     "SizeZ": "Depth",
-    "Type": "Type"
+    "Type": "Type",
+    "ResolutionXByY": "{0}x{1}"
   },
   "ItemContextMenu": {
     "Use": "Use {00}",
@@ -886,7 +900,8 @@
     "Sell": "Sell {00}",
     "Bank": "Bank {00}",
     "Bag": "Bag {00}",
-    "Trade": "Offer {00}"
+    "Trade": "Offer {00}",
+    "Cast": "Cast {00}"
   },
   "SpellContextMenu": {
     "Cast": "Cast {00}",
@@ -986,7 +1001,8 @@
       "Epico": "4:Epico",
       "Legendario": "5:Legendario",
       "Supremo": "6:Supremo",
-      "Reliquia": "7:Reliquia"
+      "Reliquia": "7:Reliquia",
+      "Unico": "8:Unico"
     },
     "Description": "{00}",
     "CastSpell": "Casts Spell: {00}",
@@ -1004,7 +1020,8 @@
     "DropOnDeath": "Drop chance on death:",
     "BlockChance": "Block Chance:",
     "BlockAmount": "Block Amount:",
-    "BlockAbsorption": "Block Absorption:"
+    "BlockAbsorption": "Block Absorption:",
+    "StatGrowthRange": "{00} to {01}"
   },
   "Settings": {
     "Apply": "Apply",
@@ -1049,7 +1066,10 @@
     "ShowMyOverheadHpBar": "Show my overhead HP bar",
     "ShowPartyOverheadHpBar": "Show party overhead HP bar",
     "ShowPlayerOverheadHpBar": "Show players overhead HP bar",
-    "TypewriterText": "Typewriter Text"
+    "TypewriterText": "Typewriter Text",
+    "AutoToggleChatLog": "Auto-toggle chat log visibility",
+    "UIScale": "UI Scale",
+    "WorldScale": "World Scale"
   },
   "SpellDescription": {
     "SpellTypes": {
