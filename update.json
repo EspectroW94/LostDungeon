@@ -1,7 +1,7 @@
 {
   "Files": [
     {
-      "Path": "Lost Dungeon.exe",
+      "Path": "Legends Resurrected Online.exe",
       "Hash": "06772eb1ea2055986aa3c415e7f1b502",
       "Size": 45808168
     },
@@ -793,12 +793,12 @@
     },
     {
       "Path": "resources/packs/graphics10.asset",
-      "Hash": "6fbae1c903606b3ceb1ba201d348447b",
-      "Size": 4682271
+      "Hash": "406ec0b8f904d70eb59746ade99f7afd",
+      "Size": 4683023
     },
     {
       "Path": "resources/packs/graphics10.meta",
-      "Hash": "0a30d87216b6bdc92cb7909ddd1bc74d",
+      "Hash": "3ba99ec6d1c9a282e107f7695088a9ac",
       "Size": 22563
     },
     {
@@ -813,43 +813,43 @@
     },
     {
       "Path": "resources/packs/graphics12.asset",
-      "Hash": "37199546a01c1e173f4700f3137cac52",
-      "Size": 1343315
+      "Hash": "7be0093c73995d0d783d0be6c29e1bf6",
+      "Size": 1358520
     },
     {
       "Path": "resources/packs/graphics12.meta",
-      "Hash": "1192976d91274f33f932abc0b7c7219d",
-      "Size": 45832
+      "Hash": "3d596642f76a3ba45bc6967bf5775803",
+      "Size": 45800
     },
     {
       "Path": "resources/packs/graphics13.asset",
-      "Hash": "4f1cad91cee3426ceed4e638f209be6b",
-      "Size": 1425036
+      "Hash": "b2dc8e827fad932ec80cb01abeaf0e2a",
+      "Size": 1410247
     },
     {
       "Path": "resources/packs/graphics13.meta",
-      "Hash": "23d522b1d489d878883c8c5cce66da81",
-      "Size": 33128
+      "Hash": "f53e58aa840e04983f851da37bb4405b",
+      "Size": 33048
     },
     {
       "Path": "resources/packs/graphics14.asset",
-      "Hash": "a57157b565691851064a0ad327f17658",
-      "Size": 1915042
+      "Hash": "a98153d6d88b02f2e1915fa88e9f454e",
+      "Size": 1916546
     },
     {
       "Path": "resources/packs/graphics14.meta",
-      "Hash": "404bd8d48f0718c4d339bc529d166d36",
-      "Size": 23219
+      "Hash": "cae48074b0dd21e787cf1d83104a0e07",
+      "Size": 23203
     },
     {
       "Path": "resources/packs/graphics15.asset",
-      "Hash": "0a87ad66d6176d80ad610bda984ab363",
-      "Size": 2094985
+      "Hash": "e2eb37d1da9718380055e7c0f4c922af",
+      "Size": 2116558
     },
     {
       "Path": "resources/packs/graphics15.meta",
-      "Hash": "1e68e95e15464929f5e3c05b5707e468",
-      "Size": 12270
+      "Hash": "ad5bea3a3e697c3f3f80129edf6e4882",
+      "Size": 15358
     },
     {
       "Path": "resources/packs/graphics16.asset",
@@ -1183,33 +1183,33 @@
     },
     {
       "Path": "resources/packs/graphics46.asset",
-      "Hash": "f06942e13e28968bd04333eca0f13ccc",
-      "Size": 315101
+      "Hash": "2d88b33d827f9d3c2077cb0fcf149965",
+      "Size": 396870
     },
     {
       "Path": "resources/packs/graphics46.meta",
-      "Hash": "861e724c5047f0d56893000541dfcb5f",
+      "Hash": "c46b0678b7b0d026a6715904e0bf8dac",
       "Size": 5790
     },
     {
       "Path": "resources/packs/graphics47.asset",
-      "Hash": "05f117f0c65c79e69aeab22395630ef2",
-      "Size": 175856
+      "Hash": "dd025cb2226f060ab703e2edc92b2e03",
+      "Size": 174240
     },
     {
       "Path": "resources/packs/graphics47.meta",
-      "Hash": "837ac6ce5b0d82ef6b0985bec1e09b80",
+      "Hash": "8639e788cdce234721021a23c15a7ffd",
       "Size": 6254
     },
     {
       "Path": "resources/packs/graphics48.asset",
-      "Hash": "1ea62d982825c974287def3dde1bfb5c",
-      "Size": 971781
+      "Hash": "b48930de796eb7e87b3eb1fb0e04d391",
+      "Size": 975541
     },
     {
       "Path": "resources/packs/graphics48.meta",
-      "Hash": "391c2858c065ba40fc69079d9519d5ff",
-      "Size": 3614
+      "Hash": "5a9f0166591861b6b23cce724ff27b1b",
+      "Size": 3982
     },
     {
       "Path": "resources/packs/graphics49.asset",
@@ -1283,43 +1283,43 @@
     },
     {
       "Path": "resources/packs/graphics6.asset",
-      "Hash": "863cc959840deb30bf2304f9994cd5c9",
-      "Size": 1179137
+      "Hash": "7de4cbc2cd8f10b60b44c79a0a66c095",
+      "Size": 1185334
     },
     {
       "Path": "resources/packs/graphics6.meta",
-      "Hash": "db4eb0be7ee89ff9f64ce17feddd7271",
-      "Size": 57597
+      "Hash": "fc5ed8114d24fa4bc2a9fd9689d64046",
+      "Size": 55357
     },
     {
       "Path": "resources/packs/graphics7.asset",
-      "Hash": "d0d50df36732f2bd50a4f817301837b8",
-      "Size": 1430897
+      "Hash": "f99610fe0b9f89d388ba2b346fc14a93",
+      "Size": 1428737
     },
     {
       "Path": "resources/packs/graphics7.meta",
-      "Hash": "10c49f12427d367d0cd018188bdb366c",
-      "Size": 63501
+      "Hash": "16672c968e477065389c96571afdb399",
+      "Size": 63517
     },
     {
       "Path": "resources/packs/graphics8.asset",
-      "Hash": "c6ffb299982d22611a0501db2ea93e87",
-      "Size": 1486976
+      "Hash": "612968a5bbce28a39211a6dbe52b3dcc",
+      "Size": 1485632
     },
     {
       "Path": "resources/packs/graphics8.meta",
-      "Hash": "ca372d3a60bd90c59b03333bc768de78",
-      "Size": 87351
+      "Hash": "fdae3552211fc3939b4bca760b02aadb",
+      "Size": 87319
     },
     {
       "Path": "resources/packs/graphics9.asset",
-      "Hash": "eee64fbb7a5b93eec6c37cf6eab0a23f",
-      "Size": 1536127
+      "Hash": "a20468d519fed6b592755a3ceac6a71e",
+      "Size": 1548132
     },
     {
       "Path": "resources/packs/graphics9.meta",
-      "Hash": "909d6475f47e9f151931763d4f94f255",
-      "Size": 75362
+      "Hash": "615aa29c7e5bac056ea1667f93197f29",
+      "Size": 75394
     },
     {
       "Path": "resources/packs/music.index",
