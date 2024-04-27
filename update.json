@@ -2,13 +2,13 @@
   "Files": [
     {
       "Path": "Legends Resurrected Online.exe",
-      "Hash": "8b58828d49685bf0876a9be265d53cd1",
-      "Size": 45795419
+      "Hash": "9648a46c9a20fb6d24901a9c741cd9ac",
+      "Size": 45797530
     },
     {
       "Path": "resources/client_strings.json",
-      "Hash": "af2fb575106d968a479eb9d0e08771e4",
-      "Size": 38703,
+      "Hash": "3d308588ca7e000207cbe620c5655354",
+      "Size": 38705,
       "EditorIgnore": true
     },
     {

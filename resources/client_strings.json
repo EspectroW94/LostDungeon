@@ -139,8 +139,8 @@
       "Local": "Local",
       "Party": "Party",
       "Global": "Global",
-      "Guild": "Gramio",
-      "System": "System"
+      "Guild": "Gremio",
+      "System": "Servidor"
     },
     "UnableToCopy": "It appears you are not able to copy/paste on this platform. Please make sure you have either the 'xclip' or 'wl-clipboard' packages installed if you are running Linux.",
     "ToggleLogButtonToolTip": "Toggle chat log visibility",
