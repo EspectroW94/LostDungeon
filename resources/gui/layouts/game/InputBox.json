@@ -1,5 +1,5 @@
 {
-  "Bounds": "454,317,452,198",
+  "Bounds": "454,317,452,220",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,32",
@@ -51,7 +51,7 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,204,29",
+    "Bounds": "0,0,115,29",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -139,7 +139,7 @@
     "ToolTipTextColor": "",
     "Children": {
       "Textbox": {
-        "Bounds": "72,60,308,22",
+        "Bounds": "72,120,308,22",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -150,7 +150,7 @@
         "MinimumSize": "1,1",
         "MaximumSize": "4096,4096",
         "Disabled": false,
-        "Hidden": false,
+        "Hidden": true,
         "RestrictToParent": false,
         "MouseInputEnabled": true,
         "HideToolTip": false,
@@ -208,7 +208,7 @@
         "MinimumSize": "1,1",
         "MaximumSize": "4096,4096",
         "Disabled": false,
-        "Hidden": false,
+        "Hidden": true,
         "RestrictToParent": false,
         "MouseInputEnabled": true,
         "HideToolTip": false,
@@ -242,6 +242,7 @@
             "BackgroundImage": null,
             "SnapToNotches": false,
             "NotchCount": 5,
+            "Notches": null,
             "SliderBar": {
               "Bounds": "22,-2,8,22",
               "Padding": "0,0,0,0",
@@ -305,7 +306,7 @@
         }
       },
       "YesButton": {
-        "Bounds": "90,100,96,35",
+        "Bounds": "90,145,96,35",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "50,0,0,0",
         "AlignmentTransform": "0,0",
@@ -343,7 +344,7 @@
         "ClickSound": ""
       },
       "NoButton": {
-        "Bounds": "266,100,96,35",
+        "Bounds": "266,145,96,35",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "50,0,0,0",
         "AlignmentTransform": "0,0",
@@ -381,7 +382,7 @@
         "ClickSound": ""
       },
       "OkayButton": {
-        "Bounds": "178,94,96,35",
+        "Bounds": "178,145,96,35",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "50,0,0,0",
         "AlignmentTransform": "0,0",
@@ -392,7 +393,7 @@
         "MinimumSize": "1,1",
         "MaximumSize": "4096,4096",
         "Disabled": false,
-        "Hidden": false,
+        "Hidden": true,
         "RestrictToParent": false,
         "MouseInputEnabled": true,
         "HideToolTip": false,
