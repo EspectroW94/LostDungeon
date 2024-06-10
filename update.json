@@ -2,8 +2,8 @@
   "Files": [
     {
       "Path": "Legends Resurrected Online.exe",
-      "Hash": "dcfa89b3750010025e0e44aa54819b30",
-      "Size": 45798160
+      "Hash": "58c96730ca530621fb00b86be6aa7b29",
+      "Size": 45800900
     },
     {
       "Path": "resources/client_strings.json",
@@ -23,8 +23,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/AdminWindow.json",
-      "Hash": "00cbdace381e0129f05bec64426ba694",
-      "Size": 71499
+      "Hash": "38ce98fe1029b2f0924704e1cda33094",
+      "Size": 69536
     },
     {
       "Path": "resources/gui/layouts/game/AnnouncementWindow.json",
@@ -1223,13 +1223,13 @@
     },
     {
       "Path": "resources/packs/graphics46.asset",
-      "Hash": "3a2794b901e183acee6ff249292cd628",
-      "Size": 2874777
+      "Hash": "a552e2e7083d550f3042b8fb7656a554",
+      "Size": 2339268
     },
     {
       "Path": "resources/packs/graphics46.meta",
-      "Hash": "549a60db5a90d09dc431f1f048d6e3a0",
-      "Size": 6654
+      "Hash": "e1fcaab24d9c92712978c42be85778e1",
+      "Size": 5118
     },
     {
       "Path": "resources/packs/graphics47.asset",
@@ -1243,22 +1243,22 @@
     },
     {
       "Path": "resources/packs/graphics48.asset",
-      "Hash": "5fa15b988b264ff90bd906aa218c1b95",
-      "Size": 4007954
+      "Hash": "8c0e51fb2a9133b3171e986269d06b3b",
+      "Size": 3970755
     },
     {
       "Path": "resources/packs/graphics48.meta",
-      "Hash": "1ed108679a0035773e7b635930fe7d82",
+      "Hash": "6223a088bd4624c2669c9ca1bbf8e60e",
       "Size": 7470
     },
     {
       "Path": "resources/packs/graphics49.asset",
-      "Hash": "3edb2c07083768e88bc6686329e9da82",
-      "Size": 4030407
+      "Hash": "481c761cffecef5aa376c3d11006827d",
+      "Size": 4030695
     },
     {
       "Path": "resources/packs/graphics49.meta",
-      "Hash": "074cf90212c94de68b38e5a7c1ac04ee",
+      "Hash": "7f334465f7603310d26892da452341e9",
       "Size": 7486
     },
     {
@@ -1273,33 +1273,33 @@
     },
     {
       "Path": "resources/packs/graphics50.asset",
-      "Hash": "6a8736f83bdc1bead8f8723c93952e75",
-      "Size": 3842720
+      "Hash": "26bdaf23cd68c681435a97c8ca3991a7",
+      "Size": 3931673
     },
     {
       "Path": "resources/packs/graphics50.meta",
-      "Hash": "e81c08ac9a7e20d842f5ea232cdb497d",
-      "Size": 7406
+      "Hash": "eac554c6d301051bcf9b0e9b2e40b890",
+      "Size": 7438
     },
     {
       "Path": "resources/packs/graphics51.asset",
-      "Hash": "d1013ab668faf81bc048703991b9859b",
-      "Size": 3274481
+      "Hash": "f8162abeaf74d138c1aa2ea0a988179e",
+      "Size": 3952894
     },
     {
       "Path": "resources/packs/graphics51.meta",
-      "Hash": "b85c1ecd3570ad2e280289b62cdb0ab6",
-      "Size": 15166
+      "Hash": "c74e25710b5a94ce2086093fc480b3d0",
+      "Size": 14430
     },
     {
       "Path": "resources/packs/graphics52.asset",
-      "Hash": "2a34f32b7d3e952399ab96608e54db23",
-      "Size": 1811108
+      "Hash": "13c7eedea7e81a857e4bb5975d32efaf",
+      "Size": 1919698
     },
     {
       "Path": "resources/packs/graphics52.meta",
-      "Hash": "fb34fc3054102cf51f0b28511752440e",
-      "Size": 11390
+      "Hash": "0c0475c763d1d249c2ab5431f068f73a",
+      "Size": 11422
     },
     {
       "Path": "resources/packs/graphics53.asset",
@@ -1713,33 +1713,33 @@
     },
     {
       "Path": "resources/packs/graphics90.asset",
-      "Hash": "ec3433b6054a7931aeeeeac72374332a",
-      "Size": 1479744
+      "Hash": "3b7a8dffc955ac4338295bd1f6aa9836",
+      "Size": 1369805
     },
     {
       "Path": "resources/packs/graphics90.meta",
-      "Hash": "4e68240b74a85e74180b5b257d76611b",
-      "Size": 5422
+      "Hash": "10009ccb6c5c7ee3348a4d66b3f7fe56",
+      "Size": 5774
     },
     {
       "Path": "resources/packs/graphics91.asset",
-      "Hash": "18c850076534d63f2a98b27e0c715e4f",
-      "Size": 1231397
+      "Hash": "f5897128e7b38ffcc4c66f9e72f83af8",
+      "Size": 1317758
     },
     {
       "Path": "resources/packs/graphics91.meta",
-      "Hash": "541ebef2f6f276b0b7cbe15f47639ad1",
-      "Size": 4702
+      "Hash": "0b50c4944376dc3768aef01bd92dd1e0",
+      "Size": 5070
     },
     {
       "Path": "resources/packs/graphics92.asset",
-      "Hash": "c6a3879766584818841537c01ce7dc63",
-      "Size": 628380
+      "Hash": "00d8795ada3f85a47924fa2b9a3bf4ed",
+      "Size": 648145
     },
     {
       "Path": "resources/packs/graphics92.meta",
-      "Hash": "249452f4f2f2ec749f9e10a897401698",
-      "Size": 2414
+      "Hash": "ccaa06bba5ba0f361f78cfe0b04c781a",
+      "Size": 4302
     },
     {
       "Path": "resources/packs/graphics93.asset",

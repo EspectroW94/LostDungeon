@@ -51,7 +51,7 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,119,21",
+    "Bounds": "0,0,117,21",
     "Padding": "8,1,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -139,7 +139,7 @@
     "ToolTipTextColor": "",
     "Children": {
       "LabelName": {
-        "Bounds": "8,8,44,14",
+        "Bounds": "8,8,33,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -201,7 +201,7 @@
         "SubmitSound": "octave-tap-warm.wav"
       },
       "LabelAccess": {
-        "Bounds": "8,36,35,14",
+        "Bounds": "8,36,36,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1860,7 +1860,7 @@
         "RightMouseClickSound": null
       },
       "LabelMapList": {
-        "Bounds": "6,310,76,14",
+        "Bounds": "6,310,45,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
