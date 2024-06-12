@@ -7,14 +7,19 @@
     },
     {
       "Path": "resources/client_strings.json",
-      "Hash": "743f0e9778319a48b4e87e84dda59fe3",
-      "Size": 46512,
+      "Hash": "2e67eedbf3f0ef0169acb253072bfb21",
+      "Size": 45011,
       "EditorIgnore": true
     },
     {
       "Path": "resources/config.json",
       "Hash": "b5ac826c8cc13ad0e52b3f2cff554150",
       "Size": 1230
+    },
+    {
+      "Path": "resources/credits.json",
+      "Hash": "8532978a5df8f037eb8b27ee6bc426bd",
+      "Size": 16523
     },
     {
       "Path": "resources/gui/layouts/debug/DebugWindow.json",
