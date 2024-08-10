@@ -253,7 +253,7 @@
         "TextScale": 1.0
       },
       "StatsLabel": {
-        "Bounds": "4,300,34,16",
+        "Bounds": "4,350,34,16",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -283,7 +283,7 @@
         "TextScale": 1.0
       },
       "AttackLabel": {
-        "Bounds": "25,320,1,14",
+        "Bounds": "25,370,1,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -313,7 +313,7 @@
         "TextScale": 1.0
       },
       "IncreaseAttackButton": {
-        "Bounds": "4,322,9,9",
+        "Bounds": "4,372,9,9",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -351,7 +351,7 @@
         "ClickSound": ""
       },
       "DefenseLabel": {
-        "Bounds": "25,335,1,14",
+        "Bounds": "25,385,1,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -381,7 +381,7 @@
         "TextScale": 1.0
       },
       "IncreaseDefenseButton": {
-        "Bounds": "4,337,9,9",
+        "Bounds": "4,387,9,9",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -419,7 +419,7 @@
         "ClickSound": ""
       },
       "SpeedLabel": {
-        "Bounds": "25,350,1,14",
+        "Bounds": "25,400,1,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -449,7 +449,7 @@
         "TextScale": 1.0
       },
       "IncreaseSpeedButton": {
-        "Bounds": "4,352,9,9",
+        "Bounds": "4,402,9,9",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -487,7 +487,7 @@
         "ClickSound": ""
       },
       "AbilityPowerLabel": {
-        "Bounds": "25,365,1,14",
+        "Bounds": "25,415,1,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -517,7 +517,7 @@
         "TextScale": 1.0
       },
       "IncreaseAbilityPowerButton": {
-        "Bounds": "4,367,9,9",
+        "Bounds": "4,417,9,9",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -555,7 +555,7 @@
         "ClickSound": ""
       },
       "MagicResistLabel": {
-        "Bounds": "25,380,1,14",
+        "Bounds": "25,430,1,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -585,7 +585,7 @@
         "TextScale": 1.0
       },
       "IncreaseMagicResistButton": {
-        "Bounds": "4,382,9,9",
+        "Bounds": "4,432,9,9",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -623,7 +623,7 @@
         "ClickSound": ""
       },
       "PointsLabel": {
-        "Bounds": "4,395,1,14",
+        "Bounds": "4,445,1,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -653,7 +653,7 @@
         "TextScale": 1.0
       },
       "EquipmentItem0": {
-        "Bounds": "90,144,36,36",
+        "Bounds": "90,179,36,36",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -703,7 +703,7 @@
         }
       },
       "EquipmentItem1": {
-        "Bounds": "90,179,36,36",
+        "Bounds": "90,214,36,36",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -753,7 +753,7 @@
         }
       },
       "EquipmentItem2": {
-        "Bounds": "55,214,36,36",
+        "Bounds": "55,249,36,36",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -803,7 +803,7 @@
         }
       },
       "EquipmentItem3": {
-        "Bounds": "125,214,36,36",
+        "Bounds": "125,249,36,36",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -853,7 +853,7 @@
         }
       },
       "EquipmentItem4": {
-        "Bounds": "90,249,36,36",
+        "Bounds": "90,284,36,36",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -903,7 +903,7 @@
         }
       },
       "EquipmentItem5": {
-        "Bounds": "90,214,36,36",
+        "Bounds": "90,249,36,36",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1503,7 +1503,7 @@
         }
       },
       "EquipmentItem17": {
-        "Bounds": "55,179,36,36",
+        "Bounds": "55,214,36,36",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1553,7 +1553,7 @@
         }
       },
       "EquipmentItem18": {
-        "Bounds": "125,179,36,36",
+        "Bounds": "125,214,36,36",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -2121,7 +2121,7 @@
         "ToolTipBackground": "tooltip.png",
         "ToolTipFont": "sourcesansproblack,10",
         "ToolTipTextColor": "255,255,255,255",
-        "Texture": "equipmentitem.png",
+        "Texture": "equipmentitem_zodiacoarma.png",
         "HoverSound": null,
         "LeftMouseClickSound": null,
         "RightMouseClickSound": null,
@@ -2171,7 +2171,7 @@
         "ToolTipBackground": "tooltip.png",
         "ToolTipFont": "sourcesansproblack,10",
         "ToolTipTextColor": "255,255,255,255",
-        "Texture": "equipmentitem.png",
+        "Texture": "equipmentitem_zodiacopechera.png",
         "HoverSound": null,
         "LeftMouseClickSound": null,
         "RightMouseClickSound": null,
@@ -2221,7 +2221,7 @@
         "ToolTipBackground": "tooltip.png",
         "ToolTipFont": "sourcesansproblack,10",
         "ToolTipTextColor": "255,255,255,255",
-        "Texture": "equipmentitem.png",
+        "Texture": "equipmentitem_zodiacoescudo.png",
         "HoverSound": null,
         "LeftMouseClickSound": null,
         "RightMouseClickSound": null,
@@ -2271,7 +2271,7 @@
         "ToolTipBackground": "tooltip.png",
         "ToolTipFont": "sourcesansproblack,10",
         "ToolTipTextColor": "255,255,255,255",
-        "Texture": "equipmentitem.png",
+        "Texture": "equipmentitem_zodiacosigno.png",
         "HoverSound": null,
         "LeftMouseClickSound": null,
         "RightMouseClickSound": null,
@@ -2321,7 +2321,7 @@
         "ToolTipBackground": "tooltip.png",
         "ToolTipFont": "sourcesansproblack,10",
         "ToolTipTextColor": "255,255,255,255",
-        "Texture": "equipmentitem.png",
+        "Texture": "equipmentitem_diosa.png",
         "HoverSound": null,
         "LeftMouseClickSound": null,
         "RightMouseClickSound": null,
@@ -2371,7 +2371,7 @@
         "ToolTipBackground": "tooltip.png",
         "ToolTipFont": "sourcesansproblack,10",
         "ToolTipTextColor": "255,255,255,255",
-        "Texture": "equipmentitem.png",
+        "Texture": "equipmentitem_bandera.png",
         "HoverSound": null,
         "LeftMouseClickSound": null,
         "RightMouseClickSound": null,
@@ -2421,7 +2421,7 @@
         "ToolTipBackground": "tooltip.png",
         "ToolTipFont": "sourcesansproblack,10",
         "ToolTipTextColor": "255,255,255,255",
-        "Texture": "equipmentitem.png",
+        "Texture": "equipmentitem_familiar.png",
         "HoverSound": null,
         "LeftMouseClickSound": null,
         "RightMouseClickSound": null,
@@ -2471,7 +2471,7 @@
         "ToolTipBackground": "tooltip.png",
         "ToolTipFont": "sourcesansproblack,10",
         "ToolTipTextColor": "255,255,255,255",
-        "Texture": "equipmentitem.png",
+        "Texture": "equipmentitem_ki.png",
         "HoverSound": null,
         "LeftMouseClickSound": null,
         "RightMouseClickSound": null,
@@ -2503,7 +2503,7 @@
         }
       },
       "EquipmentItem37": {
-        "Bounds": "55,249,36,36",
+        "Bounds": "5,284,36,36",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -2515,6 +2515,206 @@
         "MaximumSize": "4096,4096",
         "Disabled": false,
         "Hidden": false,
+        "RestrictToParent": false,
+        "MouseInputEnabled": true,
+        "HideToolTip": false,
+        "ToolTipBackground": "tooltip.png",
+        "ToolTipFont": "sourcesansproblack,10",
+        "ToolTipTextColor": "255,255,255,255",
+        "Texture": "equipmentitem_armadeldestino.png",
+        "HoverSound": null,
+        "LeftMouseClickSound": null,
+        "RightMouseClickSound": null,
+        "Children": {
+          "EquipmentIcon": {
+            "Bounds": "2,2,32,32",
+            "Padding": "0,0,0,0",
+            "AlignmentEdgeDistances": "0,0,0,0",
+            "AlignmentTransform": "0,0",
+            "Margin": "0,0,0,0",
+            "RenderColor": "255,255,255,255",
+            "Alignments": "",
+            "DrawBackground": true,
+            "MinimumSize": "1,1",
+            "MaximumSize": "4096,4096",
+            "Disabled": false,
+            "Hidden": true,
+            "RestrictToParent": false,
+            "MouseInputEnabled": false,
+            "HideToolTip": false,
+            "ToolTipBackground": null,
+            "ToolTipFont": null,
+            "ToolTipTextColor": "",
+            "Texture": null,
+            "HoverSound": null,
+            "LeftMouseClickSound": null,
+            "RightMouseClickSound": null
+          }
+        }
+      },
+      "EquipmentItem38": {
+        "Bounds": "125,179,36,36",
+        "Padding": "0,0,0,0",
+        "AlignmentEdgeDistances": "0,0,0,0",
+        "AlignmentTransform": "0,0",
+        "Margin": "0,0,0,0",
+        "RenderColor": "255,255,255,255",
+        "Alignments": "",
+        "DrawBackground": true,
+        "MinimumSize": "1,1",
+        "MaximumSize": "4096,4096",
+        "Disabled": false,
+        "Hidden": true,
+        "RestrictToParent": false,
+        "MouseInputEnabled": true,
+        "HideToolTip": false,
+        "ToolTipBackground": "tooltip.png",
+        "ToolTipFont": "sourcesansproblack,10",
+        "ToolTipTextColor": "255,255,255,255",
+        "Texture": "equipmentitem.png",
+        "HoverSound": null,
+        "LeftMouseClickSound": null,
+        "RightMouseClickSound": null,
+        "Children": {
+          "EquipmentIcon": {
+            "Bounds": "2,2,32,32",
+            "Padding": "0,0,0,0",
+            "AlignmentEdgeDistances": "0,0,0,0",
+            "AlignmentTransform": "0,0",
+            "Margin": "0,0,0,0",
+            "RenderColor": "255,255,255,255",
+            "Alignments": "",
+            "DrawBackground": true,
+            "MinimumSize": "1,1",
+            "MaximumSize": "4096,4096",
+            "Disabled": false,
+            "Hidden": true,
+            "RestrictToParent": false,
+            "MouseInputEnabled": false,
+            "HideToolTip": false,
+            "ToolTipBackground": null,
+            "ToolTipFont": null,
+            "ToolTipTextColor": "",
+            "Texture": null,
+            "HoverSound": null,
+            "LeftMouseClickSound": null,
+            "RightMouseClickSound": null
+          }
+        }
+      },
+      "EquipmentItem39": {
+        "Bounds": "55,179,36,36",
+        "Padding": "0,0,0,0",
+        "AlignmentEdgeDistances": "0,0,0,0",
+        "AlignmentTransform": "0,0",
+        "Margin": "0,0,0,0",
+        "RenderColor": "255,255,255,255",
+        "Alignments": "",
+        "DrawBackground": true,
+        "MinimumSize": "1,1",
+        "MaximumSize": "4096,4096",
+        "Disabled": false,
+        "Hidden": true,
+        "RestrictToParent": false,
+        "MouseInputEnabled": true,
+        "HideToolTip": false,
+        "ToolTipBackground": "tooltip.png",
+        "ToolTipFont": "sourcesansproblack,10",
+        "ToolTipTextColor": "255,255,255,255",
+        "Texture": "equipmentitem.png",
+        "HoverSound": null,
+        "LeftMouseClickSound": null,
+        "RightMouseClickSound": null,
+        "Children": {
+          "EquipmentIcon": {
+            "Bounds": "2,2,32,32",
+            "Padding": "0,0,0,0",
+            "AlignmentEdgeDistances": "0,0,0,0",
+            "AlignmentTransform": "0,0",
+            "Margin": "0,0,0,0",
+            "RenderColor": "255,255,255,255",
+            "Alignments": "",
+            "DrawBackground": true,
+            "MinimumSize": "1,1",
+            "MaximumSize": "4096,4096",
+            "Disabled": false,
+            "Hidden": true,
+            "RestrictToParent": false,
+            "MouseInputEnabled": false,
+            "HideToolTip": false,
+            "ToolTipBackground": null,
+            "ToolTipFont": null,
+            "ToolTipTextColor": "",
+            "Texture": null,
+            "HoverSound": null,
+            "LeftMouseClickSound": null,
+            "RightMouseClickSound": null
+          }
+        }
+      },
+      "EquipmentItem40": {
+        "Bounds": "55,284,36,36",
+        "Padding": "0,0,0,0",
+        "AlignmentEdgeDistances": "0,0,0,0",
+        "AlignmentTransform": "0,0",
+        "Margin": "0,0,0,0",
+        "RenderColor": "255,255,255,255",
+        "Alignments": "",
+        "DrawBackground": true,
+        "MinimumSize": "1,1",
+        "MaximumSize": "4096,4096",
+        "Disabled": false,
+        "Hidden": true,
+        "RestrictToParent": false,
+        "MouseInputEnabled": true,
+        "HideToolTip": false,
+        "ToolTipBackground": "tooltip.png",
+        "ToolTipFont": "sourcesansproblack,10",
+        "ToolTipTextColor": "255,255,255,255",
+        "Texture": "equipmentitem.png",
+        "HoverSound": null,
+        "LeftMouseClickSound": null,
+        "RightMouseClickSound": null,
+        "Children": {
+          "EquipmentIcon": {
+            "Bounds": "2,2,32,32",
+            "Padding": "0,0,0,0",
+            "AlignmentEdgeDistances": "0,0,0,0",
+            "AlignmentTransform": "0,0",
+            "Margin": "0,0,0,0",
+            "RenderColor": "255,255,255,255",
+            "Alignments": "",
+            "DrawBackground": true,
+            "MinimumSize": "1,1",
+            "MaximumSize": "4096,4096",
+            "Disabled": false,
+            "Hidden": true,
+            "RestrictToParent": false,
+            "MouseInputEnabled": false,
+            "HideToolTip": false,
+            "ToolTipBackground": null,
+            "ToolTipFont": null,
+            "ToolTipTextColor": "",
+            "Texture": null,
+            "HoverSound": null,
+            "LeftMouseClickSound": null,
+            "RightMouseClickSound": null
+          }
+        }
+      },
+      "EquipmentItem41": {
+        "Bounds": "125,284,36,36",
+        "Padding": "0,0,0,0",
+        "AlignmentEdgeDistances": "0,0,0,0",
+        "AlignmentTransform": "0,0",
+        "Margin": "0,0,0,0",
+        "RenderColor": "255,255,255,255",
+        "Alignments": "",
+        "DrawBackground": true,
+        "MinimumSize": "1,1",
+        "MaximumSize": "4096,4096",
+        "Disabled": false,
+        "Hidden": true,
         "RestrictToParent": false,
         "MouseInputEnabled": true,
         "HideToolTip": false,
