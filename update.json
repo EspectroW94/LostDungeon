@@ -18,8 +18,128 @@
     },
     {
       "Path": "resources/credits.json",
-      "Hash": "8532978a5df8f037eb8b27ee6bc426bd",
-      "Size": 16523
+      "Hash": "bc9a43ef6daed9afa973a03279c9703c",
+      "Size": 16982
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_10.xnb",
+      "Hash": "9971304d1fdaa175a2a6a2ac0fa2aa75",
+      "Size": 362102
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_11.xnb",
+      "Hash": "7fe18b2edbab0dd2efbaace545f564cc",
+      "Size": 403062
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_12.xnb",
+      "Hash": "73c0c84b7e6ea85c8ab5f2d5f1a15dd1",
+      "Size": 468598
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_14.xnb",
+      "Hash": "745551a51d57fc6da87ed6aca40fca0f",
+      "Size": 558710
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_16.xnb",
+      "Hash": "b437bf260fe64a9265d3e4b28b4b37e7",
+      "Size": 689782
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_18.xnb",
+      "Hash": "690a1108330fbdb8a20802fb9b5c14e3",
+      "Size": 878198
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_20.xnb",
+      "Hash": "a662bd02ccdc1fc7d89d4ccba10f3a35",
+      "Size": 992886
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_22.xnb",
+      "Hash": "22d0ae71e4abc0022335a3a2fc378ae6",
+      "Size": 1140342
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_24.xnb",
+      "Hash": "a08a28b94206344ca550b6fce5b0e679",
+      "Size": 1377910
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_26.xnb",
+      "Hash": "d64dcab17c95e736125d8a0da6f4033c",
+      "Size": 1590902
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_8.xnb",
+      "Hash": "61942aa6b96065de96ad906865eb5268",
+      "Size": 263798
+    },
+    {
+      "Path": "resources/fonts/sourcesansproblack_9.xnb",
+      "Hash": "422c3a4479eb1832d8943c03b2d89b03",
+      "Size": 312950
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_10.xnb",
+      "Hash": "ac0d4122ed7c4ab8b2c8a656db47e289",
+      "Size": 308854
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_11.xnb",
+      "Hash": "a2addae466e1941211a402ed7d0439bc",
+      "Size": 370294
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_12.xnb",
+      "Hash": "73e76055108fcbf6349ad03ad8181f0e",
+      "Size": 423542
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_14.xnb",
+      "Hash": "dbf26ab6921fd0df2b467af534294245",
+      "Size": 509558
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_16.xnb",
+      "Hash": "0a5c428ccf9bd0504186966ea8247303",
+      "Size": 607862
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_18.xnb",
+      "Hash": "ec1e2f31f8b9362d7df439bee9d75e57",
+      "Size": 738934
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_20.xnb",
+      "Hash": "f8f6f4f6fd4bf649308f88cac3214fa8",
+      "Size": 910966
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_22.xnb",
+      "Hash": "51a3175c3d4c2fa8babc3c911c06455c",
+      "Size": 1017462
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_24.xnb",
+      "Hash": "f7139d5baf26f2cc5c0b6bcde72e020c",
+      "Size": 1222262
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_26.xnb",
+      "Hash": "8f32058133ed28736e50f9e842f62564",
+      "Size": 1377910
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_8.xnb",
+      "Hash": "89019121f1d5610a840d3ce007e1cc53",
+      "Size": 259702
+    },
+    {
+      "Path": "resources/fonts/sourcesanspro_9.xnb",
+      "Hash": "3de3e1ccc09c4716cec618d9c5971a24",
+      "Size": 263798
     },
     {
       "Path": "resources/gui/layouts/debug/DebugWindow.json",
@@ -68,8 +188,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/CharacterWindow.json",
-      "Hash": "738858ef344e95c8bfd00f3943696bc3",
-      "Size": 104654
+      "Hash": "9d532f2c911a11ad47d5fca2a69ffa2c",
+      "Size": 104658
     },
     {
       "Path": "resources/gui/layouts/game/ChatboxWindow.json",
@@ -798,13 +918,13 @@
     },
     {
       "Path": "resources/packs/graphics10.asset",
-      "Hash": "149f69f531907a2b647aaad855b491bb",
-      "Size": 1389554
+      "Hash": "6fe24622e5b3327c699269aac9e17829",
+      "Size": 1374189
     },
     {
       "Path": "resources/packs/graphics10.meta",
-      "Hash": "ea36e3ea7e57911d266edc29e363047a",
-      "Size": 77634
+      "Hash": "c8f5e3bac0abff58e6cdc7fe12ad78a8",
+      "Size": 77762
     },
     {
       "Path": "resources/packs/graphics100.asset",
@@ -898,23 +1018,23 @@
     },
     {
       "Path": "resources/packs/graphics11.asset",
-      "Hash": "f4e51b5fdf980f532624b613dc98e668",
-      "Size": 3110511
+      "Hash": "c01e134fe1803bf3a72a6365b851906b",
+      "Size": 3134649
     },
     {
       "Path": "resources/packs/graphics11.meta",
-      "Hash": "395c88fda5858b53503f53aa5bc1ac37",
-      "Size": 51709
+      "Hash": "7c0fc75b24a5cafc1ca7f47df6c83cf9",
+      "Size": 51645
     },
     {
       "Path": "resources/packs/graphics12.asset",
-      "Hash": "d4a4193966342e27365265b952a14e6d",
-      "Size": 3409945
+      "Hash": "3d68ea9783d22886ca455c516daa98e9",
+      "Size": 3473597
     },
     {
       "Path": "resources/packs/graphics12.meta",
-      "Hash": "1610a5425bf5e5711cf2610c86dca53d",
-      "Size": 57965
+      "Hash": "3c827cd57b912b36d0d4e7e61b508474",
+      "Size": 57645
     },
     {
       "Path": "resources/packs/graphics13.asset",
@@ -928,23 +1048,23 @@
     },
     {
       "Path": "resources/packs/graphics14.asset",
-      "Hash": "ecfb60e207507263bb15be3a0164a31d",
-      "Size": 1158588
+      "Hash": "d619ec95a98183b3defb752048b59b01",
+      "Size": 1230898
     },
     {
       "Path": "resources/packs/graphics14.meta",
-      "Hash": "c54deeb194f7d1f5dae63ae85ad5c72d",
-      "Size": 44536
+      "Hash": "c5b4c88d999448de13389c4104677326",
+      "Size": 62861
     },
     {
       "Path": "resources/packs/graphics15.asset",
-      "Hash": "0eba9c8c45841d4839da2fe44c152594",
-      "Size": 1592547
+      "Hash": "6115a86f4951e755f43c7872e4943b24",
+      "Size": 1606067
     },
     {
       "Path": "resources/packs/graphics15.meta",
-      "Hash": "698f590cd3efd3993f509ce69d2e2fae",
-      "Size": 8510
+      "Hash": "8f646ba6f38c7b5573963ceab4efeeec",
+      "Size": 8878
     },
     {
       "Path": "resources/packs/graphics16.asset",
@@ -1538,13 +1658,13 @@
     },
     {
       "Path": "resources/packs/graphics7.asset",
-      "Hash": "3c4a985a1da6557352f0e233da5771ad",
-      "Size": 1335411
+      "Hash": "c01562fa33373a7a1d56ff7a2770b995",
+      "Size": 1302713
     },
     {
       "Path": "resources/packs/graphics7.meta",
-      "Hash": "d3c6137c7ff0dcdf18460dba35067cfe",
-      "Size": 72402
+      "Hash": "a81545fb46f5cccf7cbf01aa1c134c88",
+      "Size": 71522
     },
     {
       "Path": "resources/packs/graphics70.asset",
@@ -1648,13 +1768,13 @@
     },
     {
       "Path": "resources/packs/graphics8.asset",
-      "Hash": "60e8b1339305a678b0717eb6cc973c11",
-      "Size": 1719350
+      "Hash": "c7c51e172d595795ed18c52c6ee89d33",
+      "Size": 1709046
     },
     {
       "Path": "resources/packs/graphics8.meta",
-      "Hash": "75ab711b51d4257bae1115cb5becdbf6",
-      "Size": 100908
+      "Hash": "d10770a79b631d0759af7c3c47fc2881",
+      "Size": 101932
     },
     {
       "Path": "resources/packs/graphics80.asset",
@@ -1758,13 +1878,13 @@
     },
     {
       "Path": "resources/packs/graphics9.asset",
-      "Hash": "fc678a4fcb4c29092251020b398b9086",
-      "Size": 1399175
+      "Hash": "adf8c6e0ce878db3118418f6ac4a63d1",
+      "Size": 1393730
     },
     {
       "Path": "resources/packs/graphics9.meta",
-      "Hash": "851f71e89e80aae72608e565fb516f3c",
-      "Size": 109836
+      "Hash": "0b19d0abfce7c0d4ef9de1ca9b12c278",
+      "Size": 109804
     },
     {
       "Path": "resources/packs/graphics90.asset",

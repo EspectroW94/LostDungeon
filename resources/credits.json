@@ -193,6 +193,30 @@
       }
     },
     {
+      "Text": "TrulyMalicious",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Menu Icons",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
       "Text": "Animations, Characters, Monsters, Paperdolls, and Tiles",
       "Font": "sourcesanspro",
       "Size": 10,
