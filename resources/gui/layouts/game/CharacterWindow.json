@@ -2564,7 +2564,7 @@
         "MinimumSize": "1,1",
         "MaximumSize": "4096,4096",
         "Disabled": false,
-        "Hidden": true,
+        "Hidden": false,
         "RestrictToParent": false,
         "MouseInputEnabled": true,
         "HideToolTip": false,
