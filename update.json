@@ -188,8 +188,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/CharacterWindow.json",
-      "Hash": "9f2f9fd8ebd295d7b7358340400da96f",
-      "Size": 104659
+      "Hash": "8c108f19674ba9d65b63e4366b31853d",
+      "Size": 116825
     },
     {
       "Path": "resources/gui/layouts/game/ChatboxWindow.json",
@@ -1468,13 +1468,13 @@
     },
     {
       "Path": "resources/packs/graphics52.asset",
-      "Hash": "d3ee4f5f0bfb484f302a06dc3fbf596d",
-      "Size": 2402328
+      "Hash": "4dcbf251dbadaed5ae7d4d6a5148788f",
+      "Size": 2437714
     },
     {
       "Path": "resources/packs/graphics52.meta",
-      "Hash": "f6db446c6103210644ed7d898882118f",
-      "Size": 14126
+      "Hash": "429ffa7e14ecd29a7b5e0337abb40631",
+      "Size": 13742
     },
     {
       "Path": "resources/packs/graphics53.asset",
@@ -1888,43 +1888,43 @@
     },
     {
       "Path": "resources/packs/graphics90.asset",
-      "Hash": "44e55904b105e00f3793aefa4c4e062d",
-      "Size": 214319
+      "Hash": "8f997366e757a4093a05216bcb476928",
+      "Size": 214895
     },
     {
       "Path": "resources/packs/graphics90.meta",
-      "Hash": "71cf55a18fbe535d137c3e6c311dee3c",
+      "Hash": "572212bac5a23b3fe2116320a8863cf2",
       "Size": 5390
     },
     {
       "Path": "resources/packs/graphics91.asset",
-      "Hash": "97fc8d261a4f6a25ea92fecbf39700a7",
-      "Size": 465770
+      "Hash": "8ae8382c0c414f72f374ff2e35a32476",
+      "Size": 467098
     },
     {
       "Path": "resources/packs/graphics91.meta",
-      "Hash": "de83b560f1105fa4a3ea0344486e95d7",
-      "Size": 5022
+      "Hash": "ee1a7f788a46e32562889caad729c7e4",
+      "Size": 5006
     },
     {
       "Path": "resources/packs/graphics92.asset",
-      "Hash": "ae7345ca2e4f19cb3a1fe8fbd83dbc34",
-      "Size": 355175
+      "Hash": "84fe13fc202f52544916b6abc2a4c085",
+      "Size": 357687
     },
     {
       "Path": "resources/packs/graphics92.meta",
-      "Hash": "3ad3e68dcbd4aa0346c5c98f4054306d",
-      "Size": 4654
+      "Hash": "e4e212b5623a6939ec07145d2d97a1cb",
+      "Size": 5054
     },
     {
       "Path": "resources/packs/graphics93.asset",
-      "Hash": "70568eaffc2a3f17693d82cfea370dd7",
-      "Size": 440176
+      "Hash": "4e8e1dd3253164775ad3aaca22763ea0",
+      "Size": 458069
     },
     {
       "Path": "resources/packs/graphics93.meta",
-      "Hash": "cfa86a4c1e558752595690075108d563",
-      "Size": 1662
+      "Hash": "b99849d6e98b0b394e3340fc191d2c81",
+      "Size": 2030
     },
     {
       "Path": "resources/packs/graphics94.asset",
