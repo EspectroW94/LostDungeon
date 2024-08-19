@@ -2028,18 +2028,18 @@
     },
     {
       "Path": "resources/packs/sound.index",
-      "Hash": "72391339fcf5b8b3cfd29144c9bd2b1a",
-      "Size": 21843
+      "Hash": "6973cec058c6917511b0de464e2f26fe",
+      "Size": 21939
     },
     {
       "Path": "resources/packs/sound0.asset",
-      "Hash": "2c75ab7379f67a267a4ffb4a826358a2",
-      "Size": 20900123
+      "Hash": "5d7cb9dafa509ded01dc9b9f23a958b2",
+      "Size": 20911728
     },
     {
       "Path": "resources/packs/sound1.asset",
-      "Hash": "c932caac0a929ccb26a927bfe82c1213",
-      "Size": 5613260
+      "Hash": "342562a21466f48aac02af169fe4d8b5",
+      "Size": 5970485
     },
     {
       "Path": "resources/sounds/armor-light.wav",
@@ -2870,6 +2870,11 @@
       "Path": "resources/sounds/spell.wav",
       "Hash": "506f0c015dea581840c470e7d91bad75",
       "Size": 861816
+    },
+    {
+      "Path": "resources/sounds/spellcast-46164.wav",
+      "Hash": "40cfdd5beac1fb71d56ebe91c72f9000",
+      "Size": 368718
     },
     {
       "Path": "resources/sounds/swing.wav",
