@@ -1,5 +1,5 @@
 {
-  "Bounds": "286,317,452,158",
+  "Bounds": "457,317,452,158",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,12",
@@ -248,7 +248,7 @@
       "ToolTipFont": null,
       "ToolTipTextColor": "",
       "Label": {
-        "Bounds": "0,6,117,16",
+        "Bounds": "0,6,119,16",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -319,7 +319,7 @@
       }
     },
     "ForgotPasswordButton": {
-      "Bounds": "214,130,174,16",
+      "Bounds": "214,130,132,16",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

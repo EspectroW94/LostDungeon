@@ -1,9 +1,9 @@
 {
-  "Bounds": "0,0,34,35",
-  "Padding": "0,0,0,0",
+  "Bounds": "0,0,36,36",
+  "Padding": "2,2,2,2",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
-  "Margin": "0,0,4,4",
+  "Margin": "4,1,4,1",
   "RenderColor": "255,255,255,255",
   "Alignments": "",
   "DrawBackground": true,
@@ -18,9 +18,6 @@
   "ToolTipFont": null,
   "ToolTipTextColor": "",
   "Texture": "status.png",
-  "HoverSound": null,
-  "LeftMouseClickSound": null,
-  "RightMouseClickSound": null,
   "Children": {
     "StatusIcon": {
       "Bounds": "1,1,32,32",
@@ -41,10 +38,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "",
-      "HoverSound": null,
-      "LeftMouseClickSound": null,
-      "RightMouseClickSound": null
+      "Texture": ""
     },
     "DurationLabel": {
       "Bounds": "29,24,5,11",

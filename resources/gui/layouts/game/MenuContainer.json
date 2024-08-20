@@ -1,11 +1,11 @@
 {
-  "Bounds": "1026,726,330,42",
+  "Bounds": "1033,722,329,42",
   "Padding": "0,0,0,0",
-  "AlignmentEdgeDistances": "0,0,4,-4",
+  "AlignmentEdgeDistances": "0,0,4,4",
   "AlignmentTransform": "0,0",
   "Margin": "0,0,0,0",
   "RenderColor": "255,255,255,255",
-  "Alignments": "Bottom,Right",
+  "Alignments": "Right,Bottom",
   "DrawBackground": true,
   "MinimumSize": "1,1",
   "MaximumSize": "4096,4096",
@@ -17,13 +17,13 @@
   "ToolTipBackground": null,
   "ToolTipFont": null,
   "ToolTipTextColor": "",
-  "Texture": "",
+  "Texture": "gamemenu.png",
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null,
   "Children": {
     "InventoryContainer": {
-      "Bounds": "51,4,34,35",
+      "Bounds": "8,4,34,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -87,7 +87,7 @@
       }
     },
     "SpellsContainer": {
-      "Bounds": "86,4,34,35",
+      "Bounds": "48,4,34,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -151,7 +151,7 @@
       }
     },
     "CharacterContainer": {
-      "Bounds": "121,4,34,35",
+      "Bounds": "88,4,34,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -215,7 +215,7 @@
       }
     },
     "QuestsContainer": {
-      "Bounds": "156,4,34,35",
+      "Bounds": "128,4,34,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -279,7 +279,7 @@
       }
     },
     "FriendsContainer": {
-      "Bounds": "191,4,34,35",
+      "Bounds": "168,4,34,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -343,7 +343,7 @@
       }
     },
     "PartyContainer": {
-      "Bounds": "226,4,34,35",
+      "Bounds": "248,4,34,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -407,7 +407,7 @@
       }
     },
     "GuildContainer": {
-      "Bounds": "261,4,34,35",
+      "Bounds": "208,4,34,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -431,7 +431,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "GuildButton": {
-          "Bounds": "2,2,30,30",
+          "Bounds": "1,1,32,32",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -463,15 +463,15 @@
           "ClickedImage": "",
           "DisabledImage": "",
           "CenterImage": false,
-          "HoverSound": null,
-          "MouseUpSound": null,
-          "MouseDownSound": null,
-          "ClickSound": null
+          "HoverSound": "octave-tap-resonant.wav",
+          "MouseUpSound": "",
+          "MouseDownSound": "octave-tap-warm.wav",
+          "ClickSound": ""
         }
       }
     },
     "MenuContainer": {
-      "Bounds": "296,4,34,35",
+      "Bounds": "288,4,34,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

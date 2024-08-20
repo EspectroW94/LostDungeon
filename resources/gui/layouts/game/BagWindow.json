@@ -1,5 +1,5 @@
 {
-  "Bounds": "584,257,192,254",
+  "Bounds": "587,257,192,254",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -51,7 +51,7 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,84,29",
+    "Bounds": "0,0,72,29",
     "Padding": "40,5,4,4",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",

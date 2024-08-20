@@ -169,7 +169,7 @@
         "TextScale": 1.0
       },
       "ChatacterInfoLabel": {
-        "Bounds": "4,125,212,12",
+        "Bounds": "4,116,212,12",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -199,7 +199,7 @@
         "TextScale": 1.0
       },
       "CharacterContainer": {
-        "Bounds": "50,15,115,110",
+        "Bounds": "77,36,64,64",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
