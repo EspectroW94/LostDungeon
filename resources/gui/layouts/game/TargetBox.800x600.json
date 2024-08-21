@@ -73,7 +73,7 @@
           "TextAlign": "Left, Top",
           "TextPadding": "0,0,0,0",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,10",
+          "Font": "sourcesansproblack,8",
           "TextScale": 1.0
         },
         "EntityLevelLabel": {
@@ -103,7 +103,7 @@
           "TextAlign": "Left, Top",
           "TextPadding": "0,0,0,0",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,10",
+          "Font": "sourcesansproblack,8",
           "TextScale": 1.0
         },
         "NameAndLevelLabel": {
@@ -133,7 +133,7 @@
           "TextAlign": "Left, Top",
           "TextPadding": "0,0,0,0",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,10",
+          "Font": "sourcesansproblack,8",
           "TextScale": 1.0
         },
         "EntityMapLabel": {

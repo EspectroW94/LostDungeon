@@ -403,23 +403,23 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.1024x720.json",
-      "Hash": "2a364c37181d63cb1d1389875e2f83bf",
-      "Size": 31607
+      "Hash": "977092f0de2f1496ddee30b1a002490e",
+      "Size": 31604
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.1024x768.json",
-      "Hash": "2a364c37181d63cb1d1389875e2f83bf",
-      "Size": 31607
+      "Hash": "977092f0de2f1496ddee30b1a002490e",
+      "Size": 31604
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.800x600.json",
-      "Hash": "2a364c37181d63cb1d1389875e2f83bf",
-      "Size": 31607
+      "Hash": "977092f0de2f1496ddee30b1a002490e",
+      "Size": 31604
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "31d3c53776cceccbe92086b9e81783dc",
-      "Size": 32525
+      "Hash": "8f0178871dab23baf6d7f86be66a5060",
+      "Size": 32522
     },
     {
       "Path": "resources/gui/layouts/game/TargetContextMenu.json",
