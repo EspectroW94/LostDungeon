@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "Description": {
-      "Bounds": "0,0,210,46",
+      "Bounds": "5,0,210,46",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

@@ -228,7 +228,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/DescriptionWindowDescription.json",
-      "Hash": "9e63acd572c30128ae7dcdbe840729bc",
+      "Hash": "f0f9ad86f175ef44f83fe5b59638fceb",
       "Size": 1282
     },
     {
@@ -1123,7 +1123,7 @@
     },
     {
       "Path": "resources/packs/graphics2.asset",
-      "Hash": "94c4fa9028385a260c3a33bf5007c50b",
+      "Hash": "e22639721af10a02480d74df968da381",
       "Size": 2017344
     },
     {
@@ -1233,8 +1233,8 @@
     },
     {
       "Path": "resources/packs/graphics3.asset",
-      "Hash": "00142eb31d97c73ab4e8d0af280acf4b",
-      "Size": 3355498
+      "Hash": "504bf236bf44ee11fb800de6255e267e",
+      "Size": 3355738
     },
     {
       "Path": "resources/packs/graphics3.meta",
@@ -1453,8 +1453,8 @@
     },
     {
       "Path": "resources/packs/graphics5.asset",
-      "Hash": "220bb4be10b688e45fe8981eff498ee4",
-      "Size": 1972454
+      "Hash": "08aecaca4154d089242ce2fa00c172d3",
+      "Size": 1972438
     },
     {
       "Path": "resources/packs/graphics5.meta",
@@ -1563,8 +1563,8 @@
     },
     {
       "Path": "resources/packs/graphics6.asset",
-      "Hash": "8433b453987f29348bdc36e0cba0195c",
-      "Size": 1091128
+      "Hash": "aa032db3b6a33ba3fd4cc4ac63431591",
+      "Size": 1091848
     },
     {
       "Path": "resources/packs/graphics6.meta",
