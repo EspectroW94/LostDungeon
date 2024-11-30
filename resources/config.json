@@ -1,6 +1,6 @@
 ﻿{
-  "Host": "na2.hosting.freemmorpgmaker.com",
-  "Port": 5861,
+  "Host": "ldo.servegame.com",
+  "Port": 5400,
   "GameFont": "sourcesansproblack",
   "EntityNameFont": "sourcesansproblack",
   "ChatBubbleFont": "sourcesansproblack",

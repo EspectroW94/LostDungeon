@@ -13,8 +13,8 @@
     },
     {
       "Path": "resources/config.json",
-      "Hash": "b5ac826c8cc13ad0e52b3f2cff554150",
-      "Size": 1230
+      "Hash": "fa00a7945abb4699fb5e7e784c04e3e6",
+      "Size": 1216
     },
     {
       "Path": "resources/credits.json",
@@ -2013,48 +2013,98 @@
     },
     {
       "Path": "resources/packs/music.index",
-      "Hash": "b5272da44c7147c0cfa47d281a9abcd5",
-      "Size": 8606
+      "Hash": "ab22770285d34aaf7a6615c4ec1db9da",
+      "Size": 8510
     },
     {
       "Path": "resources/packs/music0.asset",
-      "Hash": "64f658a470b941adf952222d9e7e743d",
-      "Size": 20108891
+      "Hash": "1b6fa8d906898b689b65800768ce5943",
+      "Size": 6643330
     },
     {
       "Path": "resources/packs/music1.asset",
-      "Hash": "d7f3ca0a5977ca0a127e65231c288982",
-      "Size": 19848283
+      "Hash": "69cc2641132e97e2adcaa3432601894c",
+      "Size": 7893806
+    },
+    {
+      "Path": "resources/packs/music10.asset",
+      "Hash": "f9f307602f4294cd252895518feaca3c",
+      "Size": 7607001
+    },
+    {
+      "Path": "resources/packs/music11.asset",
+      "Hash": "c2318709d1d5fb5104b8a36534327680",
+      "Size": 7617118
+    },
+    {
+      "Path": "resources/packs/music12.asset",
+      "Hash": "cea48b580aaf9f7c832f5907b385928d",
+      "Size": 6350168
     },
     {
       "Path": "resources/packs/music2.asset",
-      "Hash": "04d9309086c53eed5b2b855e48b2f1c8",
-      "Size": 20630107
+      "Hash": "9235be18b47110ead7f51a998bef90d6",
+      "Size": 7382243
     },
     {
       "Path": "resources/packs/music3.asset",
-      "Hash": "9ef87ffc7f99ac096cd1f58899ae154a",
-      "Size": 20043575
+      "Hash": "ca4184cf3677c2d470518195a76540d4",
+      "Size": 6971430
     },
     {
       "Path": "resources/packs/music4.asset",
-      "Hash": "c5b1b7a2c86121c29529cd8e8cc846b4",
-      "Size": 17162327
+      "Hash": "2f45692c4845ec51dd7a79426cc14608",
+      "Size": 8015078
+    },
+    {
+      "Path": "resources/packs/music5.asset",
+      "Hash": "d182b2e906b2dcc99ba2596cb9643af7",
+      "Size": 7519184
+    },
+    {
+      "Path": "resources/packs/music6.asset",
+      "Hash": "32262fa3b6053a4e4482fff433745f25",
+      "Size": 8314160
+    },
+    {
+      "Path": "resources/packs/music7.asset",
+      "Hash": "c6f41755c015d02450ae9277aea65703",
+      "Size": 7848228
+    },
+    {
+      "Path": "resources/packs/music8.asset",
+      "Hash": "3885539e5a284add15cbd34ae8bd5241",
+      "Size": 7459916
+    },
+    {
+      "Path": "resources/packs/music9.asset",
+      "Hash": "c98b8e4742e7089918045bf4959805cb",
+      "Size": 8171827
     },
     {
       "Path": "resources/packs/sound.index",
-      "Hash": "6973cec058c6917511b0de464e2f26fe",
-      "Size": 21939
+      "Hash": "9f490694ff36efdc16442ccde92fb9ba",
+      "Size": 21747
     },
     {
       "Path": "resources/packs/sound0.asset",
-      "Hash": "5d7cb9dafa509ded01dc9b9f23a958b2",
-      "Size": 20911728
+      "Hash": "e6314f6ac05f568b69c5d3f548a1d547",
+      "Size": 8281782
     },
     {
       "Path": "resources/packs/sound1.asset",
-      "Hash": "342562a21466f48aac02af169fe4d8b5",
-      "Size": 5970485
+      "Hash": "54d8eac591b3bedcf90c7043ab8f6f7a",
+      "Size": 8266289
+    },
+    {
+      "Path": "resources/packs/sound2.asset",
+      "Hash": "031dee58d64ef334d6afbfe82f8b33d2",
+      "Size": 8354559
+    },
+    {
+      "Path": "resources/packs/sound3.asset",
+      "Hash": "19c342d11c3d144b48b6949e19dcfbd5",
+      "Size": 1979654
     },
     {
       "Path": "resources/sounds/armor-light.wav",
