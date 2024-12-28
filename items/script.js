@@ -22,8 +22,13 @@ Papa.parse('items.csv', {
       // Expresión regular para encontrar palabras separadas por guiones bajos
       const regex = /_(\w)/g;
       // Capitalizar la primera letra de cada palabra
-      const imageName = item.Icon.replace(regex, (match, p1) => p1.toUpperCase());
-      itemImage.src = `assets/items/${imageName}`;
+      const imageName = item.Icon.replace(regex, (match, p1) =>"_"+p1.toUpperCase());
+      
+      const firstLetter = imageName[0].toUpperCase();
+      const imageName2 = firstLetter + imageName.slice(1);
+      
+      
+      itemImage.src = `assets/items/${imageName2}`;
       } else {
       console.error("El nombre de la imagen no está definido.");
       }
