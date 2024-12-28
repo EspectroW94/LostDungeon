@@ -17,7 +17,11 @@ Papa.parse('items.csv', {
 
       const itemImage = document.createElement('img');
       itemImage.classList.add('item-image');
-      itemImage.src = `assets/items/${item.Icon}`;
+      // Obtener la primera letra y convertirla a mayúscula
+      const firstLetter = item.Icon[0].toUpperCase();
+      // Concatenar la primera letra en mayúscula con el resto del nombre
+      const imageName = firstLetter + item.Icon.slice(1);
+      itemImage.src = `assets/items/${imageName}`;
 
       const itemName = document.createElement('h3');
       itemName.classList.add('item-name');
