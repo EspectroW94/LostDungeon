@@ -17,11 +17,16 @@ Papa.parse('items.csv', {
 
       const itemImage = document.createElement('img');
       itemImage.classList.add('item-image');
-      // Obtener la primera letra y convertirla a mayúscula
-      const firstLetter = item.Icon[0].toUpperCase();
-      // Concatenar la primera letra en mayúscula con el resto del nombre
-      const imageName = firstLetter + item.Icon.slice(1);
+      
+      if (item.Icon) {
+      // Expresión regular para encontrar palabras separadas por guiones bajos
+      const regex = /_(\w)/g;
+      // Capitalizar la primera letra de cada palabra
+      const imageName = item.Icon.replace(regex, (match, p1) => p1.toUpperCase());
       itemImage.src = `assets/items/${imageName}`;
+      } else {
+      console.error("El nombre de la imagen no está definido.");
+      }
 
       const itemName = document.createElement('h3');
       itemName.classList.add('item-name');
