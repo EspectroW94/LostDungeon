@@ -2654,7 +2654,7 @@
         }
       },
       "EquipmentItem40": {
-        "Bounds": "55,284,36,36",
+        "Bounds": "140,85,36,36",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
