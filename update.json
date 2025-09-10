@@ -2,8 +2,8 @@
   "Files": [
     {
       "Path": "Legends Resurrected Online.exe",
-      "Hash": "2df5a76008ae00e4de1e5b050858244b",
-      "Size": 46672279
+      "Hash": "b38aaa53d58707e88d385a31f3bddf8c",
+      "Size": 46767438
     },
     {
       "Path": "resources/client_strings.json",
@@ -519,377 +519,452 @@
     {
       "Path": "resources/music/Adrift.ogg",
       "Hash": "40c0d402d61dd259d7c3b69ee853a8c5",
-      "Size": 1231845
+      "Size": 1231845,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Ancient-Troops-Amassing.ogg",
       "Hash": "33b670e2913e3bfdfb8b22a136cb8d38",
-      "Size": 1406721
+      "Size": 1406721,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Backstory_Looping.ogg",
       "Hash": "35fb19e431b83f56e1f10a04893d2823",
-      "Size": 1058701
+      "Size": 1058701,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Battle-of-the-Ancients.ogg",
       "Hash": "b20f017d914a2244e441bcd00183b4ce",
-      "Size": 964762
+      "Size": 964762,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Bedtime-Story_Looping.ogg",
       "Hash": "5ee83b98c2cb76f7e989fa1eb9afefa0",
-      "Size": 1217336
+      "Size": 1217336,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Bog-Creatures-On-the-Move_Looping.ogg",
       "Hash": "a894bfa01acfbe337a6ed754cf8b1d4a",
-      "Size": 820564
+      "Size": 820564,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/City-Beneath-the-Waves_Looping.ogg",
       "Hash": "eb75fa28378e7b4e1944cf956d26ec3c",
-      "Size": 1273104
+      "Size": 1273104,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Crusaders-Approaching.ogg",
       "Hash": "ecbff628b79971abc77b217948273e65",
-      "Size": 710451
+      "Size": 710451,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Dark-Fantasy-Open_Looping.ogg",
       "Hash": "42d8d7f777c132d7baed7f93c9147728",
-      "Size": 1263586
+      "Size": 1263586,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Dragon-Mystery_Looping.ogg",
       "Hash": "1a16ae160b2c1157c2fd1437f76f3dae",
-      "Size": 991186
+      "Size": 991186,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Dreaming-of-Reefs.ogg",
       "Hash": "3ffa30fbbec0fedde3191fb2f9f4182b",
-      "Size": 1486941
+      "Size": 1486941,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Dreamlands.ogg",
       "Hash": "1ee727cbdb169764fed603a0b3f6301d",
-      "Size": 1809870
+      "Size": 1809870,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Dystopian-Game-Open_Looping.ogg",
       "Hash": "1aaae52e2c329c2c5c146c4f3960d324",
-      "Size": 815923
+      "Size": 815923,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Enchanted-Places_Looping.ogg",
       "Hash": "97935ea09288b224f03f5d3635e4d8d4",
-      "Size": 1170299
+      "Size": 1170299,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Escape_Looping.ogg",
       "Hash": "da929d6bdfec89381d52b4b43bc10bfe",
-      "Size": 2202049
+      "Size": 2202049,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Etherea.ogg",
       "Hash": "7f1d49dee8db79a883281fcf70d6b19f",
-      "Size": 1965475
+      "Size": 1965475,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Fantasy-Forest-Battle.ogg",
       "Hash": "aac9b5a8336fe1947fd2f0ebf8660fd3",
-      "Size": 1899078
+      "Size": 1899078,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Fantasy_Game_Background_Looping.ogg",
       "Hash": "0838a9fd3fd5b69a3f1bca1c0af38f58",
-      "Size": 967452
+      "Size": 967452,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Far-Away-Places-Call_Looping.ogg",
       "Hash": "b3f81421494ead4c4f82a92bcc4d0463",
-      "Size": 2223246
+      "Size": 2223246,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Forest-Chase_Looping.ogg",
       "Hash": "7b33b0f4c4f4f671c84432403b009af9",
-      "Size": 1023222
+      "Size": 1023222,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Forest-of-Spells_Looping.ogg",
       "Hash": "c3aaf0af828377d4099653dae0720c09",
-      "Size": 1349634
+      "Size": 1349634,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Forward-Assault.ogg",
       "Hash": "517d9ab8b62cf7847217328c9c50935e",
-      "Size": 1070851
+      "Size": 1070851,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Game-Menu_Looping.ogg",
       "Hash": "48a25f4fa007a9c1f5880e2b7b901ae3",
-      "Size": 1541237
+      "Size": 1541237,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Goblin-Loop.ogg",
       "Hash": "367cf38f8ce4222c4e021314f4ba0255",
-      "Size": 533663
+      "Size": 533663,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Grumpy-Monster-Sorcerer.ogg",
       "Hash": "7b184b138dd0f26aeca7e563373f0b38",
-      "Size": 1887762
+      "Size": 1887762,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/High-Altitude-Station_Looping.ogg",
       "Hash": "75001b178dd4764aee21c4a2588f9a66",
-      "Size": 996484
+      "Size": 996484,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Horror-Game-Menu_Looping.ogg",
       "Hash": "279e319ef65da68bcd945fa8bf7e7495",
-      "Size": 885131
+      "Size": 885131,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Kingdom-of-Darkness_Looping.ogg",
       "Hash": "e0908e259f55523e12b2b4977bde5e58",
-      "Size": 1153219
+      "Size": 1153219,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Land-of-Hope_v001.ogg",
       "Hash": "ceae3424141def8f96e528e235fccc50",
-      "Size": 1856819
+      "Size": 1856819,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Left-Behind_Looping.ogg",
       "Hash": "b8b8678f63c98dcf5d00e1200c19b6c8",
-      "Size": 1509230
+      "Size": 1509230,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Life-in-a-Mystical-Village.ogg",
       "Hash": "5145109a2f2c2cf945b540db95c5668c",
-      "Size": 1097422
+      "Size": 1097422,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Lost-Island_Looping.ogg",
       "Hash": "a4264ea979a0a2f19af0dce7b98aee36",
-      "Size": 1395653
+      "Size": 1395653,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Lost-Jungle_Looping.ogg",
       "Hash": "ce748b12ce430fa8d9adee13a7f57762",
-      "Size": 768497
+      "Size": 768497,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Magical-Backstory.ogg",
       "Hash": "a2013e4ae00927ab077d9b1548abc1a0",
-      "Size": 2139059
+      "Size": 2139059,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Magical-Discovery.ogg",
       "Hash": "deedf7248cacec128594e3e3b53e7f18",
-      "Size": 1154936
+      "Size": 1154936,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Mech-Game-Menu_Looping.ogg",
       "Hash": "753d2a393c4635c2c8cfa53231922499",
-      "Size": 729245
+      "Size": 729245,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Misty-Bog_Looping.ogg",
       "Hash": "efac37179c0a9444b595328d54d0e61d",
-      "Size": 798279
+      "Size": 798279,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Moonlight-Flying_Looping.ogg",
       "Hash": "b4a0d51f88e7b0dcb09a9400e5935ad8",
-      "Size": 1269407
+      "Size": 1269407,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Move-it-Out.ogg",
       "Hash": "392938e7030458fc0b1653be8ec201e5",
-      "Size": 595865
+      "Size": 595865,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Mysterious-Lands_Looping.ogg",
       "Hash": "78f87127999cdd9956a2adaea27dc3c9",
-      "Size": 1345894
+      "Size": 1345894,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Mysterious-Trail.ogg",
       "Hash": "a4d06b164504f10ebc1f14097a248ed7",
-      "Size": 1507571
+      "Size": 1507571,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Netherplace_Looping.ogg",
       "Hash": "b570a5c4434060327c5a7286fabe6051",
-      "Size": 1616584
+      "Size": 1616584,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Once-Around-the-Kingdom_Looping.ogg",
       "Hash": "76b3e595991e9fc48c2f7bc1caec42ec",
-      "Size": 1572367
+      "Size": 1572367,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Our-Mountain_v003_Looping.ogg",
       "Hash": "cf769de02f64d811cd1781ec3037c713",
-      "Size": 1267799
+      "Size": 1267799,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Realm-of-Fantasy_Looping.ogg",
       "Hash": "3d74c3e636d0ddb466903ae5623bc99c",
-      "Size": 1679953
+      "Size": 1679953,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Rockin-Monsters-Game-Menu_Looping.ogg",
       "Hash": "d4311580627c4557b59ca2014fd7ad27",
-      "Size": 1138310
+      "Size": 1138310,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Romantic-Halloween-Theme.ogg",
       "Hash": "17896710d1a82550937bc60d1ad9d882",
-      "Size": 1564641
+      "Size": 1564641,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/RPG-Battle-Climax-2.ogg",
       "Hash": "7c125cf277affbe4743d36da27c5f9e0",
-      "Size": 311542
+      "Size": 311542,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/RPG-Battle-Climax_v001.ogg",
       "Hash": "bc367e5274a8c58281aa66a814589eaa",
-      "Size": 1110083
+      "Size": 1110083,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/RPG-Blues_Looping.ogg",
       "Hash": "333469efabf9e69ae9a505019477f77b",
-      "Size": 1189677
+      "Size": 1189677,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/RPG-Intro_v001_Looping.ogg",
       "Hash": "5af009276235879485a6fe47c8d32bf0",
-      "Size": 774474
+      "Size": 774474,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/RPG-Map-Music_Looping.ogg",
       "Hash": "bb6dc46cbe6d5e5857218e26b72d2e48",
-      "Size": 1163151
+      "Size": 1163151,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/RPG-Theme_Looping.ogg",
       "Hash": "d2c1b39fbe43f124d6deb12ed4c3d34e",
-      "Size": 1327149
+      "Size": 1327149,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/RPG-Theme_v001_Looping.ogg",
       "Hash": "50be185b600d1e18e23a1da2d4c4955b",
-      "Size": 1268336
+      "Size": 1268336,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Sadlands_Looping.ogg",
       "Hash": "cc923e2933e3390be2740b892147b919",
-      "Size": 965956
+      "Size": 965956,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Secret-Journey_Looping.ogg",
       "Hash": "8e9edca277922fd93e860edd67c153d5",
-      "Size": 1871012
+      "Size": 1871012,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Sky-Game-Menu_Looping.ogg",
       "Hash": "6f91c463feec1afb0abb1c214e10f23a",
-      "Size": 1842252
+      "Size": 1842252,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Some-Dreamy-Place_v001_Looping.ogg",
       "Hash": "5115069ddac61a13db6310cfc78766ec",
-      "Size": 1373402
+      "Size": 1373402,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Some-Faraway-Place_Looping.ogg",
       "Hash": "8719385a7b85c4e55edee30a1c2d8f62",
-      "Size": 1471875
+      "Size": 1471875,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Spells-a-Brewin_v001_Looping.ogg",
       "Hash": "6fdf461c67b9ba17256030a00006442c",
-      "Size": 1367293
+      "Size": 1367293,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Spooky-Hollow.ogg",
       "Hash": "c4e2e9830dae1db624dd77bf116af196",
-      "Size": 1208704
+      "Size": 1208704,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Stepping-Out_v001_Looping.ogg",
       "Hash": "f5a58444ddcf8be6d999c693ef53ae57",
-      "Size": 1621028
+      "Size": 1621028,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Strange-Phenomenon_Looping.ogg",
       "Hash": "d25fc96e3fdfc89349b38f4c6dd33972",
-      "Size": 1064561
+      "Size": 1064561,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Stroll-Through-a-Strange-Land.ogg",
       "Hash": "70f1ea9e312a76760653d847ed957e8e",
-      "Size": 1091342
+      "Size": 1091342,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/The-Castle-Beyond-the-Forest_Looping.ogg",
       "Hash": "3d4b19d720949e4764db24fa26524af1",
-      "Size": 1199710
+      "Size": 1199710,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/The-Forgotten-Forest.ogg",
       "Hash": "9515966c47f0a9cc184a1f8244553cea",
-      "Size": 1797341
+      "Size": 1797341,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/The-Kings-Feast.ogg",
       "Hash": "19596526ea59bfe1d07707346ae5f8c2",
-      "Size": 1280615
+      "Size": 1280615,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/The-Princess-Haunted_Looping.ogg",
       "Hash": "5e00d867a2f182a6829ac9e9fe9b0508",
-      "Size": 2215978
+      "Size": 2215978,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/The-Secret-Village.ogg",
       "Hash": "0c858c2551272d54a228c7b9ac2404e0",
-      "Size": 1388683
+      "Size": 1388683,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/The-Seventy-Seas_Looping.ogg",
       "Hash": "83270859f91d58c776975abc86fa55ee",
-      "Size": 1705461
+      "Size": 1705461,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/The-Village_Looping.ogg",
       "Hash": "a6db2f5cc7389753c93deef0f5096edd",
-      "Size": 1111683
+      "Size": 1111683,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Their-Sacred-Place.ogg",
       "Hash": "4638594c94d54ce0e4adf3d3bf7360fa",
-      "Size": 1379847
+      "Size": 1379847,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Tower-Defense_Looping.ogg",
       "Hash": "5af9be9b1662770a07f60ac29dcf24d8",
-      "Size": 1637981
+      "Size": 1637981,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Trouble-in-the-Kingdom_Looping.ogg",
       "Hash": "839c9066404b9c4004e5e26d77e99e0c",
-      "Size": 1786509
+      "Size": 1786509,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Winding-Down_Looping.ogg",
       "Hash": "2d5ae739d2db1e264b3c9eedd3ef2cbd",
-      "Size": 310257
+      "Size": 310257,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/packs/graphics0.asset",
@@ -2289,1087 +2364,1304 @@
     {
       "Path": "resources/sounds/armor-light.wav",
       "Hash": "96bdf960c4a96e42a80888ac49e236b4",
-      "Size": 88434
+      "Size": 88434,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/beads.wav",
       "Hash": "20f6cd833fd9b3cd71a04c9e00e3980e",
-      "Size": 88434
+      "Size": 88434,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/beltHandle1.wav",
       "Hash": "021c521d3768c6de9483c3d644075024",
-      "Size": 55118
+      "Size": 55118,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/beltHandle2.wav",
       "Hash": "cdf9ccc304fc322c95dda3cdd801adda",
-      "Size": 93518
+      "Size": 93518,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/bite-small.wav",
       "Hash": "b6db250b877885276dc256a284be4707",
-      "Size": 73804
+      "Size": 73804,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/bite-small2.wav",
       "Hash": "6c149142addcb88260b8c3bb139d80a1",
-      "Size": 101078
+      "Size": 101078,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/bite-small3.wav",
       "Hash": "6a45e3285e7d166fb65fc356b5f56c6c",
-      "Size": 149290
+      "Size": 149290,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/bookClose.wav",
       "Hash": "794852651ea5c7054594c2482cc922df",
-      "Size": 46414
+      "Size": 46414,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/bookFlip1.wav",
       "Hash": "4aa265f48a372f96fc33339c2e8f766c",
-      "Size": 149326
+      "Size": 149326,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/bookFlip2.wav",
       "Hash": "5943b8fe5d884525113ed6c450db33a6",
-      "Size": 86350
+      "Size": 86350,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/bookFlip3.wav",
       "Hash": "dc168042f73673be9ca933eaa59a34f0",
-      "Size": 45390
+      "Size": 45390,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/bookOpen.wav",
       "Hash": "ad3c38a0d111b453e06e110b1b2ade7b",
-      "Size": 32590
+      "Size": 32590,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/bookPlace1.wav",
       "Hash": "b6313d6d1cf97703114c76c2adb44513",
-      "Size": 56654
+      "Size": 56654,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/bookPlace2.wav",
       "Hash": "2f72ce3a1377765f6ad7fc9f9f3e0237",
-      "Size": 69966
+      "Size": 69966,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/bookPlace3.wav",
       "Hash": "644f911e4aef4a4aff63bedaa7d7fe6f",
-      "Size": 52046
+      "Size": 52046,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/bottle.wav",
       "Hash": "1f4131749822833394065c503a959d5e",
-      "Size": 127698
+      "Size": 127698,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/bubble.wav",
       "Hash": "c7463dc9ab244159eee19fefaa79f1bb",
-      "Size": 121630
+      "Size": 121630,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/bubble2.wav",
       "Hash": "51b0ec6436930aa20265e6226a2e4ed7",
-      "Size": 116662
+      "Size": 116662,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/bubble3.wav",
       "Hash": "8dd55079abec9d04931b0a333627a2c4",
-      "Size": 193934
+      "Size": 193934,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/burp.wav",
       "Hash": "dc738834e9ff3379b12e10ad9c3d8561",
-      "Size": 349200
+      "Size": 349200,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/Cast.wav",
       "Hash": "0affb557ae8ed52b58d1f0cc971dafc0",
-      "Size": 45134
+      "Size": 45134,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/Cast_x1.5.wav",
       "Hash": "a9e1be1f3841f15323942eecd45c27c3",
-      "Size": 29886
+      "Size": 29886,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/Cast_x2.wav",
       "Hash": "5f9d7bd306df94a8bbc92a9933c18db3",
-      "Size": 22342
+      "Size": 22342,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/chainmail1.wav",
       "Hash": "3a28059f9cabf032f0e58771105821fd",
-      "Size": 155298
+      "Size": 155298,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/chainmail2.wav",
       "Hash": "6ee81c08fe5369925f2f3633fa6b8b9f",
-      "Size": 199456
+      "Size": 199456,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/chop.wav",
       "Hash": "84dd57360c2cd5096f2c9ec002250f0d",
-      "Size": 49998
+      "Size": 49998,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/click1.wav",
       "Hash": "6bd7f90e625024144db6a1b9c27f8bf9",
-      "Size": 18254
+      "Size": 18254,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/click2.wav",
       "Hash": "b7ac43ddc3a29ef1e113633cd1552811",
-      "Size": 10062
+      "Size": 10062,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/click3.wav",
       "Hash": "2a0121ea0517bfc9558dabc8d873c205",
-      "Size": 15694
+      "Size": 15694,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/click4.wav",
       "Hash": "da08711febe39a531535e7e3e8767e31",
-      "Size": 6734
+      "Size": 6734,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/click5.wav",
       "Hash": "bf5760190cdddb1165359901594afd80",
-      "Size": 6222
+      "Size": 6222,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/cloth-heavy.wav",
       "Hash": "cc9ef9e65b24f74ae7b655a4d85fd915",
-      "Size": 108792
+      "Size": 108792,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/cloth.wav",
       "Hash": "9cb10fb5eaf31d0b7a4e93ae48d0a3d3",
-      "Size": 132918
+      "Size": 132918,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/cloth1.wav",
       "Hash": "183d8c5c53819328277db41a71624a89",
-      "Size": 129870
+      "Size": 129870,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/cloth2.wav",
       "Hash": "e5b770ea0f19a00a3239acac2d740109",
-      "Size": 83790
+      "Size": 83790,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/cloth3.wav",
       "Hash": "cb117c87042759ac22e82dd3f7fdb683",
-      "Size": 95054
+      "Size": 95054,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/cloth4.wav",
       "Hash": "40dedfd1cdc1c3c2d4cad2e7cd52bbc0",
-      "Size": 74062
+      "Size": 74062,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/clothBelt.wav",
       "Hash": "187212250d697e8e933087e830c4cf6f",
-      "Size": 141134
+      "Size": 141134,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/clothBelt2.wav",
       "Hash": "783b1ab97633fe30065f8ce9492dd722",
-      "Size": 144718
+      "Size": 144718,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/coin.wav",
       "Hash": "a36bdfa96f06a28525be48fed6d3ea4c",
-      "Size": 174974
+      "Size": 174974,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/coin2.wav",
       "Hash": "71f18f4eda8fde40d2a9c4b44c8ecc96",
-      "Size": 289122
+      "Size": 289122,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/coin3.wav",
       "Hash": "934b1144aa4c182f150d4aad3b1ab92f",
-      "Size": 89812
+      "Size": 89812,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/Collapse3.wav",
       "Hash": "d2f0683ccbea32d0547eacedbded4b15",
-      "Size": 356192
+      "Size": 356192,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/creak1.wav",
       "Hash": "2eb88cac0a0f9e07be4ece72703dca8c",
-      "Size": 130894
+      "Size": 130894,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/creak2.wav",
       "Hash": "49f04234ee7046806fdf051c8d5d41e0",
-      "Size": 162126
+      "Size": 162126,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/creak3.wav",
       "Hash": "9b9271e72079cefbe8973e6fe211ba69",
-      "Size": 66382
+      "Size": 66382,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/Damage3.wav",
       "Hash": "541d20abbf856bafe3e066eb31472187",
-      "Size": 40798
+      "Size": 40798,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/Darkness5.wav",
       "Hash": "c913fd92581cf81ee413a6e7052b3d75",
-      "Size": 168782
+      "Size": 168782,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/dog1.wav",
       "Hash": "4ca17d108b01d0f0817ce293ef966374",
-      "Size": 286330
+      "Size": 286330,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/door.wav",
       "Hash": "1f54fcae089c345cbf4e14158f00872f",
-      "Size": 265692
+      "Size": 265692,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/doorClose_1.wav",
       "Hash": "1cc9e683159e93e1e92307bead511b98",
-      "Size": 133454
+      "Size": 133454,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/doorClose_2.wav",
       "Hash": "fc2550e6740bcac87d56d5c4d821e4b8",
-      "Size": 120654
+      "Size": 120654,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/doorClose_3.wav",
       "Hash": "b679855434b7a873bd83265b13d6965e",
-      "Size": 140110
+      "Size": 140110,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/doorClose_4.wav",
       "Hash": "864ffa543314ccae15bc0dc67b6af4eb",
-      "Size": 117070
+      "Size": 117070,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/doorOpen_1.wav",
       "Hash": "c41baf7a5b6f71fceebc32d31cd21153",
-      "Size": 176974
+      "Size": 176974,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/doorOpen_2.wav",
       "Hash": "0cc6633f57762ba4cda61b5f2e0b189f",
-      "Size": 275278
+      "Size": 275278,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/drawKnife1.wav",
       "Hash": "c51afdb5d40f14e085ad8f80c2c95035",
-      "Size": 80718
+      "Size": 80718,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/drawKnife2.wav",
       "Hash": "5758266210563523a0fe3236ccf1c76a",
-      "Size": 87374
+      "Size": 87374,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/drawKnife3.wav",
       "Hash": "bdd06d0dbfda50dda9b55b032671df96",
-      "Size": 94030
+      "Size": 94030,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/dropLeather.wav",
       "Hash": "8bad2b272b360d0dc14ab1fc002ce9d9",
-      "Size": 80718
+      "Size": 80718,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/Fireball+1.wav",
       "Hash": "fe600d6d33e0aa7b3e3f8ad6184a1920",
-      "Size": 152108
+      "Size": 152108,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/Fireball+2.wav",
       "Hash": "703ebf6ed94a26f8941a5d644e912973",
-      "Size": 172048
+      "Size": 172048,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/Fireball+3.wav",
       "Hash": "ea08629b6f9c538fceb8a80196f4ffde",
-      "Size": 71852
+      "Size": 71852,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/footstep00.wav",
       "Hash": "f0163a7bd384b6e50ea2ab5f710bdeb5",
-      "Size": 49486
+      "Size": 49486,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/footstep01.wav",
       "Hash": "77648e5912f53b1a73e23a92e816f4b9",
-      "Size": 54606
+      "Size": 54606,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/footstep02.wav",
       "Hash": "54b22deea1b32c11172dba1b5573ab94",
-      "Size": 48974
+      "Size": 48974,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/footstep03.wav",
       "Hash": "c0cfa2fbdd48534fcdbbcef2af8e4090",
-      "Size": 55630
+      "Size": 55630,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/footstep04.wav",
       "Hash": "063527efbb5ad3b2c42b5cf3cac9c375",
-      "Size": 64334
+      "Size": 64334,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/footstep05.wav",
       "Hash": "75365830bc28dad75b939a68107bfc09",
-      "Size": 53070
+      "Size": 53070,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/footstep06.wav",
       "Hash": "43b3e82fc2f74811bb74f49831cca149",
-      "Size": 49998
+      "Size": 49998,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/footstep07.wav",
       "Hash": "afebc7e8be73676eb8515d05ca15a641",
-      "Size": 52046
+      "Size": 52046,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/footstep08.wav",
       "Hash": "f5efeb1c4ce729edde3a1469f1d91a26",
-      "Size": 51534
+      "Size": 51534,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/footstep09.wav",
       "Hash": "ab2774906c10173e860e52399adca62d",
-      "Size": 41806
+      "Size": 41806,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/giant1.wav",
       "Hash": "006148ff441f12336561088c1ace3db1",
-      "Size": 186990
+      "Size": 186990,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/giant2.wav",
       "Hash": "c45bbd40b8293e8d7ac4ad42855bafb2",
-      "Size": 267794
+      "Size": 267794,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/giant3.wav",
       "Hash": "abf77d23c0199649b6b731bb606c77f5",
-      "Size": 180982
+      "Size": 180982,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/giant4.wav",
       "Hash": "2e99d69e36d6e34058de86bd6d3681d2",
-      "Size": 156950
+      "Size": 156950,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/giant5.wav",
       "Hash": "056ace2f2bedec6fd9c953ba03dc423a",
-      "Size": 205314
+      "Size": 205314,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/handleCoins.wav",
       "Hash": "9ba84598a9487761407c5ee9b952f7a0",
-      "Size": 164174
+      "Size": 164174,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/handleCoins2.wav",
       "Hash": "1967a850a21777b9c38f8a9d2a6cd678",
-      "Size": 67406
+      "Size": 67406,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/handleSmallLeather.wav",
       "Hash": "0be0794f1924ce9bae41edaee3f10af7",
-      "Size": 67918
+      "Size": 67918,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/handleSmallLeather2.wav",
       "Hash": "336e1e5435816f869ff20afb1b2beca6",
-      "Size": 59726
+      "Size": 59726,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/interface1.wav",
       "Hash": "5f1f124c560a74b84ffb15bb5872c7a4",
-      "Size": 50150
+      "Size": 50150,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/interface2.wav",
       "Hash": "6024cbaad41f79c1dacb8c3478b13c8e",
-      "Size": 119004
+      "Size": 119004,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/interface3.wav",
       "Hash": "b9a008caba907f2f9306fc45abfaa20b",
-      "Size": 119010
+      "Size": 119010,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/interface4.wav",
       "Hash": "d3487c8492740edc122e04d4f0326982",
-      "Size": 72414
+      "Size": 72414,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/interface5.wav",
       "Hash": "e8352bb689d55486ba5b93c7bd016132",
-      "Size": 72326
+      "Size": 72326,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/interface6.wav",
       "Hash": "a1c85aba66e4a61735d63f011c21325b",
-      "Size": 88434
+      "Size": 88434,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/knifeSlice.wav",
       "Hash": "cdca6314db9a7fd865334168aa04710a",
-      "Size": 117070
+      "Size": 117070,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/knifeSlice2.wav",
       "Hash": "12f566a9b2a6841d0d640c45c599bd29",
-      "Size": 111950
+      "Size": 111950,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/magic1.wav",
       "Hash": "f9786131a64605dd7b83ea5c0bd65503",
-      "Size": 232576
+      "Size": 232576,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/metal-ringing.wav",
       "Hash": "c66898f089e522f18a4d145ed89d7f45",
-      "Size": 149740
+      "Size": 149740,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/metal-small1.wav",
       "Hash": "af1ee2788c9f21fdd1fce794632d11e9",
-      "Size": 140536
+      "Size": 140536,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/metal-small2.wav",
       "Hash": "e0966616c5d23e173e559db4d92b7490",
-      "Size": 96422
+      "Size": 96422,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/metal-small3.wav",
       "Hash": "72e286b4d1c32fee1f937899d86cc564",
-      "Size": 132918
+      "Size": 132918,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/metalClick.wav",
       "Hash": "890504342a3dd45d846c4ba467562b65",
-      "Size": 87886
+      "Size": 87886,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/metalLatch.wav",
       "Hash": "563f04cd99af7613e77ee7bf6afbfc09",
-      "Size": 53070
+      "Size": 53070,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/metalPot1.wav",
       "Hash": "e44321146a6442602efca3eda9753495",
-      "Size": 281934
+      "Size": 281934,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/metalPot2.wav",
       "Hash": "de7a5ca18328b3b51db8fb8a8604ed6f",
-      "Size": 183118
+      "Size": 183118,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/metalPot3.wav",
       "Hash": "d511dac138eebfd50c4b690c48a9ad41",
-      "Size": 174414
+      "Size": 174414,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mnstr1.wav",
       "Hash": "76509ccc865041457e66d80529905382",
-      "Size": 126912
+      "Size": 126912,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mnstr10.wav",
       "Hash": "c3226e9654d820bae7634ceb366d934f",
-      "Size": 157702
+      "Size": 157702,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mnstr11.wav",
       "Hash": "248d9fe7850a13affbbea0716604110f",
-      "Size": 217028
+      "Size": 217028,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mnstr12.wav",
       "Hash": "ff3a5fcde2ed8aeb3a73c41b0bc2d656",
-      "Size": 126912
+      "Size": 126912,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mnstr13.wav",
       "Hash": "dd39fa24156fa8c16769a1fe69c3e65c",
-      "Size": 156800
+      "Size": 156800,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mnstr14.wav",
       "Hash": "959c7458120a9b9252d8a5d232a78435",
-      "Size": 305042
+      "Size": 305042,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mnstr15.wav",
       "Hash": "ac5f08d53af287a9da515b7cceb38292",
-      "Size": 108888
+      "Size": 108888,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mnstr2.wav",
       "Hash": "88de31a8de9fc73db3929ae71e2728f5",
-      "Size": 144934
+      "Size": 144934,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mnstr3.wav",
       "Hash": "f9bc64b0c87071a4a807f0cbbe0c8b40",
-      "Size": 156950
+      "Size": 156950,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mnstr4.wav",
       "Hash": "80ab853d111ff6a6c1ad8555f704670b",
-      "Size": 203510
+      "Size": 203510,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mnstr5.wav",
       "Hash": "d24516f8e68af9a219cd2f961b44f74d",
-      "Size": 266292
+      "Size": 266292,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mnstr6.wav",
       "Hash": "f457ad7d26aab45cff2fac4df24ea319",
-      "Size": 205012
+      "Size": 205012,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mnstr7.wav",
       "Hash": "cc1e118928c1075e5db0dcf8bb4a9d60",
-      "Size": 188040
+      "Size": 188040,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mnstr8.wav",
       "Hash": "da38155379462b8228743a04532faf85",
-      "Size": 168966
+      "Size": 168966,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mnstr9.wav",
       "Hash": "56f3b9c2c7f7cff81ce259a0e17b6d42",
-      "Size": 217780
+      "Size": 217780,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mouseclick1.wav",
       "Hash": "b60b34280430e6a31a32292db8dddc56",
-      "Size": 13646
+      "Size": 13646,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/mouserelease1.wav",
       "Hash": "d629acce05e6460882534dfbe91a58b4",
-      "Size": 15182
+      "Size": 15182,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/octave-beep-tapped.wav",
       "Hash": "6fe1e6c457abde7190882536f5ba0e5a",
-      "Size": 3050
+      "Size": 3050,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/octave-tap-professional.wav",
       "Hash": "f6e87515af696143eb0a9d36d58d3d95",
-      "Size": 4096
+      "Size": 4096,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/octave-tap-resonant.wav",
       "Hash": "98ae6a916b10c0da42e6f550ae11d3e6",
-      "Size": 1784
+      "Size": 1784,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/octave-tap-warm.wav",
       "Hash": "d61cf87144a95f199198f69547bda013",
-      "Size": 2010
+      "Size": 2010,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/ogre1.wav",
       "Hash": "6257bd4cdc21e7cd4f69d21f688e814a",
-      "Size": 117148
+      "Size": 117148,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/ogre2.wav",
       "Hash": "1d323a0aedd3fd01bae0680d9295dae6",
-      "Size": 170468
+      "Size": 170468,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/ogre3.wav",
       "Hash": "a731e9285e208f33101e6aaf2e56477e",
-      "Size": 167614
+      "Size": 167614,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/ogre4.wav",
       "Hash": "be625031bf550d444e3ea6ced6eb4a27",
-      "Size": 167464
+      "Size": 167464,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/ogre5.wav",
       "Hash": "e8fc539d3bedcabfa8dcb17d64f82710",
-      "Size": 99426
+      "Size": 99426,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/PickAxe_001.wav",
       "Hash": "0d7b844f4a4e00a913560745f69a3787",
-      "Size": 122462
+      "Size": 122462,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/Raise2.wav",
       "Hash": "69792e66fe4e74be388ed7f1d456ccc1",
-      "Size": 49998
+      "Size": 49998,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/random1.wav",
       "Hash": "cc4376aaa2ed797bbb5920c1fd3fa2d5",
-      "Size": 174594
+      "Size": 174594,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/random2.wav",
       "Hash": "7d2482721e84020afade1afaee52aa06",
-      "Size": 120904
+      "Size": 120904,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/random3.wav",
       "Hash": "53be7e72af5a796f90a1a7c113ef1d18",
-      "Size": 114896
+      "Size": 114896,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/random4.wav",
       "Hash": "fb85b3f390c7f4d22cf63e00b1428b01",
-      "Size": 199004
+      "Size": 199004,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/random5.wav",
       "Hash": "db4f1b7e77130548e028c4e46080d82e",
-      "Size": 103000
+      "Size": 103000,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/random6.wav",
       "Hash": "73e31b37b7bcf5a246174d537c35d814",
-      "Size": 133220
+      "Size": 133220,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/rollover1.wav",
       "Hash": "306b86049738ef154baa7c2eff6b7e1b",
-      "Size": 41806
+      "Size": 41806,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/rollover2.wav",
       "Hash": "fc5ee3bcac1c19e223b57ee00801a3b1",
-      "Size": 11086
+      "Size": 11086,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/rollover3.wav",
       "Hash": "bd2b2a86e7714b2d55e7b3843c4b896e",
-      "Size": 15182
+      "Size": 15182,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/rollover4.wav",
       "Hash": "0ba19042f43e99c5073f27ee6108639d",
-      "Size": 21838
+      "Size": 21838,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/rollover5.wav",
       "Hash": "911ecd10bb3aba286dc41df3b7333b0d",
-      "Size": 22862
+      "Size": 22862,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/rollover6.wav",
       "Hash": "566407c0bbe701d7778d2485b3b48831",
-      "Size": 31054
+      "Size": 31054,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/shade1.wav",
       "Hash": "b068a4843300cff5c76c314e878ad637",
-      "Size": 153646
+      "Size": 153646,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/shade10.wav",
       "Hash": "a640a37ec7a0b75153c28e84f95c5f05",
-      "Size": 292426
+      "Size": 292426,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/shade11.wav",
       "Hash": "088a0b7b167a27cea905c2e95d0255c7",
-      "Size": 325168
+      "Size": 325168,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/shade12.wav",
       "Hash": "e9964de72757523e8101f429eaaed801",
-      "Size": 379240
+      "Size": 379240,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/shade13.wav",
       "Hash": "f53eb92322484162441faa3d86b3f335",
-      "Size": 331176
+      "Size": 331176,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/shade14.wav",
       "Hash": "957a4848940932cbabda7d2697246f08",
-      "Size": 162958
+      "Size": 162958,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/shade15.wav",
       "Hash": "50c563f5aba33ef0d08ad5cdd0f276ff",
-      "Size": 186990
+      "Size": 186990,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/shade2.wav",
       "Hash": "a80052aa860433d76bfb344486e065d4",
-      "Size": 159654
+      "Size": 159654,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/shade3.wav",
       "Hash": "8f241a000c5b16d466a9d2b67295e4ad",
-      "Size": 172120
+      "Size": 172120,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/shade4.wav",
       "Hash": "d7b6f9cb7812018060003d20e0714c3d",
-      "Size": 193448
+      "Size": 193448,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/shade5.wav",
       "Hash": "1ff6341159dbf61fc6d968ffd28da350",
-      "Size": 192996
+      "Size": 192996,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/shade6.wav",
       "Hash": "8c6901c5f2650a0910976b8a16915cc4",
-      "Size": 316908
+      "Size": 316908,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/shade7.wav",
       "Hash": "3a9a8a7fcf3225055d054e9b2d1c2ead",
-      "Size": 358062
+      "Size": 358062,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/shade8.wav",
       "Hash": "277f646c944e826383997ebf065d73f1",
-      "Size": 472510
+      "Size": 472510,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/shade9.wav",
       "Hash": "393eb7a5011a91a8bc03ec3d083b716e",
-      "Size": 451332
+      "Size": 451332,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/slime1.wav",
       "Hash": "8b5be09617865b89fa557cdfa907bc35",
-      "Size": 49566
+      "Size": 49566,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/slime10.wav",
       "Hash": "b42f0c85b035692febb88e186eaa2d39",
-      "Size": 61942
+      "Size": 61942,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/slime2.wav",
       "Hash": "7b5ef94c771ff21c084e69bf8a7a02fb",
-      "Size": 55846
+      "Size": 55846,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/slime3.wav",
       "Hash": "6b5fd860dca2bb8920d3280927ba8624",
-      "Size": 44524
+      "Size": 44524,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/slime4.wav",
       "Hash": "ce4c15ffb3fd16fa4b2a40894cffb234",
-      "Size": 49566
+      "Size": 49566,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/slime5.wav",
       "Hash": "940c69f2f6677665fab0ce3e8045a694",
-      "Size": 49566
+      "Size": 49566,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/slime6.wav",
       "Hash": "c66468724e7aa57dfda53b9a83761eb5",
-      "Size": 74318
+      "Size": 74318,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/slime7.wav",
       "Hash": "a358408e02645f1decd7ac3f0c4ca536",
-      "Size": 61942
+      "Size": 61942,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/slime8.wav",
       "Hash": "6d8afee553f6dadff4f8d20cb79c6ee5",
-      "Size": 99070
+      "Size": 99070,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/slime9.wav",
       "Hash": "ec56c0aeba1f9d8b78b53d5d5644523a",
-      "Size": 86694
+      "Size": 86694,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/spell.wav",
       "Hash": "506f0c015dea581840c470e7d91bad75",
-      "Size": 861816
+      "Size": 861816,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/spellcast-46164.wav",
       "Hash": "40cfdd5beac1fb71d56ebe91c72f9000",
-      "Size": 368718
+      "Size": 368718,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/swing.wav",
       "Hash": "12dc62af3096f24cc5ae2fb14f50ae67",
-      "Size": 61462
+      "Size": 61462,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/swing2.wav",
       "Hash": "b7a09fd250f5449e56859cf147c2e074",
-      "Size": 39384
+      "Size": 39384,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/swing3.wav",
       "Hash": "988083af915201c7a5d9e1f2850fa5a5",
-      "Size": 37316
+      "Size": 37316,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch1.wav",
       "Hash": "c282ecfef01b837d9d8d00f01318380f",
-      "Size": 57166
+      "Size": 57166,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch10.wav",
       "Hash": "6320e28a3b9cd93e5d3b13845c824f97",
-      "Size": 68430
+      "Size": 68430,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch11.wav",
       "Hash": "54d03e54a63064eb641f034b84ea872b",
-      "Size": 55118
+      "Size": 55118,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch12.wav",
       "Hash": "fe740d741e56e73c5a30fb24de4c939f",
-      "Size": 12110
+      "Size": 12110,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch13.wav",
       "Hash": "fe8f33866cad702cf461697cb8fe9b23",
-      "Size": 8014
+      "Size": 8014,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch14.wav",
       "Hash": "5247e34472173c2a6b2060e7e2e45d95",
-      "Size": 6222
+      "Size": 6222,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch15.wav",
       "Hash": "8d24d9ae61e4a93dfcde7a3b09ec61e6",
-      "Size": 46926
+      "Size": 46926,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch16.wav",
       "Hash": "f73db7f8eb28c3b232a686789488dee1",
-      "Size": 66382
+      "Size": 66382,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch17.wav",
       "Hash": "ec06acd8d8a412337eb2ff4d7a6fe6bd",
-      "Size": 62286
+      "Size": 62286,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch18.wav",
       "Hash": "43ac7932a01f54a715853c1cb14080f6",
-      "Size": 77134
+      "Size": 77134,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch19.wav",
       "Hash": "0aa0a78c422f9556b7b439e0243700bd",
-      "Size": 69454
+      "Size": 69454,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch2.wav",
       "Hash": "0c984a246df3b2596a7932e3db923dba",
-      "Size": 56142
+      "Size": 56142,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch20.wav",
       "Hash": "b2d88cf65c022638dee2fa8b4706b3dc",
-      "Size": 64334
+      "Size": 64334,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch21.wav",
       "Hash": "3f39d06f9500459d3fa300c773dfb7de",
-      "Size": 74062
+      "Size": 74062,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch22.wav",
       "Hash": "015cde72e003e95d985fbc038766f280",
-      "Size": 65358
+      "Size": 65358,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch23.wav",
       "Hash": "00bda8983e7dde7b34a95eeef2f413af",
-      "Size": 70478
+      "Size": 70478,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch24.wav",
       "Hash": "02faf84cf7a1f94a8b9bb16d9fd54b3c",
-      "Size": 49998
+      "Size": 49998,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch25.wav",
       "Hash": "e1122430f1706694a9952d514dd27c17",
-      "Size": 67918
+      "Size": 67918,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch26.wav",
       "Hash": "1beae1e395bbce96ff58ffff4ca426c4",
-      "Size": 41806
+      "Size": 41806,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch27.wav",
       "Hash": "7809dbf29b4f89333d2745ecbce04adf",
-      "Size": 52046
+      "Size": 52046,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch28.wav",
       "Hash": "4142f49f5ed6dcef27bb337d92e04e71",
-      "Size": 38222
+      "Size": 38222,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch29.wav",
       "Hash": "26b02e1b3a0965d43d6fee60a8ad63e2",
-      "Size": 55630
+      "Size": 55630,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch3.wav",
       "Hash": "a49481ce6ed52e10aa5d5217f26a6522",
-      "Size": 64846
+      "Size": 64846,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch30.wav",
       "Hash": "ef12eb2959ecc505a070ebb2c56e344f",
-      "Size": 65870
+      "Size": 65870,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch31.wav",
       "Hash": "cb571932c1bf0af6e41e646462e800b7",
-      "Size": 78670
+      "Size": 78670,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch32.wav",
       "Hash": "408b922e96453616134ae172846f519b",
-      "Size": 79182
+      "Size": 79182,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch33.wav",
       "Hash": "e004943bf9bc298a20557608e526402e",
-      "Size": 90446
+      "Size": 90446,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch34.wav",
       "Hash": "71e10a39de71f51b6b80dd6be3a5ead9",
-      "Size": 85326
+      "Size": 85326,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch35.wav",
       "Hash": "1a986dde7c675359d23ce30905d96061",
-      "Size": 60750
+      "Size": 60750,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch36.wav",
       "Hash": "ef79484bcf3011cc6e62161515f75cdf",
-      "Size": 58190
+      "Size": 58190,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch37.wav",
       "Hash": "2ffe1a738e8d2e12ff5d164a4e2800cf",
-      "Size": 55630
+      "Size": 55630,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch38.wav",
       "Hash": "17334136fa081ec9d4ef9eb879d44f1c",
-      "Size": 75086
+      "Size": 75086,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch4.wav",
       "Hash": "f79c074b2228b93cd065b9c29b592873",
-      "Size": 76110
+      "Size": 76110,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch5.wav",
       "Hash": "2dbc49025b64ce2ef84f670c0ef78576",
-      "Size": 55630
+      "Size": 55630,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch6.wav",
       "Hash": "a31fd9de4339e1d28554977ec81077ab",
-      "Size": 64334
+      "Size": 64334,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch7.wav",
       "Hash": "d90adf704fc5ae85850499e42359f804",
-      "Size": 37710
+      "Size": 37710,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch8.wav",
       "Hash": "99617806ffe948d3958945f73ecbc170",
-      "Size": 60238
+      "Size": 60238,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/switch9.wav",
       "Hash": "dc4d7eef5ecd190fa8244d76a388542d",
-      "Size": 46414
+      "Size": 46414,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/sword-unsheathe.wav",
       "Hash": "76ec3ef9de490a5eb14b6ff55decb9ec",
-      "Size": 156950
+      "Size": 156950,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/sword-unsheathe2.wav",
       "Hash": "8f8992855f7b84c1904d690dda9aeb71",
-      "Size": 107086
+      "Size": 107086,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/sword-unsheathe3.wav",
       "Hash": "037cf920489132438466ebc2762e2171",
-      "Size": 148990
+      "Size": 148990,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/sword-unsheathe4.wav",
       "Hash": "fd3624b9e83c275f6cfb32aea96ea359",
-      "Size": 138926
+      "Size": 138926,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/sword-unsheathe5.wav",
       "Hash": "d99808a565a705542437d024a1dcf482",
-      "Size": 123006
+      "Size": 123006,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/Thunder4.wav",
       "Hash": "1793f289cc303cbb8a400125f9f8601f",
-      "Size": 43854
+      "Size": 43854,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/ticking-clock.wav",
       "Hash": "e7290a4a3e8494f9a12a2813ea320163",
-      "Size": 1444686
+      "Size": 1444686,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/wolfman.wav",
       "Hash": "99d65ac76eecc620b6a79d0dd7d0da49",
-      "Size": 120152
+      "Size": 120152,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/sounds/wood-small.wav",
       "Hash": "ed040ff4becffe76fb9b80ca5681ba19",
-      "Size": 83546
+      "Size": 83546,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/updater/background.png",
