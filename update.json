@@ -2089,26 +2089,6 @@
       "Path": "resources/packs/sound3.asset",
       "Checksum": "U2QqrJhM6bE=",
       "Size": 1979654
-    },
-    {
-      "Path": "resources/updater/background.png",
-      "Checksum": "TX1uQYsqgo4=",
-      "Size": 1003682
-    },
-    {
-      "Path": "resources/updater/font.xnb",
-      "Checksum": "qiKSJ9HOIMw=",
-      "Size": 689774
-    },
-    {
-      "Path": "resources/updater/fontsmall.xnb",
-      "Checksum": "KWefE7TuLtY=",
-      "Size": 423534
-    },
-    {
-      "Path": "resources/updater/progressbar.png",
-      "Checksum": "oWNKUuI1zD4=",
-      "Size": 20669
     }
   ],
   "StreamingSizeCutoff": 1048576
