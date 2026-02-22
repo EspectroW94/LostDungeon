@@ -27,7 +27,7 @@
     "StartToEnd"
   ],
   "TypewriterEnabled": true,
-  "TypewriterFullStopCharacters": [
+  "TypewriterFullStops": [
     ".",
     "!",
     "?",
@@ -35,7 +35,7 @@
   ],
   "TypewriterFullStopDelay": 400,
   "TypewriterPartDelay": 6,
-  "TypewriterPauseCharacters": [
+  "TypewriterPauses": [
     ",",
     ";",
     "-"
@@ -45,5 +45,6 @@
   "TypewriterSoundFrequency": 5,
   "TypewriterSounds": [
     "octave-beep-tapped.wav"
-  ]
+  ],
+  "DimmedEventWindowBackground": true
 }
