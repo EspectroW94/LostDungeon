@@ -2109,6 +2109,16 @@
       "Path": "resources/updater/progressbar.png",
       "Checksum": "oWNKUuI1zD4=",
       "Size": 20669
+    },
+    {
+      "Path": "resources/updater/updater.png",
+      "Checksum": "TX1uQYsqgo4=",
+      "Size": 1003682
+    },
+    {
+      "Path": "resources/updater/updater_bar.png",
+      "Checksum": "oWNKUuI1zD4=",
+      "Size": 20669
     }
   ],
   "StreamingSizeCutoff": 1048576
