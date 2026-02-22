@@ -1,9 +1,10 @@
 {
   "Bounds": "0,0,10,10",
+  "Dock": "None",
   "Padding": "2,6,2,2",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
-  "Margin": "0,0,0,0",
+  "Margin": "4,4,4,4",
   "RenderColor": "255,255,255,255",
   "Alignments": "",
   "DrawBackground": true,
@@ -16,8 +17,9 @@
   "HideToolTip": false,
   "ToolTipBackground": null,
   "ToolTipFont": null,
-  "ToolTipTextColor": "",
+  "TooltipTextColor": null,
   "Texture": null,
+  "TextureNinePatchMargin": null,
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null

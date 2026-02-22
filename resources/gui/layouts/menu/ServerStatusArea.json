@@ -1,5 +1,6 @@
 {
   "Bounds": "0,744,200,24",
+  "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -16,14 +17,16 @@
   "HideToolTip": false,
   "ToolTipBackground": null,
   "ToolTipFont": null,
-  "ToolTipTextColor": "",
+  "TooltipTextColor": null,
   "Texture": "statusbg.png",
+  "TextureNinePatchMargin": null,
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null,
   "Children": {
     "ServerStatusLabel": {
       "Bounds": "0,4,200,16",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -40,16 +43,16 @@
       "HideToolTip": false,
       "ToolTipBackground": null,
       "ToolTipFont": null,
-      "ToolTipTextColor": "",
+      "TooltipTextColor": null,
       "BackgroundTemplate": null,
       "TextColor": "255,220,220,220",
-      "HoveredTextColor": "",
-      "ClickedTextColor": "",
+      "HoveredTextColor": null,
+      "ClickedTextColor": null,
       "DisabledTextColor": "255,220,220,220",
       "TextAlign": "Center",
-      "TextPadding": "0,2,0,0",
       "AutoSizeToContents": false,
-      "Font": "sourcesansproblack,10",
+      "FontName": "sourcesansproblack",
+      "FontSize": 10,
       "TextScale": 1.0
     }
   }

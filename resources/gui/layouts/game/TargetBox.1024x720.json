@@ -73,7 +73,7 @@
           "TextAlign": "Left, Top",
           "TextPadding": "0,0,0,0",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,8",
+          "Font": "sourcesansproblack,10",
           "TextScale": 1.0
         },
         "EntityLevelLabel": {
@@ -103,7 +103,7 @@
           "TextAlign": "Left, Top",
           "TextPadding": "0,0,0,0",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,8",
+          "Font": "sourcesansproblack,10",
           "TextScale": 1.0
         },
         "NameAndLevelLabel": {
@@ -133,7 +133,7 @@
           "TextAlign": "Left, Top",
           "TextPadding": "0,0,0,0",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,8",
+          "Font": "sourcesansproblack,10",
           "TextScale": 1.0
         },
         "EntityMapLabel": {
@@ -191,7 +191,8 @@
           "RightMouseClickSound": null
         },
         "EventDescLabel": {
-          "Bounds": "93,43,180,0",
+          "Bounds": "85,39,195,39",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -199,7 +200,7 @@
           "RenderColor": "255,255,255,255",
           "Alignments": "",
           "DrawBackground": true,
-          "MinimumSize": "1,1",
+          "MinimumSize": "100,1",
           "MaximumSize": "4096,4096",
           "Disabled": false,
           "Hidden": false,
@@ -208,7 +209,7 @@
           "HideToolTip": false,
           "ToolTipBackground": null,
           "ToolTipFont": null,
-          "ToolTipTextColor": "",
+          "TooltipTextColor": null,
           "Font": "sourcesansproblack,8"
         },
         "HPBarBackground": {
