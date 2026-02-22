@@ -1,964 +1,3 @@
-<<<<<<< HEAD
-{
-  "Files": [
-    {
-      "Path": "Legends Resurrected Online.exe",
-      "Checksum": "HmSNzAyxLf8=",
-      "Size": 46453439
-    },
-    {
-      "Path": "resources/client_strings.json",
-      "Checksum": "OmNINZwtBkg=",
-      "Size": 46514
-    },
-    {
-      "Path": "resources/config.json",
-      "Checksum": "3NMS4Uy05JQ=",
-      "Size": 1189
-    },
-    {
-      "Path": "resources/credits.json",
-      "Checksum": "eCEbR/AO1u4=",
-      "Size": 16982
-    },
-    {
-      "Path": "resources/fonts/sourcesansproblack_10.xnb",
-      "Checksum": "3hfz+cLgj6k=",
-      "Size": 362102
-    },
-    {
-      "Path": "resources/fonts/sourcesansproblack_11.xnb",
-      "Checksum": "TVZWsm1DXTo=",
-      "Size": 403062
-    },
-    {
-      "Path": "resources/fonts/sourcesansproblack_12.xnb",
-      "Checksum": "kwXy9IwddUY=",
-      "Size": 468598
-    },
-    {
-      "Path": "resources/fonts/sourcesansproblack_14.xnb",
-      "Checksum": "pTMcsbYMHEI=",
-      "Size": 558710
-    },
-    {
-      "Path": "resources/fonts/sourcesansproblack_16.xnb",
-      "Checksum": "o6TUi6Qh2UU=",
-      "Size": 689782
-    },
-    {
-      "Path": "resources/fonts/sourcesansproblack_18.xnb",
-      "Checksum": "x75ArLw7MO4=",
-      "Size": 878198
-    },
-    {
-      "Path": "resources/fonts/sourcesansproblack_20.xnb",
-      "Checksum": "MTYwbFq8jYk=",
-      "Size": 992886
-    },
-    {
-      "Path": "resources/fonts/sourcesansproblack_22.xnb",
-      "Checksum": "ZuwQsf95bB8=",
-      "Size": 1140342
-    },
-    {
-      "Path": "resources/fonts/sourcesansproblack_24.xnb",
-      "Checksum": "aytFKKS2r0U=",
-      "Size": 1377910
-    },
-    {
-      "Path": "resources/fonts/sourcesansproblack_26.xnb",
-      "Checksum": "0c8n2trlRIM=",
-      "Size": 1590902
-    },
-    {
-      "Path": "resources/fonts/sourcesansproblack_8.xnb",
-      "Checksum": "3/G1i3DnUTM=",
-      "Size": 263798
-    },
-    {
-      "Path": "resources/fonts/sourcesansproblack_9.xnb",
-      "Checksum": "CxXwexs8h84=",
-      "Size": 312950
-    },
-    {
-      "Path": "resources/fonts/sourcesanspro_10.xnb",
-      "Checksum": "S6EA/sDNnoI=",
-      "Size": 308854
-    },
-    {
-      "Path": "resources/fonts/sourcesanspro_11.xnb",
-      "Checksum": "bRY5UfVP3hI=",
-      "Size": 370294
-    },
-    {
-      "Path": "resources/fonts/sourcesanspro_12.xnb",
-      "Checksum": "k/HY1SZ/xns=",
-      "Size": 423542
-    },
-    {
-      "Path": "resources/fonts/sourcesanspro_14.xnb",
-      "Checksum": "gZ3SzviH7nk=",
-      "Size": 509558
-    },
-    {
-      "Path": "resources/fonts/sourcesanspro_16.xnb",
-      "Checksum": "7hHI9cs2dNk=",
-      "Size": 607862
-    },
-    {
-      "Path": "resources/fonts/sourcesanspro_18.xnb",
-      "Checksum": "TJVXpOP4qWw=",
-      "Size": 738934
-    },
-    {
-      "Path": "resources/fonts/sourcesanspro_20.xnb",
-      "Checksum": "utF2upa/sNw=",
-      "Size": 910966
-    },
-    {
-      "Path": "resources/fonts/sourcesanspro_22.xnb",
-      "Checksum": "AFqDoHUOfmc=",
-      "Size": 1017462
-    },
-    {
-      "Path": "resources/fonts/sourcesanspro_24.xnb",
-      "Checksum": "zN7N7vzhslg=",
-      "Size": 1222262
-    },
-    {
-      "Path": "resources/fonts/sourcesanspro_26.xnb",
-      "Checksum": "QxELdxT6Jr4=",
-      "Size": 1377910
-    },
-    {
-      "Path": "resources/fonts/sourcesanspro_8.xnb",
-      "Checksum": "ekRT96l+l5o=",
-      "Size": 259702
-    },
-    {
-      "Path": "resources/fonts/sourcesanspro_9.xnb",
-      "Checksum": "8/cpsT9xQGM=",
-      "Size": 263798
-    },
-    {
-      "Path": "resources/gui/layouts/debug/DebugWindow.json",
-      "Checksum": "35bXriEn7Io=",
-      "Size": 13851
-    },
-    {
-      "Path": "resources/gui/layouts/game/AdminWindow.json",
-      "Checksum": "/bYfHmiFRAA=",
-      "Size": 89508
-    },
-    {
-      "Path": "resources/gui/layouts/game/AnnouncementWindow.json",
-      "Checksum": "L25AA+b5g/w=",
-      "Size": 1691
-    },
-    {
-      "Path": "resources/gui/layouts/game/BagContextMenu.json",
-      "Checksum": "VAZf7Eha6mA=",
-      "Size": 8274
-    },
-    {
-      "Path": "resources/gui/layouts/game/BagItem.json",
-      "Checksum": "0ErK97LSOBE=",
-      "Size": 2361
-    },
-    {
-      "Path": "resources/gui/layouts/game/BagWindow.json",
-      "Checksum": "T0yAgI4p+eE=",
-      "Size": 15617
-    },
-    {
-      "Path": "resources/gui/layouts/game/BankContextMenu.json",
-      "Checksum": "VAZf7Eha6mA=",
-      "Size": 8274
-    },
-    {
-      "Path": "resources/gui/layouts/game/BankItem.json",
-      "Checksum": "J6+IxdJWzsA=",
-      "Size": 2362
-    },
-    {
-      "Path": "resources/gui/layouts/game/BankWindow.json",
-      "Checksum": "FAWqZsqWZC0=",
-      "Size": 15617
-    },
-    {
-      "Path": "resources/gui/layouts/game/BanMuteWindow.json",
-      "Checksum": "wIe8C8A3WP8=",
-      "Size": 36814
-    },
-    {
-      "Path": "resources/gui/layouts/game/CharacterWindow.json",
-      "Checksum": "E80yfSzAmWk=",
-      "Size": 120535
-    },
-    {
-      "Path": "resources/gui/layouts/game/ChatboxWindow.json",
-      "Checksum": "ePmTtcn2GF0=",
-      "Size": 41529
-    },
-    {
-      "Path": "resources/gui/layouts/game/ChatContextMenu.json",
-      "Checksum": "FsoZkBGK9Xo=",
-      "Size": 8710
-    },
-    {
-      "Path": "resources/gui/layouts/game/CraftedItem.json",
-      "Checksum": "E6qg27TREQ8=",
-      "Size": 2423
-    },
-    {
-      "Path": "resources/gui/layouts/game/CraftingIngredient.json",
-      "Checksum": "8hq4lbkGeec=",
-      "Size": 2423
-    },
-    {
-      "Path": "resources/gui/layouts/game/CraftingWindow.json",
-      "Checksum": "QpJQpUa+RTM=",
-      "Size": 36385
-    },
-    {
-      "Path": "resources/gui/layouts/game/DescriptionWindow.json",
-      "Checksum": "iwpZ/StOWkc=",
-      "Size": 664
-    },
-    {
-      "Path": "resources/gui/layouts/game/DescriptionWindowDescription.json",
-      "Checksum": "BcoHpSaIEtw=",
-      "Size": 1353
-    },
-    {
-      "Path": "resources/gui/layouts/game/DescriptionWindowDivider.json",
-      "Checksum": "M4eeggP9Cqw=",
-      "Size": 677
-    },
-    {
-      "Path": "resources/gui/layouts/game/DescriptionWindowHeader.json",
-      "Checksum": "/AlwyFFHXm0=",
-      "Size": 5312
-    },
-    {
-      "Path": "resources/gui/layouts/game/DescriptionWindowRowContainer.json",
-      "Checksum": "JH5Y17eWGg4=",
-      "Size": 3681
-    },
-    {
-      "Path": "resources/gui/layouts/game/Draggable.json",
-      "Checksum": "a+4B84vXqY4=",
-      "Size": 640
-    },
-    {
-      "Path": "resources/gui/layouts/game/EquipmentItem.json",
-      "Checksum": "DcIfb+D2Cdo=",
-      "Size": 1076
-    },
-    {
-      "Path": "resources/gui/layouts/game/EscapeMenuWindow_online.json",
-      "Checksum": "rb2pSsPzLww=",
-      "Size": 12900
-    },
-    {
-      "Path": "resources/gui/layouts/game/EventWindow.json",
-      "Checksum": "1RDkO6oOPck=",
-      "Size": 28892
-    },
-    {
-      "Path": "resources/gui/layouts/game/FriendRow.json",
-      "Checksum": "XRCB4vqJOA4=",
-      "Size": 6736
-    },
-    {
-      "Path": "resources/gui/layouts/game/FriendsWindow.json",
-      "Checksum": "6KPF43Uq3Js=",
-      "Size": 19009
-    },
-    {
-      "Path": "resources/gui/layouts/game/GuildContextMenu.json",
-      "Checksum": "EwjQeGvtvJI=",
-      "Size": 8710
-    },
-    {
-      "Path": "resources/gui/layouts/game/GuildMemberRow.json",
-      "Checksum": "n8ZZLceVYPY=",
-      "Size": 1455
-    },
-    {
-      "Path": "resources/gui/layouts/game/GuildWindow.json",
-      "Checksum": "jip1QM+L2Do=",
-      "Size": 22521
-    },
-    {
-      "Path": "resources/gui/layouts/game/HotBarWindow.json",
-      "Checksum": "aYokjbe62LI=",
-      "Size": 61207
-    },
-    {
-      "Path": "resources/gui/layouts/game/InventoryContextMenu.json",
-      "Checksum": "kN4LMXucels=",
-      "Size": 8566
-    },
-    {
-      "Path": "resources/gui/layouts/game/InventoryItem.json",
-      "Checksum": "E4dOiVNg4Jw=",
-      "Size": 5154
-    },
-    {
-      "Path": "resources/gui/layouts/game/InventoryWindow.json",
-      "Checksum": "VG+2856rZGY=",
-      "Size": 15883
-    },
-    {
-      "Path": "resources/gui/layouts/game/MapItemIcon.json",
-      "Checksum": "SxoPkM5ulGo=",
-      "Size": 2534
-    },
-    {
-      "Path": "resources/gui/layouts/game/MapItemWindow.json",
-      "Checksum": "4Dj1s71sgWk=",
-      "Size": 12790
-    },
-    {
-      "Path": "resources/gui/layouts/game/MenuContainer.json",
-      "Checksum": "t2k6XejyGdw=",
-      "Size": 18608
-    },
-    {
-      "Path": "resources/gui/layouts/game/PartyWindow.json",
-      "Checksum": "uv1YkIpFR0I=",
-      "Size": 48034
-    },
-    {
-      "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Checksum": "cRYfvjAOI+8=",
-      "Size": 19628
-    },
-    {
-      "Path": "resources/gui/layouts/game/PlayerStatusIcon.json",
-      "Checksum": "6nX90U8NGsA=",
-      "Size": 2246
-    },
-    {
-      "Path": "resources/gui/layouts/game/PlayerStatusWindow.json",
-      "Checksum": "qJWHLXOHiTE=",
-      "Size": 10410
-    },
-    {
-      "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
-      "Checksum": "/tnPoQ7WFyQ=",
-      "Size": 21614
-    },
-    {
-      "Path": "resources/gui/layouts/game/QuestsWindow.json",
-      "Checksum": "C+rIYWJlU3U=",
-      "Size": 32450
-    },
-    {
-      "Path": "resources/gui/layouts/game/ShopContextMenu.json",
-      "Checksum": "VAZf7Eha6mA=",
-      "Size": 8274
-    },
-    {
-      "Path": "resources/gui/layouts/game/ShopItem.json",
-      "Checksum": "Fh4jblRp1q0=",
-      "Size": 1439
-    },
-    {
-      "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Checksum": "++j1hR5/9Qw=",
-      "Size": 15154
-    },
-    {
-      "Path": "resources/gui/layouts/game/SimplifiedEscapeMenu.json",
-      "Checksum": "XLs4wUtH4zM=",
-      "Size": 8768
-    },
-    {
-      "Path": "resources/gui/layouts/game/SpellContextMenu.json",
-      "Checksum": "cpiJSBTumdA=",
-      "Size": 8566
-    },
-    {
-      "Path": "resources/gui/layouts/game/SpellItem.json",
-      "Checksum": "YZJzI+XeKBA=",
-      "Size": 2444
-    },
-    {
-      "Path": "resources/gui/layouts/game/SpellStatusIcon.json",
-      "Checksum": "H8cXFZ1NV6o=",
-      "Size": 2379
-    },
-    {
-      "Path": "resources/gui/layouts/game/SpellsWindow.json",
-      "Checksum": "dG2ft8LdgF8=",
-      "Size": 15628
-    },
-    {
-      "Path": "resources/gui/layouts/game/TargetBox.1024x720.json",
-      "Checksum": "1dKevc0KtDU=",
-      "Size": 31638
-    },
-    {
-      "Path": "resources/gui/layouts/game/TargetBox.1024x768.json",
-      "Checksum": "1dKevc0KtDU=",
-      "Size": 31638
-    },
-    {
-      "Path": "resources/gui/layouts/game/TargetBox.800x600.json",
-      "Checksum": "1dKevc0KtDU=",
-      "Size": 31638
-    },
-    {
-      "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Checksum": "QH8AdBnfB/A=",
-      "Size": 33519
-    },
-    {
-      "Path": "resources/gui/layouts/game/TargetContextMenu.json",
-      "Checksum": "e8AnlRqbUHU=",
-      "Size": 8709
-    },
-    {
-      "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
-      "Checksum": "KHygYUkBMkY=",
-      "Size": 2064
-    },
-    {
-      "Path": "resources/gui/layouts/game/TheirTradeItem.json",
-      "Checksum": "k/zESpEKQSk=",
-      "Size": 2120
-    },
-    {
-      "Path": "resources/gui/layouts/game/TradeContextMenu.json",
-      "Checksum": "UFXnRJzB7t8=",
-      "Size": 8714
-    },
-    {
-      "Path": "resources/gui/layouts/game/TradeWindow.json",
-      "Checksum": "ygMJm6lOCVo=",
-      "Size": 29983
-    },
-    {
-      "Path": "resources/gui/layouts/game/YourTradeItem.json",
-      "Checksum": "EWB6gV2OL6s=",
-      "Size": 2173
-    },
-    {
-      "Path": "resources/gui/layouts/menu/CharacterCreationWindow.json",
-      "Checksum": "VG+8Zf2k5E4=",
-      "Size": 44201
-    },
-    {
-      "Path": "resources/gui/layouts/menu/CreditsWindow.json",
-      "Checksum": "j58EZKRIHl4=",
-      "Size": 16667
-    },
-    {
-      "Path": "resources/gui/layouts/menu/ForgotPasswordWindow.json",
-      "Checksum": "If923maJmi8=",
-      "Size": 25404
-    },
-    {
-      "Path": "resources/gui/layouts/menu/LoginWindow.json",
-      "Checksum": "+lUflWKTcS4=",
-      "Size": 23040
-    },
-    {
-      "Path": "resources/gui/layouts/menu/Logo.json",
-      "Checksum": "R/OGmI1bbqQ=",
-      "Size": 682
-    },
-    {
-      "Path": "resources/gui/layouts/menu/MainMenuWindow_online.json",
-      "Checksum": "IFR+5yKx2LM=",
-      "Size": 13804
-    },
-    {
-      "Path": "resources/gui/layouts/menu/MainMenuWindow_singleplayer.json",
-      "Checksum": "opd2ecZNbX0=",
-      "Size": 11548
-    },
-    {
-      "Path": "resources/gui/layouts/menu/PasswordChangeWindowExistingPassword.json",
-      "Checksum": "eJnUriS3INI=",
-      "Size": 19544
-    },
-    {
-      "Path": "resources/gui/layouts/menu/PasswordChangeWindowResetToken.json",
-      "Checksum": "eJnUriS3INI=",
-      "Size": 19544
-    },
-    {
-      "Path": "resources/gui/layouts/menu/RegistrationWindow.json",
-      "Checksum": "thNgH+Ff1YQ=",
-      "Size": 23545
-    },
-    {
-      "Path": "resources/gui/layouts/menu/SelectCharacterWindow.json",
-      "Checksum": "hHqDdaROgOg=",
-      "Size": 20009
-    },
-    {
-      "Path": "resources/gui/layouts/menu/ServerStatusArea.json",
-      "Checksum": "PBtlYutnqlw=",
-      "Size": 1687
-    },
-    {
-      "Path": "resources/gui/layouts/shared/AlertWindow_Okay.json",
-      "Checksum": "TusPzVDAAEw=",
-      "Size": 20773
-    },
-    {
-      "Path": "resources/gui/layouts/shared/AlertWindow_YesNo.json",
-      "Checksum": "6RF7Kncl0ao=",
-      "Size": 22844
-    },
-    {
-      "Path": "resources/gui/layouts/shared/InputBox.json",
-      "Checksum": "GzsV3ZMlaH4=",
-      "Size": 2
-    },
-    {
-      "Path": "resources/gui/layouts/shared/InputBox_NumericInput.json",
-      "Checksum": "3zRVmOqZX8w=",
-      "Size": 23352
-    },
-    {
-      "Path": "resources/gui/layouts/shared/InputBox_NumericSliderInput.json",
-      "Checksum": "CML5jyJg8N4=",
-      "Size": 27523
-    },
-    {
-      "Path": "resources/gui/layouts/shared/InputBox_Okay.json",
-      "Checksum": "Ap6WlnIupRg=",
-      "Size": 20379
-    },
-    {
-      "Path": "resources/gui/layouts/shared/InputBox_TextInput.json",
-      "Checksum": "UpSg9ldxKv8=",
-      "Size": 24019
-    },
-    {
-      "Path": "resources/gui/layouts/shared/InputBox_YesNo.json",
-      "Checksum": "TPvtFtYnpEk=",
-      "Size": 22035
-    },
-    {
-      "Path": "resources/gui/layouts/shared/InputBox_YesNoCancel.json",
-      "Checksum": "emQW+2tadMA=",
-      "Size": 23611
-    },
-    {
-      "Path": "resources/gui/layouts/shared/SettingsWindow.json",
-      "Checksum": "zaI1ZKjTXKU=",
-      "Size": 299233
-    },
-    {
-      "Path": "resources/packs/graphics0.asset",
-      "Checksum": "a7LtJlc4YrQ=",
-      "Size": 9056369
-    },
-    {
-      "Path": "resources/packs/graphics0.meta",
-      "Checksum": "3VaxfehTKU0=",
-      "Size": 181749
-    },
-    {
-      "Path": "resources/packs/graphics1.asset",
-      "Checksum": "oBNsulaoPVU=",
-      "Size": 11798548
-    },
-    {
-      "Path": "resources/packs/graphics1.meta",
-      "Checksum": "D0s+dQT8o5Q=",
-      "Size": 201802
-    },
-    {
-      "Path": "resources/packs/graphics10.asset",
-      "Checksum": "n6lR2tDqKTo=",
-      "Size": 9822348
-    },
-    {
-      "Path": "resources/packs/graphics10.meta",
-      "Checksum": "AEOLrQy7LJU=",
-      "Size": 19123
-    },
-    {
-      "Path": "resources/packs/graphics11.asset",
-      "Checksum": "tZ18yNtDV+o=",
-      "Size": 6545940
-    },
-    {
-      "Path": "resources/packs/graphics11.meta",
-      "Checksum": "rPXcQex6Idw=",
-      "Size": 21587
-    },
-    {
-      "Path": "resources/packs/graphics12.asset",
-      "Checksum": "Zu+4ghjKwi4=",
-      "Size": 5540499
-    },
-    {
-      "Path": "resources/packs/graphics12.meta",
-      "Checksum": "TjJ9GOOYgmU=",
-      "Size": 17971
-    },
-    {
-      "Path": "resources/packs/graphics13.asset",
-      "Checksum": "CDAnZC8BvyY=",
-      "Size": 18377241
-    },
-    {
-      "Path": "resources/packs/graphics13.meta",
-      "Checksum": "v5KPmm+5SVo=",
-      "Size": 19363
-    },
-    {
-      "Path": "resources/packs/graphics14.asset",
-      "Checksum": "wNaC+TpkUyY=",
-      "Size": 14820625
-    },
-    {
-      "Path": "resources/packs/graphics14.meta",
-      "Checksum": "aJBLEfLWnHY=",
-      "Size": 35432
-    },
-    {
-      "Path": "resources/packs/graphics15.asset",
-      "Checksum": "w9ZMOctTqzo=",
-      "Size": 12983169
-    },
-    {
-      "Path": "resources/packs/graphics15.meta",
-      "Checksum": "edZRkpc4tlE=",
-      "Size": 46264
-    },
-    {
-      "Path": "resources/packs/graphics16.asset",
-      "Checksum": "TZQNk4HEbu4=",
-      "Size": 7513003
-    },
-    {
-      "Path": "resources/packs/graphics16.meta",
-      "Checksum": "jJ+HQ3LRfvw=",
-      "Size": 5822
-    },
-    {
-      "Path": "resources/packs/graphics17.asset",
-      "Checksum": "nk/QAir3LIs=",
-      "Size": 9420596
-    },
-    {
-      "Path": "resources/packs/graphics17.meta",
-      "Checksum": "T8r/gbY12r0=",
-      "Size": 5854
-    },
-    {
-      "Path": "resources/packs/graphics18.asset",
-      "Checksum": "WY97QOe0CRc=",
-      "Size": 9221459
-    },
-    {
-      "Path": "resources/packs/graphics18.meta",
-      "Checksum": "tT35VT6LX6Q=",
-      "Size": 5886
-    },
-    {
-      "Path": "resources/packs/graphics19.asset",
-      "Checksum": "Bp/w62jjtVk=",
-      "Size": 8665918
-    },
-    {
-      "Path": "resources/packs/graphics19.meta",
-      "Checksum": "hBdR4IrAojI=",
-      "Size": 5886
-    },
-    {
-      "Path": "resources/packs/graphics2.asset",
-      "Checksum": "efTdLdu60L8=",
-      "Size": 5389766
-    },
-    {
-      "Path": "resources/packs/graphics2.meta",
-      "Checksum": "droH2qRhqM4=",
-      "Size": 359591
-    },
-    {
-      "Path": "resources/packs/graphics20.asset",
-      "Checksum": "NaASrLCb/w8=",
-      "Size": 7540389
-    },
-    {
-      "Path": "resources/packs/graphics20.meta",
-      "Checksum": "x3BYWlLjRcw=",
-      "Size": 5902
-    },
-    {
-      "Path": "resources/packs/graphics21.asset",
-      "Checksum": "Dh5Je24jEuk=",
-      "Size": 7668925
-    },
-    {
-      "Path": "resources/packs/graphics21.meta",
-      "Checksum": "oRFF6WHMq6k=",
-      "Size": 5902
-    },
-    {
-      "Path": "resources/packs/graphics22.asset",
-      "Checksum": "oSslK+oBeME=",
-      "Size": 7573039
-    },
-    {
-      "Path": "resources/packs/graphics22.meta",
-      "Checksum": "ODNzOsPD+XQ=",
-      "Size": 5902
-    },
-    {
-      "Path": "resources/packs/graphics23.asset",
-      "Checksum": "BM81cJ2f3C0=",
-      "Size": 7673885
-    },
-    {
-      "Path": "resources/packs/graphics23.meta",
-      "Checksum": "FyTUqVdPLI8=",
-      "Size": 5902
-    },
-    {
-      "Path": "resources/packs/graphics24.asset",
-      "Checksum": "/bqrdc/RhsE=",
-      "Size": 10838290
-    },
-    {
-      "Path": "resources/packs/graphics24.meta",
-      "Checksum": "PtYbiNzd+v4=",
-      "Size": 5918
-    },
-    {
-      "Path": "resources/packs/graphics25.asset",
-      "Checksum": "7FesfR0JRi4=",
-      "Size": 9223219
-    },
-    {
-      "Path": "resources/packs/graphics25.meta",
-      "Checksum": "YMVAkXu37RE=",
-      "Size": 6302
-    },
-    {
-      "Path": "resources/packs/graphics26.asset",
-      "Checksum": "Z0/kmOXu2VM=",
-      "Size": 10241886
-    },
-    {
-      "Path": "resources/packs/graphics26.meta",
-      "Checksum": "0r6K9vYTBz0=",
-      "Size": 8254
-    },
-    {
-      "Path": "resources/packs/graphics27.asset",
-      "Checksum": "Iu7EOJEMM3E=",
-      "Size": 9618688
-    },
-    {
-      "Path": "resources/packs/graphics27.meta",
-      "Checksum": "1cuJU1Sg6gQ=",
-      "Size": 6670
-    },
-    {
-      "Path": "resources/packs/graphics28.asset",
-      "Checksum": "BIzuwNWcpzs=",
-      "Size": 9690452
-    },
-    {
-      "Path": "resources/packs/graphics28.meta",
-      "Checksum": "9UzWAEBiQlY=",
-      "Size": 5486
-    },
-    {
-      "Path": "resources/packs/graphics29.asset",
-      "Checksum": "ctcLm0tqf9g=",
-      "Size": 11044174
-    },
-    {
-      "Path": "resources/packs/graphics29.meta",
-      "Checksum": "2f+2KapSfLs=",
-      "Size": 2478
-    },
-    {
-      "Path": "resources/packs/graphics3.asset",
-      "Checksum": "JjgTN9ljE88=",
-      "Size": 9924826
-    },
-    {
-      "Path": "resources/packs/graphics3.meta",
-      "Checksum": "lSpQ1cBYvy0=",
-      "Size": 243444
-    },
-    {
-      "Path": "resources/packs/graphics30.asset",
-      "Checksum": "Xk3RmkbGsfk=",
-      "Size": 8661769
-    },
-    {
-      "Path": "resources/packs/graphics30.meta",
-      "Checksum": "Oa4tC5wluNM=",
-      "Size": 958
-    },
-    {
-      "Path": "resources/packs/graphics31.asset",
-      "Checksum": "qktjiZk231Y=",
-      "Size": 8632516
-    },
-    {
-      "Path": "resources/packs/graphics31.meta",
-      "Checksum": "WZ8S/4QKZOQ=",
-      "Size": 958
-    },
-    {
-      "Path": "resources/packs/graphics32.asset",
-      "Checksum": "Qy/8E880pLY=",
-      "Size": 8665614
-    },
-    {
-      "Path": "resources/packs/graphics32.meta",
-      "Checksum": "QufwVfmba8Y=",
-      "Size": 958
-    },
-    {
-      "Path": "resources/packs/graphics33.asset",
-      "Checksum": "H3Lxvu/vRlw=",
-      "Size": 8718061
-    },
-    {
-      "Path": "resources/packs/graphics33.meta",
-      "Checksum": "6ckVnsMvx4I=",
-      "Size": 958
-    },
-    {
-      "Path": "resources/packs/graphics34.asset",
-      "Checksum": "sVKQYUkLRsQ=",
-      "Size": 4388229
-    },
-    {
-      "Path": "resources/packs/graphics34.meta",
-      "Checksum": "tlbScE4dffk=",
-      "Size": 558
-    },
-    {
-      "Path": "resources/packs/graphics4.asset",
-      "Checksum": "SirQP6enxs0=",
-      "Size": 6018916
-    },
-    {
-      "Path": "resources/packs/graphics4.meta",
-      "Checksum": "+oWOYiz1zMc=",
-      "Size": 17219
-    },
-    {
-      "Path": "resources/packs/graphics5.asset",
-      "Checksum": "T+/mh8vPKAg=",
-      "Size": 12588217
-    },
-    {
-      "Path": "resources/packs/graphics5.meta",
-      "Checksum": "627s/Q1mJ0A=",
-      "Size": 19283
-    },
-    {
-      "Path": "resources/packs/graphics6.asset",
-      "Checksum": "pgizeQTjjs4=",
-      "Size": 12979356
-    },
-    {
-      "Path": "resources/packs/graphics6.meta",
-      "Checksum": "uZ4l03K9Xlw=",
-      "Size": 21987
-    },
-    {
-      "Path": "resources/packs/graphics7.asset",
-      "Checksum": "njLheqIapx4=",
-      "Size": 12156690
-    },
-    {
-      "Path": "resources/packs/graphics7.meta",
-      "Checksum": "ZNdj5CZnpkg=",
-      "Size": 16947
-    },
-    {
-      "Path": "resources/packs/graphics8.asset",
-      "Checksum": "ZUkz/GntjpA=",
-      "Size": 7817546
-    },
-    {
-      "Path": "resources/packs/graphics8.meta",
-      "Checksum": "aFTyGPNw/g4=",
-      "Size": 25331
-    },
-    {
-      "Path": "resources/packs/graphics9.asset",
-      "Checksum": "KC5vu8yUU38=",
-      "Size": 9648085
-    },
-    {
-      "Path": "resources/packs/graphics9.meta",
-      "Checksum": "0X+V2Kf9mwg=",
-      "Size": 19891
-    },
-    {
-      "Path": "resources/packs/music.index",
-      "Checksum": "hSQYxhi6LXk=",
-      "Size": 8654
-    },
-    {
-      "Path": "resources/packs/music0.asset",
-      "Checksum": "ZX6rLIyJeRw=",
-      "Size": 32150705
-    },
-    {
-      "Path": "resources/packs/music1.asset",
-      "Checksum": "If0uz+BGHd0=",
-      "Size": 33469649
-    },
-    {
-      "Path": "resources/packs/music2.asset",
-      "Checksum": "OsNHIurBljI=",
-      "Size": 32172774
-    },
-    {
-      "Path": "resources/packs/sound.index",
-      "Checksum": "Nm3PUSppzCU=",
-      "Size": 22195
-    },
-    {
-      "Path": "resources/packs/sound0.asset",
-      "Checksum": "7Jn/vL58hyM=",
-      "Size": 26882172
-    },
-    {
-      "Path": "resources/updater/background.png",
-      "Checksum": "TX1uQYsqgo4=",
-      "Size": 1003682
-    },
-    {
-      "Path": "resources/updater/font.xnb",
-      "Checksum": "qiKSJ9HOIMw=",
-      "Size": 689774
-    },
-    {
-      "Path": "resources/updater/fontsmall.xnb",
-      "Checksum": "KWefE7TuLtY=",
-      "Size": 423534
-    },
-    {
-      "Path": "resources/updater/progressbar.png",
-      "Checksum": "oWNKUuI1zD4=",
-      "Size": 20669
-    }
-  ],
-  "StreamingSizeCutoff": 1048576
-=======
 {
   "Files": [
     {
@@ -1538,13 +577,13 @@
     },
     {
       "Path": "resources/packs/graphics10.asset",
-      "Checksum": "fZ9jcdP2Nro=",
-      "Size": 1226992
+      "Checksum": "1mhi3K4MKPI=",
+      "Size": 1204683
     },
     {
       "Path": "resources/packs/graphics10.meta",
-      "Checksum": "72CclCPxbak=",
-      "Size": 64749
+      "Checksum": "caykEJeX0nQ=",
+      "Size": 58349
     },
     {
       "Path": "resources/packs/graphics100.asset",
@@ -1608,23 +647,23 @@
     },
     {
       "Path": "resources/packs/graphics106.asset",
-      "Checksum": "c9FpGhU3sBA=",
-      "Size": 216767
+      "Checksum": "TBW9nahXSgM=",
+      "Size": 209498
     },
     {
       "Path": "resources/packs/graphics106.meta",
-      "Checksum": "2XWPkC9ZSJw=",
-      "Size": 3166
+      "Checksum": "CheDeDXEmew=",
+      "Size": 5006
     },
     {
       "Path": "resources/packs/graphics107.asset",
-      "Checksum": "ESRFgZCJ7Z8=",
-      "Size": 254985
+      "Checksum": "vUntDIep3io=",
+      "Size": 285027
     },
     {
       "Path": "resources/packs/graphics107.meta",
-      "Checksum": "HAWByE+iXoc=",
-      "Size": 2030
+      "Checksum": "tnYQtPl4eOc=",
+      "Size": 3150
     },
     {
       "Path": "resources/packs/graphics108.asset",
@@ -1648,13 +687,13 @@
     },
     {
       "Path": "resources/packs/graphics11.asset",
-      "Checksum": "eOGAyedJhnw=",
-      "Size": 1200843
+      "Checksum": "WiU+qjHSppI=",
+      "Size": 1200923
     },
     {
       "Path": "resources/packs/graphics11.meta",
-      "Checksum": "0Na26le6S5M=",
-      "Size": 68834
+      "Checksum": "WOona+p40JE=",
+      "Size": 68930
     },
     {
       "Path": "resources/packs/graphics110.asset",
@@ -1758,13 +797,13 @@
     },
     {
       "Path": "resources/packs/graphics12.asset",
-      "Checksum": "d1iyDEgUbZA=",
-      "Size": 1353752
+      "Checksum": "fFbpAZ821Wc=",
+      "Size": 1320734
     },
     {
       "Path": "resources/packs/graphics12.meta",
-      "Checksum": "ezTCealT8NA=",
-      "Size": 105628
+      "Checksum": "jijCqmCLYrg=",
+      "Size": 105036
     },
     {
       "Path": "resources/packs/graphics120.asset",
@@ -1868,13 +907,13 @@
     },
     {
       "Path": "resources/packs/graphics13.asset",
-      "Checksum": "wqgGZhC/tn0=",
-      "Size": 1128418
+      "Checksum": "WNSpHxSJxA0=",
+      "Size": 1118770
     },
     {
       "Path": "resources/packs/graphics13.meta",
-      "Checksum": "ddGNGWv67ro=",
-      "Size": 67826
+      "Checksum": "QCX0JmjvUHw=",
+      "Size": 68402
     },
     {
       "Path": "resources/packs/graphics130.asset",
@@ -1978,13 +1017,13 @@
     },
     {
       "Path": "resources/packs/graphics14.asset",
-      "Checksum": "e+960gCZWdE=",
-      "Size": 3562715
+      "Checksum": "1PNJyVfBEs4=",
+      "Size": 3556070
     },
     {
       "Path": "resources/packs/graphics14.meta",
-      "Checksum": "gcw9FCgidMQ=",
-      "Size": 37944
+      "Checksum": "iC+H6EMitGk=",
+      "Size": 37544
     },
     {
       "Path": "resources/packs/graphics140.asset",
@@ -2028,13 +1067,13 @@
     },
     {
       "Path": "resources/packs/graphics15.asset",
-      "Checksum": "JPDOlNeYa6Y=",
-      "Size": 3511479
+      "Checksum": "TahSqOscOyg=",
+      "Size": 3537857
     },
     {
       "Path": "resources/packs/graphics15.meta",
-      "Checksum": "SQlBP8g0Si8=",
-      "Size": 39160
+      "Checksum": "Ho/qgGAKSJ0=",
+      "Size": 39464
     },
     {
       "Path": "resources/packs/graphics16.asset",
@@ -2048,98 +1087,98 @@
     },
     {
       "Path": "resources/packs/graphics17.asset",
-      "Checksum": "KheGBxEx5Vo=",
-      "Size": 1106957
+      "Checksum": "qj+XCLUSEVQ=",
+      "Size": 1047689
     },
     {
       "Path": "resources/packs/graphics17.meta",
-      "Checksum": "wCzCg6T2GFU=",
-      "Size": 39944
+      "Checksum": "okskZWCqpVg=",
+      "Size": 39560
     },
     {
       "Path": "resources/packs/graphics18.asset",
-      "Checksum": "uDVhr8eM2T8=",
-      "Size": 1775722
+      "Checksum": "/a37w8Z6Hyo=",
+      "Size": 1764629
     },
     {
       "Path": "resources/packs/graphics18.meta",
-      "Checksum": "Qd8BVpt1SWI=",
-      "Size": 11886
+      "Checksum": "1naWqO3lcJE=",
+      "Size": 11966
     },
     {
       "Path": "resources/packs/graphics19.asset",
-      "Checksum": "sD8uk8OIIuo=",
-      "Size": 1796863
+      "Checksum": "NwyAx2IWRko=",
+      "Size": 1794975
     },
     {
       "Path": "resources/packs/graphics19.meta",
-      "Checksum": "7nveS0KA1t8=",
-      "Size": 14846
+      "Checksum": "JN+tp4xTGbM=",
+      "Size": 14830
     },
     {
       "Path": "resources/packs/graphics2.asset",
-      "Checksum": "YaG6H9wGRZA=",
-      "Size": 1926439
+      "Checksum": "Se0djs/EzGg=",
+      "Size": 1926071
     },
     {
       "Path": "resources/packs/graphics2.meta",
-      "Checksum": "DWwivCSfSr8=",
-      "Size": 60541
+      "Checksum": "PPElTZjOVAE=",
+      "Size": 58349
     },
     {
       "Path": "resources/packs/graphics20.asset",
-      "Checksum": "IvynBc8zWJk=",
-      "Size": 1991275
+      "Checksum": "JpyER6GxzLw=",
+      "Size": 2051727
     },
     {
       "Path": "resources/packs/graphics20.meta",
-      "Checksum": "4+j6QAlS15E=",
-      "Size": 35064
+      "Checksum": "ggIEayNTGf0=",
+      "Size": 35016
     },
     {
       "Path": "resources/packs/graphics21.asset",
-      "Checksum": "efhwGSSX2Yw=",
-      "Size": 2789019
+      "Checksum": "r4bCg1JKd9U=",
+      "Size": 2796736
     },
     {
       "Path": "resources/packs/graphics21.meta",
-      "Checksum": "CSOGPqRxIs8=",
-      "Size": 10462
+      "Checksum": "mSHkem48SDY=",
+      "Size": 10334
     },
     {
       "Path": "resources/packs/graphics22.asset",
-      "Checksum": "crHJvFp+0MA=",
-      "Size": 3417982
+      "Checksum": "sHRuzS7/VaI=",
+      "Size": 3374223
     },
     {
       "Path": "resources/packs/graphics22.meta",
-      "Checksum": "wFM1a2lPN7U=",
-      "Size": 32868
+      "Checksum": "5JQoiJFzcfs=",
+      "Size": 32195
     },
     {
       "Path": "resources/packs/graphics23.asset",
-      "Checksum": "fWyGx9CV/eg=",
-      "Size": 4348630
+      "Checksum": "5vQcTkXTgH4=",
+      "Size": 4506856
     },
     {
       "Path": "resources/packs/graphics23.meta",
-      "Checksum": "Z0wWQ90QWLM=",
-      "Size": 18083
+      "Checksum": "q+lgcfs9G/Q=",
+      "Size": 43496
     },
     {
       "Path": "resources/packs/graphics24.asset",
-      "Checksum": "qBoq8sA4HZo=",
-      "Size": 3864405
+      "Checksum": "DgkgxKV6Td4=",
+      "Size": 3964131
     },
     {
       "Path": "resources/packs/graphics24.meta",
-      "Checksum": "HR8MdPjMwLY=",
-      "Size": 7854
+      "Checksum": "Q3jTgLgK5fI=",
+      "Size": 16947
     },
     {
       "Path": "resources/packs/graphics25.asset",
-      "Checksum": "eAcBofGhbNo=",
-      "Size": 3081781
+      "Checksum": "MqlOozhWdh4=",
+      "Size": 3080997
     },
     {
       "Path": "resources/packs/graphics25.meta",
@@ -2188,13 +1227,13 @@
     },
     {
       "Path": "resources/packs/graphics3.asset",
-      "Checksum": "I0R5SqPgMeo=",
-      "Size": 2980551
+      "Checksum": "sI4SqFx4qpc=",
+      "Size": 2980439
     },
     {
       "Path": "resources/packs/graphics3.meta",
-      "Checksum": "jvbEliG21ak=",
-      "Size": 50173
+      "Checksum": "GRbREousDL0=",
+      "Size": 50909
     },
     {
       "Path": "resources/packs/graphics30.asset",
@@ -2298,13 +1337,13 @@
     },
     {
       "Path": "resources/packs/graphics4.asset",
-      "Checksum": "OJT96uFYZDs=",
-      "Size": 3629951
+      "Checksum": "xeCh4Qb4+Fg=",
+      "Size": 3633535
     },
     {
       "Path": "resources/packs/graphics4.meta",
-      "Checksum": "aPuAhyfbBHg=",
-      "Size": 37064
+      "Checksum": "6qsB3BM2Y/k=",
+      "Size": 38184
     },
     {
       "Path": "resources/packs/graphics40.asset",
@@ -2358,8 +1397,8 @@
     },
     {
       "Path": "resources/packs/graphics45.asset",
-      "Checksum": "pQRXe5AYDKs=",
-      "Size": 1492992
+      "Checksum": "1zeDh6xIn7s=",
+      "Size": 1493813
     },
     {
       "Path": "resources/packs/graphics45.meta",
@@ -2408,32 +1447,32 @@
     },
     {
       "Path": "resources/packs/graphics5.asset",
-      "Checksum": "/vVLgNvQu3g=",
-      "Size": 3927193
+      "Checksum": "bTnK09DiuJI=",
+      "Size": 3921620
     },
     {
       "Path": "resources/packs/graphics5.meta",
-      "Checksum": "Ks2LUXsBUQY=",
-      "Size": 37560
+      "Checksum": "D9TUUVv0xgk=",
+      "Size": 33448
     },
     {
       "Path": "resources/packs/graphics50.asset",
-      "Checksum": "EAQ5KWkO84M=",
-      "Size": 1786874
+      "Checksum": "3Hh2q9cXpA0=",
+      "Size": 1786906
     },
     {
       "Path": "resources/packs/graphics50.meta",
-      "Checksum": "5weixSlkuQA=",
+      "Checksum": "Sg0BxSll/dQ=",
       "Size": 5054
     },
     {
       "Path": "resources/packs/graphics51.asset",
-      "Checksum": "tEPLwTJQyEk=",
-      "Size": 1153516
+      "Checksum": "nE/RTbZD7Vs=",
+      "Size": 1152956
     },
     {
       "Path": "resources/packs/graphics51.meta",
-      "Checksum": "DXu/d3st9NU=",
+      "Checksum": "WP65Ap9yCfQ=",
       "Size": 5438
     },
     {
@@ -2448,23 +1487,23 @@
     },
     {
       "Path": "resources/packs/graphics53.asset",
-      "Checksum": "wKko/vjIJbg=",
-      "Size": 731674
+      "Checksum": "hHgtwMdDRjM=",
+      "Size": 733066
     },
     {
       "Path": "resources/packs/graphics53.meta",
-      "Checksum": "IzDigtm9RY4=",
-      "Size": 3934
+      "Checksum": "hPQ9rr+ZyxQ=",
+      "Size": 4302
     },
     {
       "Path": "resources/packs/graphics54.asset",
-      "Checksum": "tiBjDBe7NUg=",
-      "Size": 3029702
+      "Checksum": "s/VPc1dSLlU=",
+      "Size": 3031142
     },
     {
       "Path": "resources/packs/graphics54.meta",
-      "Checksum": "OKvL1pHx7nI=",
-      "Size": 6206
+      "Checksum": "cpDPQXo7HeQ=",
+      "Size": 6574
     },
     {
       "Path": "resources/packs/graphics55.asset",
@@ -2478,23 +1517,23 @@
     },
     {
       "Path": "resources/packs/graphics56.asset",
-      "Checksum": "sO7lJAKeB5U=",
-      "Size": 3631871
+      "Checksum": "nRNNOPl9t9Y=",
+      "Size": 3635839
     },
     {
       "Path": "resources/packs/graphics56.meta",
-      "Checksum": "Sd5lEZ8yCXs=",
+      "Checksum": "kj5ZjoO0zhU=",
       "Size": 2062
     },
     {
       "Path": "resources/packs/graphics57.asset",
-      "Checksum": "KzVVpko7q6g=",
-      "Size": 2241638
+      "Checksum": "4MjSOXtP37U=",
+      "Size": 2245030
     },
     {
       "Path": "resources/packs/graphics57.meta",
-      "Checksum": "aWKJ/Adhnx8=",
-      "Size": 2830
+      "Checksum": "UxIeAtc6XXk=",
+      "Size": 3198
     },
     {
       "Path": "resources/packs/graphics58.asset",
@@ -2518,13 +1557,13 @@
     },
     {
       "Path": "resources/packs/graphics6.asset",
-      "Checksum": "L4Pz3UdUTjw=",
-      "Size": 2219713
+      "Checksum": "EvSffoBiCfA=",
+      "Size": 2168386
     },
     {
       "Path": "resources/packs/graphics6.meta",
-      "Checksum": "AHw1u7kgqDU=",
-      "Size": 31795
+      "Checksum": "ynb8pJvlktw=",
+      "Size": 29139
     },
     {
       "Path": "resources/packs/graphics60.asset",
@@ -2598,23 +1637,23 @@
     },
     {
       "Path": "resources/packs/graphics67.asset",
-      "Checksum": "3RIzQrm8Ln4=",
-      "Size": 1636861
+      "Checksum": "UBxMZ/AdmXg=",
+      "Size": 1731851
     },
     {
       "Path": "resources/packs/graphics67.meta",
-      "Checksum": "josILykyxh4=",
-      "Size": 14174
+      "Checksum": "ecBDCnS/Ggw=",
+      "Size": 16787
     },
     {
       "Path": "resources/packs/graphics68.asset",
-      "Checksum": "bYY19O7Tw2Q=",
-      "Size": 1642482
+      "Checksum": "ms3FyRT3uE4=",
+      "Size": 1655874
     },
     {
       "Path": "resources/packs/graphics68.meta",
-      "Checksum": "I1uyTQyQcCs=",
-      "Size": 5454
+      "Checksum": "e/r8WwsNib0=",
+      "Size": 6574
     },
     {
       "Path": "resources/packs/graphics69.asset",
@@ -2628,13 +1667,13 @@
     },
     {
       "Path": "resources/packs/graphics7.asset",
-      "Checksum": "iANDxOIwm7w=",
-      "Size": 1490320
+      "Checksum": "hdHXzYapRWk=",
+      "Size": 1453766
     },
     {
       "Path": "resources/packs/graphics7.meta",
-      "Checksum": "69LqTrrq+MQ=",
-      "Size": 63533
+      "Checksum": "1BN9UEjk7BI=",
+      "Size": 61757
     },
     {
       "Path": "resources/packs/graphics70.asset",
@@ -2738,13 +1777,13 @@
     },
     {
       "Path": "resources/packs/graphics8.asset",
-      "Checksum": "q52mBzO7Oyw=",
-      "Size": 1016159
+      "Checksum": "Lc5AfGMKQD8=",
+      "Size": 1012847
     },
     {
       "Path": "resources/packs/graphics8.meta",
-      "Checksum": "qiU5KF4HB8s=",
-      "Size": 60077
+      "Checksum": "HWC+6TRGG0Q=",
+      "Size": 45256
     },
     {
       "Path": "resources/packs/graphics80.asset",
@@ -2848,13 +1887,13 @@
     },
     {
       "Path": "resources/packs/graphics9.asset",
-      "Checksum": "XAYfk3Tnf3M=",
-      "Size": 1349624
+      "Checksum": "sGhlU0H1teU=",
+      "Size": 1304473
     },
     {
       "Path": "resources/packs/graphics9.meta",
-      "Checksum": "sdrUNJOmNM4=",
-      "Size": 81250
+      "Checksum": "4Pia97BKC1Y=",
+      "Size": 81474
     },
     {
       "Path": "resources/packs/graphics90.asset",
@@ -3073,5 +2112,4 @@
     }
   ],
   "StreamingSizeCutoff": 1048576
->>>>>>> dd73505a2fe02c2033f4e6fda3c4019354ce5c13
 }
