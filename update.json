@@ -2112,8 +2112,8 @@
     },
     {
       "Path": "resources/updater/background.png",
-      "Checksum": "TX1uQYsqgo4=",
-      "Size": 1003682
+      "Checksum": "N5jl3ewWJxE=",
+      "Size": 1101869
     },
     {
       "Path": "resources/updater/font.xnb",
@@ -2127,8 +2127,8 @@
     },
     {
       "Path": "resources/updater/progressbar.png",
-      "Checksum": "oWNKUuI1zD4=",
-      "Size": 20669
+      "Checksum": "eHNsE14BoRc=",
+      "Size": 21305
     }
   ],
   "StreamingSizeCutoff": 1048576
