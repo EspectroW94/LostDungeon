@@ -14,7 +14,7 @@
   "MenuBackgroundDisplayMode": "Default",
   "MenuBackgroundFrameInterval": 50,
   "IntroImages": [],
-  "UpdateUrl": "https://ld.site.je/update.json",
+  "UpdateUrl": "https://espectrow94.github.io/LostDungeon/update.json",
   "MouseCursor": "",
   "MusicFadeTimer": 1500,
   "FadeDurationMs": 3000.0,
