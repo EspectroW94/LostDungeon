@@ -652,7 +652,7 @@
       "SubmitSound": "octave-tap-warm.wav"
     },
     "ChannelLabel": {
-      "Bounds": "164,9,63,20",
+      "Bounds": "164,9,46,20",
       "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",

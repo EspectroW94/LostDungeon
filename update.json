@@ -141,417 +141,417 @@
       "Size": 263798
     },
     {
-      "Path": "resources/layouts/debug/DebugWindow.json",
+      "Path": "resources/gui/layouts/debug/DebugWindow.json",
       "Checksum": "35bXriEn7Io=",
       "Size": 13851
     },
     {
-      "Path": "resources/layouts/game/AdminWindow.json",
+      "Path": "resources/gui/layouts/game/AdminWindow.json",
       "Checksum": "/bYfHmiFRAA=",
       "Size": 89508
     },
     {
-      "Path": "resources/layouts/game/AnnouncementWindow.json",
+      "Path": "resources/gui/layouts/game/AnnouncementWindow.json",
       "Checksum": "L25AA+b5g/w=",
       "Size": 1691
     },
     {
-      "Path": "resources/layouts/game/BagContextMenu.json",
+      "Path": "resources/gui/layouts/game/BagContextMenu.json",
       "Checksum": "VAZf7Eha6mA=",
       "Size": 8274
     },
     {
-      "Path": "resources/layouts/game/BagItem.json",
+      "Path": "resources/gui/layouts/game/BagItem.json",
       "Checksum": "0ErK97LSOBE=",
       "Size": 2361
     },
     {
-      "Path": "resources/layouts/game/BagWindow.json",
+      "Path": "resources/gui/layouts/game/BagWindow.json",
       "Checksum": "T0yAgI4p+eE=",
       "Size": 15617
     },
     {
-      "Path": "resources/layouts/game/BankContextMenu.json",
+      "Path": "resources/gui/layouts/game/BankContextMenu.json",
       "Checksum": "VAZf7Eha6mA=",
       "Size": 8274
     },
     {
-      "Path": "resources/layouts/game/BankItem.json",
+      "Path": "resources/gui/layouts/game/BankItem.json",
       "Checksum": "J6+IxdJWzsA=",
       "Size": 2362
     },
     {
-      "Path": "resources/layouts/game/BankWindow.json",
+      "Path": "resources/gui/layouts/game/BankWindow.json",
       "Checksum": "FAWqZsqWZC0=",
       "Size": 15617
     },
     {
-      "Path": "resources/layouts/game/BanMuteWindow.json",
+      "Path": "resources/gui/layouts/game/BanMuteWindow.json",
       "Checksum": "wIe8C8A3WP8=",
       "Size": 36814
     },
     {
-      "Path": "resources/layouts/game/CharacterWindow.json",
+      "Path": "resources/gui/layouts/game/CharacterWindow.json",
       "Checksum": "E80yfSzAmWk=",
       "Size": 120535
     },
     {
-      "Path": "resources/layouts/game/ChatboxWindow.json",
+      "Path": "resources/gui/layouts/game/ChatboxWindow.json",
       "Checksum": "Oj0Z+NULFBg=",
       "Size": 41529
     },
     {
-      "Path": "resources/layouts/game/ChatContextMenu.json",
+      "Path": "resources/gui/layouts/game/ChatContextMenu.json",
       "Checksum": "FsoZkBGK9Xo=",
       "Size": 8710
     },
     {
-      "Path": "resources/layouts/game/CraftedItem.json",
+      "Path": "resources/gui/layouts/game/CraftedItem.json",
       "Checksum": "p358cfUS03E=",
       "Size": 2507
     },
     {
-      "Path": "resources/layouts/game/CraftingIngredient.json",
+      "Path": "resources/gui/layouts/game/CraftingIngredient.json",
       "Checksum": "SiVI8v4KjxE=",
       "Size": 2507
     },
     {
-      "Path": "resources/layouts/game/CraftingWindow.json",
+      "Path": "resources/gui/layouts/game/CraftingWindow.json",
       "Checksum": "G5mZYVTgj9E=",
       "Size": 37466
     },
     {
-      "Path": "resources/layouts/game/DescriptionWindow.json",
+      "Path": "resources/gui/layouts/game/DescriptionWindow.json",
       "Checksum": "iwpZ/StOWkc=",
       "Size": 664
     },
     {
-      "Path": "resources/layouts/game/DescriptionWindowDescription.json",
+      "Path": "resources/gui/layouts/game/DescriptionWindowDescription.json",
       "Checksum": "BcoHpSaIEtw=",
       "Size": 1353
     },
     {
-      "Path": "resources/layouts/game/DescriptionWindowDivider.json",
+      "Path": "resources/gui/layouts/game/DescriptionWindowDivider.json",
       "Checksum": "M4eeggP9Cqw=",
       "Size": 677
     },
     {
-      "Path": "resources/layouts/game/DescriptionWindowHeader.json",
+      "Path": "resources/gui/layouts/game/DescriptionWindowHeader.json",
       "Checksum": "/AlwyFFHXm0=",
       "Size": 5312
     },
     {
-      "Path": "resources/layouts/game/DescriptionWindowRowContainer.json",
+      "Path": "resources/gui/layouts/game/DescriptionWindowRowContainer.json",
       "Checksum": "JH5Y17eWGg4=",
       "Size": 3681
     },
     {
-      "Path": "resources/layouts/game/Draggable.json",
+      "Path": "resources/gui/layouts/game/Draggable.json",
       "Checksum": "a+4B84vXqY4=",
       "Size": 640
     },
     {
-      "Path": "resources/layouts/game/EquipmentItem.json",
+      "Path": "resources/gui/layouts/game/EquipmentItem.json",
       "Checksum": "DcIfb+D2Cdo=",
       "Size": 1076
     },
     {
-      "Path": "resources/layouts/game/EscapeMenuWindow_online.json",
+      "Path": "resources/gui/layouts/game/EscapeMenuWindow_online.json",
       "Checksum": "rb2pSsPzLww=",
       "Size": 12900
     },
     {
-      "Path": "resources/layouts/game/EventWindow.json",
+      "Path": "resources/gui/layouts/game/EventWindow.json",
       "Checksum": "oZzsd3Nw1LI=",
       "Size": 30348
     },
     {
-      "Path": "resources/layouts/game/FriendRow.json",
+      "Path": "resources/gui/layouts/game/FriendRow.json",
       "Checksum": "XRCB4vqJOA4=",
       "Size": 6736
     },
     {
-      "Path": "resources/layouts/game/FriendsWindow.json",
+      "Path": "resources/gui/layouts/game/FriendsWindow.json",
       "Checksum": "6KPF43Uq3Js=",
       "Size": 19009
     },
     {
-      "Path": "resources/layouts/game/GuildContextMenu.json",
+      "Path": "resources/gui/layouts/game/GuildContextMenu.json",
       "Checksum": "EwjQeGvtvJI=",
       "Size": 8710
     },
     {
-      "Path": "resources/layouts/game/GuildMemberRow.json",
+      "Path": "resources/gui/layouts/game/GuildMemberRow.json",
       "Checksum": "n8ZZLceVYPY=",
       "Size": 1455
     },
     {
-      "Path": "resources/layouts/game/GuildWindow.json",
+      "Path": "resources/gui/layouts/game/GuildWindow.json",
       "Checksum": "jip1QM+L2Do=",
       "Size": 22521
     },
     {
-      "Path": "resources/layouts/game/HotBarWindow.json",
+      "Path": "resources/gui/layouts/game/HotBarWindow.json",
       "Checksum": "aYokjbe62LI=",
       "Size": 61207
     },
     {
-      "Path": "resources/layouts/game/InventoryContextMenu.json",
+      "Path": "resources/gui/layouts/game/InventoryContextMenu.json",
       "Checksum": "kN4LMXucels=",
       "Size": 8566
     },
     {
-      "Path": "resources/layouts/game/InventoryItem.json",
+      "Path": "resources/gui/layouts/game/InventoryItem.json",
       "Checksum": "E4dOiVNg4Jw=",
       "Size": 5154
     },
     {
-      "Path": "resources/layouts/game/InventoryWindow.json",
+      "Path": "resources/gui/layouts/game/InventoryWindow.json",
       "Checksum": "VG+2856rZGY=",
       "Size": 15883
     },
     {
-      "Path": "resources/layouts/game/MapItemIcon.json",
+      "Path": "resources/gui/layouts/game/MapItemIcon.json",
       "Checksum": "SxoPkM5ulGo=",
       "Size": 2534
     },
     {
-      "Path": "resources/layouts/game/MapItemWindow.json",
+      "Path": "resources/gui/layouts/game/MapItemWindow.json",
       "Checksum": "4Dj1s71sgWk=",
       "Size": 12790
     },
     {
-      "Path": "resources/layouts/game/MenuContainer.json",
+      "Path": "resources/gui/layouts/game/MenuContainer.json",
       "Checksum": "t2k6XejyGdw=",
       "Size": 18608
     },
     {
-      "Path": "resources/layouts/game/PartyWindow.json",
+      "Path": "resources/gui/layouts/game/PartyWindow.json",
       "Checksum": "uv1YkIpFR0I=",
       "Size": 48034
     },
     {
-      "Path": "resources/layouts/game/PlayerBox.json",
+      "Path": "resources/gui/layouts/game/PlayerBox.json",
       "Checksum": "4gfuFo0yGGc=",
       "Size": 19628
     },
     {
-      "Path": "resources/layouts/game/PlayerStatusIcon.json",
+      "Path": "resources/gui/layouts/game/PlayerStatusIcon.json",
       "Checksum": "6nX90U8NGsA=",
       "Size": 2246
     },
     {
-      "Path": "resources/layouts/game/PlayerStatusWindow.json",
+      "Path": "resources/gui/layouts/game/PlayerStatusWindow.json",
       "Checksum": "qJWHLXOHiTE=",
       "Size": 10410
     },
     {
-      "Path": "resources/layouts/game/QuestOfferWindow.json",
+      "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
       "Checksum": "/tnPoQ7WFyQ=",
       "Size": 21614
     },
     {
-      "Path": "resources/layouts/game/QuestsWindow.json",
+      "Path": "resources/gui/layouts/game/QuestsWindow.json",
       "Checksum": "C+rIYWJlU3U=",
       "Size": 32450
     },
     {
-      "Path": "resources/layouts/game/ShopContextMenu.json",
+      "Path": "resources/gui/layouts/game/ShopContextMenu.json",
       "Checksum": "CSGXX0oAhqc=",
       "Size": 8565
     },
     {
-      "Path": "resources/layouts/game/ShopItem.json",
+      "Path": "resources/gui/layouts/game/ShopItem.json",
       "Checksum": "qSHP1lceK48=",
       "Size": 1492
     },
     {
-      "Path": "resources/layouts/game/ShopWindow.json",
+      "Path": "resources/gui/layouts/game/ShopWindow.json",
       "Checksum": "tTO/WPX3Umo=",
       "Size": 15618
     },
     {
-      "Path": "resources/layouts/game/SimplifiedEscapeMenu.json",
+      "Path": "resources/gui/layouts/game/SimplifiedEscapeMenu.json",
       "Checksum": "XLs4wUtH4zM=",
       "Size": 8768
     },
     {
-      "Path": "resources/layouts/game/SpellContextMenu.json",
+      "Path": "resources/gui/layouts/game/SpellContextMenu.json",
       "Checksum": "cpiJSBTumdA=",
       "Size": 8566
     },
     {
-      "Path": "resources/layouts/game/SpellItem.json",
+      "Path": "resources/gui/layouts/game/SpellItem.json",
       "Checksum": "YZJzI+XeKBA=",
       "Size": 2444
     },
     {
-      "Path": "resources/layouts/game/SpellStatusIcon.json",
+      "Path": "resources/gui/layouts/game/SpellStatusIcon.json",
       "Checksum": "gOfHDYbu6d4=",
       "Size": 2463
     },
     {
-      "Path": "resources/layouts/game/SpellsWindow.json",
+      "Path": "resources/gui/layouts/game/SpellsWindow.json",
       "Checksum": "dG2ft8LdgF8=",
       "Size": 15628
     },
     {
-      "Path": "resources/layouts/game/TargetBox.1024x720.json",
+      "Path": "resources/gui/layouts/game/TargetBox.1024x720.json",
       "Checksum": "1dKevc0KtDU=",
       "Size": 31638
     },
     {
-      "Path": "resources/layouts/game/TargetBox.1024x768.json",
+      "Path": "resources/gui/layouts/game/TargetBox.1024x768.json",
       "Checksum": "1dKevc0KtDU=",
       "Size": 31638
     },
     {
-      "Path": "resources/layouts/game/TargetBox.800x600.json",
+      "Path": "resources/gui/layouts/game/TargetBox.800x600.json",
       "Checksum": "1dKevc0KtDU=",
       "Size": 31638
     },
     {
-      "Path": "resources/layouts/game/TargetBox.json",
+      "Path": "resources/gui/layouts/game/TargetBox.json",
       "Checksum": "QH8AdBnfB/A=",
       "Size": 33519
     },
     {
-      "Path": "resources/layouts/game/TargetContextMenu.json",
+      "Path": "resources/gui/layouts/game/TargetContextMenu.json",
       "Checksum": "e8AnlRqbUHU=",
       "Size": 8709
     },
     {
-      "Path": "resources/layouts/game/TargetStatusIcon.json",
+      "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
       "Checksum": "KHygYUkBMkY=",
       "Size": 2064
     },
     {
-      "Path": "resources/layouts/game/TheirTradeItem.json",
+      "Path": "resources/gui/layouts/game/TheirTradeItem.json",
       "Checksum": "k/zESpEKQSk=",
       "Size": 2120
     },
     {
-      "Path": "resources/layouts/game/TradeContextMenu.json",
+      "Path": "resources/gui/layouts/game/TradeContextMenu.json",
       "Checksum": "UFXnRJzB7t8=",
       "Size": 8714
     },
     {
-      "Path": "resources/layouts/game/TradeWindow.json",
+      "Path": "resources/gui/layouts/game/TradeWindow.json",
       "Checksum": "ygMJm6lOCVo=",
       "Size": 29983
     },
     {
-      "Path": "resources/layouts/game/YourTradeItem.json",
+      "Path": "resources/gui/layouts/game/YourTradeItem.json",
       "Checksum": "EWB6gV2OL6s=",
       "Size": 2173
     },
     {
-      "Path": "resources/layouts/menu/CharacterCreationWindow.json",
+      "Path": "resources/gui/layouts/menu/CharacterCreationWindow.json",
       "Checksum": "mAfzh+gIyqA=",
       "Size": 45340
     },
     {
-      "Path": "resources/layouts/menu/CreditsWindow.json",
+      "Path": "resources/gui/layouts/menu/CreditsWindow.json",
       "Checksum": "3KEiiMyVpAE=",
       "Size": 17176
     },
     {
-      "Path": "resources/layouts/menu/ForgotPasswordWindow.json",
+      "Path": "resources/gui/layouts/menu/ForgotPasswordWindow.json",
       "Checksum": "If923maJmi8=",
       "Size": 25404
     },
     {
-      "Path": "resources/layouts/menu/LoginWindow.json",
+      "Path": "resources/gui/layouts/menu/LoginWindow.json",
       "Checksum": "+lUflWKTcS4=",
       "Size": 23040
     },
     {
-      "Path": "resources/layouts/menu/Logo.json",
+      "Path": "resources/gui/layouts/menu/Logo.json",
       "Checksum": "R/OGmI1bbqQ=",
       "Size": 682
     },
     {
-      "Path": "resources/layouts/menu/MainMenuWindow_online.json",
+      "Path": "resources/gui/layouts/menu/MainMenuWindow_online.json",
       "Checksum": "IFR+5yKx2LM=",
       "Size": 13804
     },
     {
-      "Path": "resources/layouts/menu/MainMenuWindow_singleplayer.json",
+      "Path": "resources/gui/layouts/menu/MainMenuWindow_singleplayer.json",
       "Checksum": "opd2ecZNbX0=",
       "Size": 11548
     },
     {
-      "Path": "resources/layouts/menu/PasswordChangeWindowExistingPassword.json",
+      "Path": "resources/gui/layouts/menu/PasswordChangeWindowExistingPassword.json",
       "Checksum": "eJnUriS3INI=",
       "Size": 19544
     },
     {
-      "Path": "resources/layouts/menu/PasswordChangeWindowResetToken.json",
+      "Path": "resources/gui/layouts/menu/PasswordChangeWindowResetToken.json",
       "Checksum": "eJnUriS3INI=",
       "Size": 19544
     },
     {
-      "Path": "resources/layouts/menu/RegistrationWindow.json",
+      "Path": "resources/gui/layouts/menu/RegistrationWindow.json",
       "Checksum": "thNgH+Ff1YQ=",
       "Size": 23545
     },
     {
-      "Path": "resources/layouts/menu/SelectCharacterWindow.json",
+      "Path": "resources/gui/layouts/menu/SelectCharacterWindow.json",
       "Checksum": "hHqDdaROgOg=",
       "Size": 20009
     },
     {
-      "Path": "resources/layouts/menu/ServerStatusArea.json",
+      "Path": "resources/gui/layouts/menu/ServerStatusArea.json",
       "Checksum": "PBtlYutnqlw=",
       "Size": 1687
     },
     {
-      "Path": "resources/layouts/shared/AlertWindow_Okay.json",
+      "Path": "resources/gui/layouts/shared/AlertWindow_Okay.json",
       "Checksum": "OLryjJYVNLk=",
       "Size": 21368
     },
     {
-      "Path": "resources/layouts/shared/AlertWindow_YesNo.json",
+      "Path": "resources/gui/layouts/shared/AlertWindow_YesNo.json",
       "Checksum": "6RF7Kncl0ao=",
       "Size": 22844
     },
     {
-      "Path": "resources/layouts/shared/InputBox.json",
+      "Path": "resources/gui/layouts/shared/InputBox.json",
       "Checksum": "GzsV3ZMlaH4=",
       "Size": 2
     },
     {
-      "Path": "resources/layouts/shared/InputBox_NumericInput.json",
+      "Path": "resources/gui/layouts/shared/InputBox_NumericInput.json",
       "Checksum": "3zRVmOqZX8w=",
       "Size": 23352
     },
     {
-      "Path": "resources/layouts/shared/InputBox_NumericSliderInput.json",
+      "Path": "resources/gui/layouts/shared/InputBox_NumericSliderInput.json",
       "Checksum": "uBHd+yhKs/4=",
       "Size": 28366
     },
     {
-      "Path": "resources/layouts/shared/InputBox_Okay.json",
+      "Path": "resources/gui/layouts/shared/InputBox_Okay.json",
       "Checksum": "Ap6WlnIupRg=",
       "Size": 20379
     },
     {
-      "Path": "resources/layouts/shared/InputBox_TextInput.json",
+      "Path": "resources/gui/layouts/shared/InputBox_TextInput.json",
       "Checksum": "UpSg9ldxKv8=",
       "Size": 24019
     },
     {
-      "Path": "resources/layouts/shared/InputBox_YesNo.json",
+      "Path": "resources/gui/layouts/shared/InputBox_YesNo.json",
       "Checksum": "gvJOIRWVfkU=",
       "Size": 22820
     },
     {
-      "Path": "resources/layouts/shared/InputBox_YesNoCancel.json",
+      "Path": "resources/gui/layouts/shared/InputBox_YesNoCancel.json",
       "Checksum": "emQW+2tadMA=",
       "Size": 23611
     },
     {
-      "Path": "resources/layouts/shared/SettingsWindow.json",
+      "Path": "resources/gui/layouts/shared/SettingsWindow.json",
       "Checksum": "zaI1ZKjTXKU=",
       "Size": 299233
     },

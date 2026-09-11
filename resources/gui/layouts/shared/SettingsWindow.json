@@ -4846,7 +4846,7 @@
                     "DrawBackground": true,
                     "MinimumSize": "0,0",
                     "MaximumSize": "0,0",
-                    "Disabled": true,
+                    "Disabled": false,
                     "Hidden": false,
                     "RestrictToParent": false,
                     "MouseInputEnabled": true,
