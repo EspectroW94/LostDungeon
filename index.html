@@ -1,98 +1,1254 @@
-<html><head>
-    <meta charset="utf-8">
-    <title>Lost Dungeon</title>
-    <meta name="description" content="Lost Dungeon">
-	<link rel="stylesheet" href="css.css">
-</head>
-
-<!-- Google tag (gtag.js) -->
-
-
-
-<body>
-    <div id="body_cont">
-		<div id="logo">
-			<a href="#" title="Lost Dungeon" alt="Lost Dungeon">
-				<img src="img/logo.png" alt="Lost Dungeon" style="border-radius: 10px; opacity: 1;" onMouseOver="this.style.opacity=0.8;" onMouseOut="this.style.opacity=1;">
-			</a>
-		</div>
-      
-<center>
-<div id="header">
-			<ul class="nav">
-				<li><a href="index.html">Inicio</a></li>
-				<li><a href="items/index.html">Items</a></li>
-					<!-- <ul>
-						<li id="submenu"><a href="Mineria.html">Mineria y Herreria</a></li>
-						<li id="submenu"><a href="Peleteria.html">Peleteria y Desollo</a></li>
-						<li id="submenu"><a href="">Submenu3</a></li>
-						<li id="submenu"><a href="">Submenu4</a></li>
-					</ul>
-				</li> -->
-				<!--<li><a href="">Acerca de</a>
-					<ul>
-						<li id="submenu"><a href="">Submenu1</a></li>
-						<li id="submenu"><a href="">Submenu2</a></li>
-						<li id="submenu"><a href="">Submenu3</a></li>
-						<li id="submenu"><a href="">Submenu4</a></li>
-					</ul>
-				</li>
-				<li><a href="">Contacto</a></li>-->
-			</ul>
-		</div>
-</center>
-      
-      
-        <div id="main">
-			<br>
-			<h1>	
-			<center><p>Los Dungeon</p></center><br>
-			<h1>
-			<h5>
-			
-			<p>Es un MMORPG gratuito con un estilo clasico y un&nbsp;vasto mundo. Explora y descubre la amplia variedad de armas y objetos que puedes conseguir.&nbsp;Encuentra un grupo y acaba con las bestias salvajes, crea equipo para ayudarte en tu progreso.&nbsp;</p>
-			<p>Una de las características más interesantes es que podrás equipar&nbsp;alas y runas especiales.&nbsp;las cuales se pueden mejorar en docenas de niveles, y cada nivel mejora tanto la apariencia como las estadísticas de tu personaje.</p>
-			
-			<p>-Podrá explorar el mapeado y hablar con otros jugadores.&nbsp;</p>
-			<p>-Jugar las mazmorras y recolectar Items para acceder a los Crafteos de equipos y medicamentos&nbsp;</p>
-			<p>-Sistema de runas</p>
-			<p>-Sistema de minería</p>
-			<p>-Sistema de alas</p>
-			<p>-Sistema de equipos</p>
-			<p>-Sistema de Skins</p>
-			<p>-Sistema de Alas</p>
-			<p>-Sistema de monturas</p>
-			
-			<p>Requisitos</p>
-			
-			<ul>
-				<li>OS: Windows 7+&nbsp;<strong>(.Net Framework 4.6.2)</strong></li>
-				<li>Procesador: Intel Core&nbsp;2Duo+ O Amd equivalente</li>
-				<li>Ram: 1 GB</li>
-				<li>Video: 1 GB</li>
-				<li>OpenGL: Version 2.1+</li>
-				<li>Storage: 1.5 GB de espacio disponible</li>
-			</ul>	
-				
-			</h5>
-			<h1>
-			<center>
-				<p>Descargar</p>
-				<iframe frameborder="0" src="https://itch.io/embed/1747954?linkback=true&amp;border_width=2&amp;bg_color=000000&amp;fg_color=ffffff&amp;link_color=ff8a20&amp;border_color=333333" width="554" height="169"><a href="https://espectrow94.itch.io/lost-dungeon">Lost Dungeon by EspectroW94</a></iframe>
-			</center>
-			</h1>
-        </div>
-    </div>
-    
-    <div id="butt">
-        <div id="butt_cont">
-            <p>
-                <strong>Lost Dungeon © 2022 All Rights Reserved.</strong><br>
-                Developed and published by <a href="https://espectrow94.itch.io/" target="_blank"><em>EspectroW94</em></a>.
-            </p>    
-        </div>
-    </div>
-
-
-    
-</body></html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legends Resurrected Online - Guía Oficial</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Plus+Jakarta+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0b0f19;
+            --panel-bg: rgba(18, 24, 38, 0.90);
+            --gold: #d4af37;
+            --gold-light: #f3e5ab;
+            --gold-dark: #997a15;
+            --text-main: #d1d5db;
+            --text-muted: #9ca3af;
+            --accent-glow: rgba(212, 175, 55, 0.2);
+            --border-color: rgba(212, 175, 55, 0.3);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            background-image: radial-gradient(circle at 50% 20%, #1a233a 0%, var(--bg-color) 80%);
+            color: var(--text-main);
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            min-height: 100vh;
+            padding: 2rem 1rem;
+            display: flex;
+            justify-content: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1100px;
+        }
+
+        /* Encabezado Estilo Fantasía */
+        header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+            border-bottom: 2px solid var(--border-color);
+            padding-bottom: 1.5rem;
+        }
+
+        h1 {
+            font-family: 'Cinzel', serif;
+            font-size: 2.8rem;
+            color: var(--gold);
+            text-shadow: 0 0 15px var(--accent-glow);
+            letter-spacing: 2px;
+            margin-bottom: 0.5rem;
+        }
+
+        header p {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+            letter-spacing: 1px;
+            font-family: 'Cinzel', serif;
+        }
+
+        /* Sistema de Banderillas Principales (Tabs Top) */
+        .tabs {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: -1px;
+            flex-wrap: wrap;
+            position: relative;
+            z-index: 2;
+        }
+
+        .tab-btn {
+            background: linear-gradient(135deg, #151b29 0%, #0d121d 100%);
+            border: 1px solid var(--border-color);
+            border-bottom: none;
+            color: var(--text-muted);
+            font-family: 'Cinzel', serif;
+            font-size: 1rem;
+            padding: 12px 24px;
+            cursor: pointer;
+            border-radius: 8px 8px 0 0;
+            transition: all 0.3s ease;
+            box-shadow: 0 -4px 10px rgba(0,0,0,0.3);
+        }
+
+        .tab-btn:hover {
+            color: var(--gold-light);
+            border-color: var(--gold);
+        }
+
+        .tab-btn.active {
+            background: linear-gradient(135deg, #1f2a44 0%, #121826 100%);
+            color: var(--gold);
+            border-color: var(--gold);
+            border-bottom: 2px solid #121826;
+            text-shadow: 0 0 8px var(--accent-glow);
+            transform: translateY(-3px);
+        }
+
+        /* Contenedor Principal del Libro */
+        .content-panel {
+            background: var(--panel-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 0 12px 12px 12px;
+            padding: 2.5rem;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6), inset 0 0 40px rgba(0,0,0,0.4);
+            backdrop-filter: blur(10px);
+            display: none;
+            animation: fadeIn 0.4s ease-in-out;
+        }
+
+        .content-panel.active {
+            display: block;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(5px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        h2.section-title {
+            font-family: 'Cinzel', serif;
+            color: var(--gold);
+            font-size: 1.8rem;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 0.5rem;
+        }
+
+        /* Estructura del Submenú Vertical Genérico */
+        .submenu-layout {
+            display: grid;
+            grid-template-columns: 240px 1fr;
+            gap: 2rem;
+        }
+
+        .vertical-submenu {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            border-right: 1px solid rgba(212, 175, 55, 0.15);
+            padding-right: 1.5rem;
+        }
+
+        .sub-tab-btn {
+            background: rgba(15, 20, 32, 0.4);
+            border: 1px solid rgba(212, 175, 55, 0.1);
+            color: var(--text-muted);
+            font-family: 'Cinzel', serif;
+            font-size: 0.95rem;
+            text-align: left;
+            padding: 12px 16px;
+            cursor: pointer;
+            border-radius: 6px;
+            transition: all 0.2s ease;
+        }
+
+        .sub-tab-btn:hover {
+            background: rgba(212, 175, 55, 0.05);
+            color: var(--gold-light);
+            border-color: var(--border-color);
+            transform: translateX(4px);
+        }
+
+        .sub-tab-btn.active {
+            background: linear-gradient(90deg, rgba(212, 175, 55, 0.15), transparent);
+            color: var(--gold);
+            border-color: var(--gold);
+            border-left: 4px solid var(--gold);
+            text-shadow: 0 0 6px var(--accent-glow);
+        }
+
+        .sub-content-container {
+            min-height: 400px;
+        }
+
+        .sub-content-panel {
+            display: none;
+            animation: fadeIn 0.3s ease-in-out;
+        }
+
+        .sub-content-panel.active {
+            display: block;
+        }
+
+        /* Contenido y Tarjetas */
+        .intro-text {
+            font-size: 1.02rem;
+            line-height: 1.6;
+            margin-bottom: 2rem;
+            color: var(--text-main);
+            background: rgba(0, 0, 0, 0.2);
+            padding: 1rem 1.5rem;
+            border-left: 4px solid var(--gold);
+            border-radius: 0 6px 6px 0;
+        }
+
+        .quest-list {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .quest-item {
+            background: rgba(15, 20, 32, 0.6);
+            border: 1px solid rgba(212, 175, 55, 0.15);
+            border-radius: 8px;
+            padding: 1.25rem 1.5rem;
+            transition: all 0.2s ease;
+        }
+
+        .quest-item:hover {
+            border-color: var(--border-color);
+            box-shadow: 0 0 12px var(--accent-glow);
+        }
+
+        .quest-title {
+            font-family: 'Cinzel', serif;
+            color: var(--gold-light);
+            font-size: 1.2rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .quest-desc {
+            font-size: 0.95rem;
+            line-height: 1.5;
+            color: var(--text-main);
+        }
+
+        .destination-note {
+            margin-top: 2rem;
+            background: linear-gradient(90deg, rgba(212,175,55,0.1), transparent);
+            border-left: 4px solid var(--gold);
+            padding: 1rem;
+            font-style: italic;
+            color: var(--gold-light);
+            border-radius: 0 8px 8px 0;
+        }
+
+        .coming-soon {
+            text-align: center;
+            padding: 3rem 1rem;
+            color: var(--text-muted);
+            font-style: italic;
+            font-family: 'Cinzel', serif;
+            font-size: 1.1rem;
+        }
+
+        .link-crystal {
+            color: var(--gold-light);
+            text-decoration: underline;
+            transition: color 0.2s;
+        }
+        .link-crystal:hover {
+            color: var(--gold);
+            text-shadow: 0 0 6px var(--accent-glow);
+        }
+
+        /* Estilos para las Tablas de Estadísticas de Reencarnación */
+        .stats-tier-container {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            margin-top: 1.5rem;
+        }
+
+        .tier-card {
+            background: rgba(15, 20, 32, 0.7);
+            border: 1px solid rgba(212, 175, 55, 0.2);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .tier-title {
+            font-family: 'Cinzel', serif;
+            background: linear-gradient(90deg, rgba(212, 175, 55, 0.2), transparent);
+            color: var(--gold);
+            padding: 0.75rem 1.25rem;
+            font-size: 1.1rem;
+            border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+        }
+
+        .stats-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+            text-align: left;
+        }
+
+        .stats-table th, .stats-table td {
+            padding: 8px 12px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .stats-table th {
+            color: var(--text-muted);
+            font-weight: 600;
+            background: rgba(0,0,0,0.2);
+        }
+
+        .stats-table td:nth-child(even) {
+            color: var(--gold-light);
+            text-align: right;
+            font-weight: 600;
+        }
+
+        .stats-table td:nth-child(odd) {
+            color: var(--text-main);
+        }
+
+        .stats-grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0;
+        }
+
+        @media (max-width: 650px) {
+            .stats-grid-2 {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 850px) {
+            .submenu-layout {
+                grid-template-columns: 1fr;
+            }
+            .vertical-submenu {
+                flex-direction: row;
+                flex-wrap: wrap;
+                border-right: none;
+                border-bottom: 1px solid rgba(212, 175, 55, 0.15);
+                padding-right: 0;
+                padding-bottom: 1rem;
+            }
+            .sub-tab-btn {
+                flex: 1;
+                min-width: 120px;
+                text-align: center;
+            }
+            .sub-tab-btn.active {
+                border-left: 1px solid var(--gold);
+                border-bottom: 4px solid var(--gold);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .tabs {
+                flex-direction: column;
+                gap: 5px;
+            }
+            .tab-btn {
+                border-radius: 8px;
+                width: 100%;
+            }
+            .content-panel {
+                border-radius: 12px;
+                padding: 1.5rem;
+            }
+            h1 { font-size: 2rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Legends Resurrected Online</h1>
+            <p>Grimorio Oficial del Viajero</p>
+        </header>
+
+        <!-- Banderillas / Pestañas Principales (Superiores) -->
+        <div class="tabs">
+            <button class="tab-btn active" onclick="openTab(event, 'misiones')">📜 Misiones</button>
+            <button class="tab-btn" onclick="openTab(event, 'clases')">🛡️ Clases</button>
+            <button class="tab-btn" onclick="openTab(event, 'sistemas')">⚙️ Sistemas</button>
+            <button class="tab-btn" onclick="openTab(event, 'habilidades')">✨ Habilidades</button>
+            <button class="tab-btn" onclick="openTab(event, 'cristales')">💎 Cristales</button>
+        </div>
+
+        <!-- PANEL 1: MISIONES -->
+        <div id="misiones" class="content-panel active">
+            <h2 class="section-title">📜 Registro de Misiones</h2>
+            
+            <div class="submenu-layout">
+                <div class="vertical-submenu">
+                    <button class="sub-tab-btn active" onclick="openSubTab(event, 'misiones', 'sub-principales')">⚔️ Principales</button>
+                    <button class="sub-tab-btn" onclick="openSubTab(event, 'misiones', 'sub-caceria')">🏹 Cacería</button>
+                    <button class="sub-tab-btn" onclick="openSubTab(event, 'misiones', 'sub-zodiaco')">✨ Zodiaco</button>
+                    <button class="sub-tab-btn" onclick="openSubTab(event, 'misiones', 'sub-expedicion')">🗺️ Expedición</button>
+                    <button class="sub-tab-btn" onclick="openSubTab(event, 'misiones', 'sub-nivel')">📈 Nivel</button>
+                </div>
+				
+
+                <div class="sub-content-container">
+                    <div id="sub-principales" class="sub-content-panel active">
+                        <div class="intro-text">
+                            Prólogo: Al ingresar automáticamente, la <strong>Diosa del Destino</strong> comenzará a hablar y te explicará cómo te ha traído a Gothrisea. Después de este diálogo, te dará la primera misión.
+                        </div>
+                        <div class="quest-list">
+                            <div class="quest-item">
+                                <div class="quest-title">1. Bienvenida</div>
+                                <div class="quest-desc">En esta misión la diosa te envía a recolectar <strong>10 arcillas</strong>, las cuales usara para crear tu nuevo cuerpo (en este punto eres un alma sin cuerpo). Una vez recolectadas, tendrás que regresar a hablar con la diosa.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">2. Dando Vida</div>
+                                <div class="quest-desc">Dada por la diosa al completar la misión de bienvenida. Se te encarga recolectar <strong>2 pociones de sanación</strong>, obtenidas al completar el diálogo con el <em>Maestro de Pociones</em> en la parte superior del mapa. Nuevamente, al completarla debes regresar con la diosa.<br><br>La diosa te pedirá que interactúes con tu nuevo cuerpo (al lado izquierdo). Acércate e interactúa presionando la tecla <strong>E</strong>. Al hacerlo, te dirá que debes seleccionar tu clase. Ya con tu cuerpo seleccionado, regresa y habla con ella.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">3. Un nuevo Comienzo</div>
+                                <div class="quest-desc">Dada por la diosa al tener tu cuerpo para conseguir tu primer equipo. Debes hablar con el <em>Maestro de Equipos</em> (arriba a la izquierda del mapa). Al terminar el diálogo, te pedirá que consigas <strong>3 menas de hierro</strong> (solo conseguidas a través de la misión del alcalde, por lo que no podrás completarla aún).</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">4. Criaturas Extrañas</div>
+                                <div class="quest-desc">Al hablar con el alcalde, te encargara llevar un encargo a su amigo <em>Bardza</em> (abajo a la izquierda del mapa). Este NPC te desbloquea la primera mazmorra del juego; al hablar con él nuevamente, completas la misión y recibes las <strong>3 menas de hierro</strong> de la explosión de la montaña, completando "Un nuevo Comienzo".</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">5. Forjando el Camino</div>
+                                <div class="quest-desc">Una vez entregues las menas, el Maestro de Equipo t dará un <strong>cuchillo</strong>, el cual debes equiparte y hablar nuevamente con él. Al finalizar, te da otra pieza de equipo y se desbloquea una nueva misión en la Diosa del Destino.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">6. La Magia de la Diosa</div>
+                                <div class="quest-desc">Esta misión te da un <strong>libro de habilidades</strong> y te desbloquea un nuevo diálogo con la Diosa del Destino.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">7. Cofre personal</div>
+                                <div class="quest-desc">Dada por la Diosa, te envía a recolectar <strong>madera</strong> (las cuales aparecen en la parte inferior del mapa). Una vez recolectadas, regresas a hablar con ella para completarla.</div>
+                            </div>
+                        </div>
+                        <div class="destination-note">
+                            ✨ <strong>Siguiente Paso:</strong> En este punto ya has completado todas las misiones iniciales y podrás dirigirte a la ciudad principal <strong>Achyn</strong> usando el <em>Maestro de Viajes</em>, un NPC ubicado en la parte inferior derecha del mapa, cerca al mar.
+                        </div>
+                    </div>
+
+                    <div id="sub-caceria" class="sub-content-panel">
+                        <h3 class="section-title" style="font-size: 1.4rem; border:none; margin-bottom:1rem;">🏹 Misiones de Cacería</h3>
+                        <div class="intro-text">
+                            Las misiones de cacería diaria permiten a los aventureros rastrear y eliminar amenazas específicas en los territorios de Gothrisea a cambio de valiosos recursos.
+                        </div>
+                        <div class="quest-list">
+                            <div class="quest-item">
+                                <div class="quest-title">1. Obtención y Acceso</div>
+                                <div class="quest-desc">Estas misiones se aceptan acudiendo al <strong>Tablero de Misiones</strong> ubicado en la ciudad de <strong>Achyn</strong>, donde deberás fabricar el objeto <strong>[Scroll Misión [Cacería Diaria]]</strong>. Al utilizar el pergamino desde tu inventario, se te asignará de forma aleatoria una misión.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">2. Límite Diario</div>
+                                <div class="quest-desc">Los contratos de cacería son altamente lucrativos pero limitados; podrás realizar estas misiones un máximo de <strong>10 veces al día</strong>.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">3. Recompensas</div>
+                                <div class="quest-desc">Al completar con éxito una misión de cacería, recibirás como botín un <strong>Paquete de Cacería Diaria</strong>. Al abrir este paquete, obtendrás recompensas aleatorias para potenciar tu equipo y consumibles útiles para tus travesías.</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="sub-zodiaco" class="sub-content-panel">
+                        <h3 class="section-title" style="font-size: 1.4rem; border:none; margin-bottom:1rem;">✨ Misiones Zodiaco</h3>
+                        <div class="intro-text">
+                            El sistema Zodiaco se encuentra disponible en el <strong>tablero de misiones de Achyn</strong> a partir del <strong>nivel 40</strong>.
+                        </div>
+                        <div class="quest-list">
+                            <div class="quest-item">
+                                <div class="quest-title">1. Reclamo de Pergamino</div>
+                                <div class="quest-desc">
+                                    Reclama el <strong>Pergamino de la Misión del Zodiaco</strong> desde el tablero de misiones.
+                                </div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">2. Asignación Aleatoria</div>
+                                <div class="quest-desc">
+                                    Al usar el pergamino, obtendrás de forma aleatoria 1 de 4 misiones disponibles:<br>
+                                    <ul style="margin-top: 0.5rem; margin-left: 1.5rem; color: var(--gold-light);">
+                                        <li>[Zodiaco] Arma</li>
+                                        <li>[Zodiaco] Escudo</li>
+                                        <li>[Zodiaco] Pechera</li>
+                                        <li>[Zodiaco] Signo</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="sub-expedicion" class="sub-content-panel">
+                        <h3 class="section-title" style="font-size: 1.4rem; border:none; margin-bottom:1rem;">🗺️ Misiones de Expedición</h3>
+                        <div class="intro-text">
+                            Las expediciones son misiones de alto riesgo disponibles a partir del <strong>Nivel 55</strong>. Pon a prueba tus límites explorando los rincones más salvajes de Gothrisea.
+                        </div>
+                        <div class="quest-list">
+                            <div class="quest-item">
+                                <div class="quest-title">1. Obtención y Acceso</div>
+                                <div class="quest-desc">Para comenzar, dirígete al <strong>Tablero de Misiones</strong> ubicado en la ciudad de <strong>Achyn</strong> y elabora el pergamino <strong>[Scroll Misión [Expedición]]</strong>.<br><br>Una vez en tu inventario, puedes utilizar el pergamino para recibir de forma aleatoria <strong>1 de 12 misiones posibles</strong>, la cual además asignará de manera totalmente aleatoria uno de los <strong>3 niveles de dificultad</strong> disponibles.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">2. Límite Diario</div>
+                                <div class="quest-desc">Los aventureros podrán completar estas misiones un máximo de <strong>5 veces al día</strong>, renovando sus oportunidades de obtención y botín diariamente.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">3. Recompensas (Paquetes de Expedición)</div>
+                                <div class="quest-desc">Al completar con éxito una misión de expedición, recibirás valiosos <strong>Paquetes de Expedición</strong> de acuerdo con la dificultad superada:<br>
+                                <ul style="margin-top: 0.5rem; margin-left: 1.5rem; color: var(--gold-light);">
+                                    <li><strong>Nivel 1:</strong> 1x Paquete de Expedición.</li>
+                                    <li><strong>Nivel 2:</strong> 2x Paquete de Expedición.</li>
+                                    <li><strong>Nivel 3:</strong> 3x Paquete de Expedición.</li>
+                                </ul></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="sub-nivel" class="sub-content-panel">
+                        <h3 class="section-title" style="font-size: 1.4rem; border:none; margin-bottom:1rem;">📈 Misiones de Nivel</h3>
+                        <div class="intro-text">
+                            Conmemora tu crecimiento en Gothrisea. Estas misiones especiales están diseñadas para recompensar tu esfuerzo al alcanzar hitos importantes de poder.
+                        </div>
+                        <div class="quest-list">
+                            <div class="quest-item">
+                                <div class="quest-title">1. Desbloqueo por Rangos</div>
+                                <div class="quest-desc">Las misiones de nivel se desbloquean automáticamente <strong>cada 10 niveles</strong> de experiencia alcanzados por el aventurero.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">2. Obtención del Pergamino</div>
+                                <div class="quest-desc">Para iniciar tu desafío de ascenso, deberás dirigirte al <strong>Tablero de Misiones</strong> en la ciudad de <strong>Achyn</strong> y fabricar el pergamino correspondiente a tu rango actual (por ejemplo: <strong>[Scroll de Misión lv. 10]</strong>, variando su denominación y requisitos según el nivel del pergamino).</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">3. Recompensa Especial</div>
+                                <div class="quest-desc">Una vez completada la misión obtenida a través del pergamino, se te otorgará una <strong>recompensa especial</strong> única acorde a tu etapa de crecimiento, impulsando tu equipamiento y capacidades en el reino.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- PANEL 2: CLASES (CON ESTADÍSTICAS DE REENCARNACIÓN) -->
+        <div id="clases" class="content-panel">
+            <h2 class="section-title">🛡️ Clases y Estadísticas de Reencarnación</h2>
+            
+            <div class="submenu-layout">
+                <!-- Submenú Vertical de Clases -->
+                <div class="vertical-submenu">
+                    <button class="sub-tab-btn active" onclick="openSubTab(event, 'clases', 'sub-clase-guerrero')">⚔️ Guerrero</button>
+                    <button class="sub-tab-btn" onclick="openSubTab(event, 'clases', 'sub-clase-mago')">🔮 Mago</button>
+                    <button class="sub-tab-btn" onclick="openSubTab(event, 'clases', 'sub-clase-sacerdote')">📜 Sacerdote</button>
+                    <button class="sub-tab-btn" onclick="openSubTab(event, 'clases', 'sub-clase-asesino')">🗡️ Asesino</button>
+                </div>
+
+                <div class="sub-content-container">
+
+                    <!-- GUERRERO -->
+                    <div id="sub-clase-guerrero" class="sub-content-panel active">
+                        <h3 class="section-title" style="font-size: 1.4rem; border:none; margin-bottom:1rem;">⚔️ Clase: Guerrero</h3>
+                        <div class="intro-text">
+                            Maestros de la fuerza bruta y la resistencia inquebrantable. A continuación se detallan las estadísticas base y aumentos por nivel según cada fase de reencarnación.
+                        </div>
+                        <div class="stats-tier-container">
+                            <!-- Mortal -->
+                            <div class="tier-card">
+                                <div class="tier-title">Mortal</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>200</td><td>Max HP</td><td>30</td></tr>
+                                    <tr><td>MP</td><td>60</td><td>Max MP</td><td>1</td></tr>
+                                    <tr><td>Defensa</td><td>35</td><td>Defensa</td><td>5</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>35</td><td>Resistencia Magica</td><td>5</td></tr>
+                                    <tr><td>Ataque</td><td>10</td><td>Ataque</td><td>1</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>10</td><td>Poder de Habilidad</td><td>1</td></tr>
+                                    <tr><td>Velocidad</td><td>5</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>2</td></tr>
+                                </table>
+                            </div>
+                            <!-- Renacido -->
+                            <div class="tier-card">
+                                <div class="tier-title">Renacido</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>250</td><td>Max HP</td><td>40</td></tr>
+                                    <tr><td>MP</td><td>100</td><td>Max MP</td><td>3</td></tr>
+                                    <tr><td>Defensa</td><td>40</td><td>Defensa</td><td>7</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>40</td><td>Resistencia Magica</td><td>7</td></tr>
+                                    <tr><td>Ataque</td><td>15</td><td>Ataque</td><td>3</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>15</td><td>Poder de Habilidad</td><td>3</td></tr>
+                                    <tr><td>Velocidad</td><td>5</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>3</td></tr>
+                                </table>
+                            </div>
+                            <!-- Inmortal -->
+                            <div class="tier-card">
+                                <div class="tier-title">Inmortal</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>300</td><td>Max HP</td><td>50</td></tr>
+                                    <tr><td>MP</td><td>150</td><td>Max MP</td><td>5</td></tr>
+                                    <tr><td>Defensa</td><td>45</td><td>Defensa</td><td>9</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>45</td><td>Resistencia Magica</td><td>9</td></tr>
+                                    <tr><td>Ataque</td><td>20</td><td>Ataque</td><td>5</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>20</td><td>Poder de Habilidad</td><td>5</td></tr>
+                                    <tr><td>Velocidad</td><td>5</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>4</td></tr>
+                                </table>
+                            </div>
+                            <!-- Santificado -->
+                            <div class="tier-card">
+                                <div class="tier-title">Santificado</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>350</td><td>Max HP</td><td>60</td></tr>
+                                    <tr><td>MP</td><td>170</td><td>Max MP</td><td>7</td></tr>
+                                    <tr><td>Defensa</td><td>50</td><td>Defensa</td><td>11</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>50</td><td>Resistencia Magica</td><td>11</td></tr>
+                                    <tr><td>Ataque</td><td>25</td><td>Ataque</td><td>7</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>25</td><td>Poder de Habilidad</td><td>7</td></tr>
+                                    <tr><td>Velocidad</td><td>5</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>5</td></tr>
+                                </table>
+                            </div>
+                            <!-- Ascendido -->
+                            <div class="tier-card">
+                                <div class="tier-title">Ascendido</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>400</td><td>Max HP</td><td>70</td></tr>
+                                    <tr><td>MP</td><td>200</td><td>Max MP</td><td>9</td></tr>
+                                    <tr><td>Defensa</td><td>55</td><td>Defensa</td><td>14</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>55</td><td>Resistencia Magica</td><td>14</td></tr>
+                                    <tr><td>Ataque</td><td>30</td><td>Ataque</td><td>9</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>30</td><td>Poder de Habilidad</td><td>9</td></tr>
+                                    <tr><td>Velocidad</td><td>5</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>7</td></tr>
+                                </table>
+                            </div>
+                            <!-- Divino -->
+                            <div class="tier-card">
+                                <div class="tier-title">Divino</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>450</td><td>Max HP</td><td>80</td></tr>
+                                    <tr><td>MP</td><td>220</td><td>Max MP</td><td>11</td></tr>
+                                    <tr><td>Defensa</td><td>60</td><td>Defensa</td><td>16</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>60</td><td>Resistencia Magica</td><td>16</td></tr>
+                                    <tr><td>Ataque</td><td>35</td><td>Ataque</td><td>11</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>35</td><td>Poder de Habilidad</td><td>11</td></tr>
+                                    <tr><td>Velocidad</td><td>5</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>8</td></tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- MAGO -->
+                    <div id="sub-clase-mago" class="sub-content-panel">
+                        <h3 class="section-title" style="font-size: 1.4rem; border:none; margin-bottom:1rem;">🔮 Clase: Mago</h3>
+                        <div class="intro-text">
+                            Canalizadores de las energías arcanas primordiales. A continuación se muestran las estadísticas base y de progresión por nivel en cada reencarnación.
+                        </div>
+                        <div class="stats-tier-container">
+                            <!-- Mortal -->
+                            <div class="tier-card">
+                                <div class="tier-title">Mortal</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>100</td><td>Max HP</td><td>10</td></tr>
+                                    <tr><td>MP</td><td>40</td><td>Max MP</td><td>5</td></tr>
+                                    <tr><td>Defensa</td><td>20</td><td>Defensa</td><td>2</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>20</td><td>Resistencia Magica</td><td>2</td></tr>
+                                    <tr><td>Ataque</td><td>20</td><td>Ataque</td><td>3</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>30</td><td>Poder de Habilidad</td><td>3</td></tr>
+                                    <tr><td>Velocidad</td><td>10</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>2</td></tr>
+                                </table>
+                            </div>
+                            <!-- Renacido -->
+                            <div class="tier-card">
+                                <div class="tier-title">Renacido</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>150</td><td>Max HP</td><td>20</td></tr>
+                                    <tr><td>MP</td><td>90</td><td>Max MP</td><td>7</td></tr>
+                                    <tr><td>Defensa</td><td>25</td><td>Defensa</td><td>4</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>25</td><td>Resistencia Magica</td><td>4</td></tr>
+                                    <tr><td>Ataque</td><td>25</td><td>Ataque</td><td>5</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>35</td><td>Poder de Habilidad</td><td>5</td></tr>
+                                    <tr><td>Velocidad</td><td>10</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>3</td></tr>
+                                </table>
+                            </div>
+                            <!-- Inmortal -->
+                            <div class="tier-card">
+                                <div class="tier-title">Inmortal</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>200</td><td>Max HP</td><td>30</td></tr>
+                                    <tr><td>MP</td><td>140</td><td>Max MP</td><td>9</td></tr>
+                                    <tr><td>Defensa</td><td>30</td><td>Defensa</td><td>6</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>30</td><td>Resistencia Magica</td><td>6</td></tr>
+                                    <tr><td>Ataque</td><td>20</td><td>Ataque</td><td>7</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>40</td><td>Poder de Habilidad</td><td>7</td></tr>
+                                    <tr><td>Velocidad</td><td>10</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>4</td></tr>
+                                </table>
+                            </div>
+                            <!-- Santificado -->
+                            <div class="tier-card">
+                                <div class="tier-title">Santificado</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>250</td><td>Max HP</td><td>40</td></tr>
+                                    <tr><td>MP</td><td>190</td><td>Max MP</td><td>11</td></tr>
+                                    <tr><td>Defensa</td><td>35</td><td>Defensa</td><td>8</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>35</td><td>Resistencia Magica</td><td>8</td></tr>
+                                    <tr><td>Ataque</td><td>35</td><td>Ataque</td><td>9</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>45</td><td>Poder de Habilidad</td><td>9</td></tr>
+                                    <tr><td>Velocidad</td><td>10</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>5</td></tr>
+                                </table>
+                            </div>
+                            <!-- Ascendido -->
+                            <div class="tier-card">
+                                <div class="tier-title">Ascendido</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>300</td><td>Max HP</td><td>50</td></tr>
+                                    <tr><td>MP</td><td>240</td><td>Max MP</td><td>15</td></tr>
+                                    <tr><td>Defensa</td><td>40</td><td>Defensa</td><td>10</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>40</td><td>Resistencia Magica</td><td>10</td></tr>
+                                    <tr><td>Ataque</td><td>40</td><td>Ataque</td><td>12</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>50</td><td>Poder de Habilidad</td><td>12</td></tr>
+                                    <tr><td>Velocidad</td><td>10</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>7</td></tr>
+                                </table>
+                            </div>
+                            <!-- Divino -->
+                            <div class="tier-card">
+                                <div class="tier-title">Divino</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>350</td><td>Max HP</td><td>60</td></tr>
+                                    <tr><td>MP</td><td>290</td><td>Max MP</td><td>19</td></tr>
+                                    <tr><td>Defensa</td><td>45</td><td>Defensa</td><td>12</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>45</td><td>Resistencia Magica</td><td>12</td></tr>
+                                    <tr><td>Ataque</td><td>50</td><td>Ataque</td><td>14</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>60</td><td>Poder de Habilidad</td><td>14</td></tr>
+                                    <tr><td>Velocidad</td><td>10</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>8</td></tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SACERDOTE -->
+                    <div id="sub-clase-sacerdote" class="sub-content-panel">
+                        <h3 class="section-title" style="font-size: 1.4rem; border:none; margin-bottom:1rem;">📜 Clase: Sacerdote</h3>
+                        <div class="intro-text">
+                            Guías espirituales y protectores con alta capacidad de curación y poder sagrado. Consulta los estados de reencarnación a continuación.
+                        </div>
+                        <div class="stats-tier-container">
+                            <!-- Mortal -->
+                            <div class="tier-card">
+                                <div class="tier-title">Mortal</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>150</td><td>Max HP</td><td>10</td></tr>
+                                    <tr><td>MP</td><td>50</td><td>Max MP</td><td>5</td></tr>
+                                    <tr><td>Defensa</td><td>20</td><td>Defensa</td><td>2</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>20</td><td>Resistencia Magica</td><td>2</td></tr>
+                                    <tr><td>Ataque</td><td>20</td><td>Ataque</td><td>3</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>35</td><td>Poder de Habilidad</td><td>3</td></tr>
+                                    <tr><td>Velocidad</td><td>15</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>2</td></tr>
+                                </table>
+                            </div>
+                            <!-- Renacido -->
+                            <div class="tier-card">
+                                <div class="tier-title">Renacido</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>200</td><td>Max HP</td><td>20</td></tr>
+                                    <tr><td>MP</td><td>100</td><td>Max MP</td><td>7</td></tr>
+                                    <tr><td>Defensa</td><td>25</td><td>Defensa</td><td>4</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>25</td><td>Resistencia Magica</td><td>4</td></tr>
+                                    <tr><td>Ataque</td><td>25</td><td>Ataque</td><td>5</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>40</td><td>Poder de Habilidad</td><td>5</td></tr>
+                                    <tr><td>Velocidad</td><td>15</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>3</td></tr>
+                                </table>
+                            </div>
+                            <!-- Inmortal -->
+                            <div class="tier-card">
+                                <div class="tier-title">Inmortal</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>250</td><td>Max HP</td><td>30</td></tr>
+                                    <tr><td>MP</td><td>150</td><td>Max MP</td><td>9</td></tr>
+                                    <tr><td>Defensa</td><td>30</td><td>Defensa</td><td>6</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>30</td><td>Resistencia Magica</td><td>6</td></tr>
+                                    <tr><td>Ataque</td><td>30</td><td>Ataque</td><td>7</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>45</td><td>Poder de Habilidad</td><td>7</td></tr>
+                                    <tr><td>Velocidad</td><td>15</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>4</td></tr>
+                                </table>
+                            </div>
+                            <!-- Santificado -->
+                            <div class="tier-card">
+                                <div class="tier-title">Santificado</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>300</td><td>Max HP</td><td>40</td></tr>
+                                    <tr><td>MP</td><td>200</td><td>Max MP</td><td>11</td></tr>
+                                    <tr><td>Defensa</td><td>35</td><td>Defensa</td><td>8</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>35</td><td>Resistencia Magica</td><td>8</td></tr>
+                                    <tr><td>Ataque</td><td>35</td><td>Ataque</td><td>9</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>50</td><td>Poder de Habilidad</td><td>9</td></tr>
+                                    <tr><td>Velocidad</td><td>15</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>5</td></tr>
+                                </table>
+                            </div>
+                            <!-- Ascendido -->
+                            <div class="tier-card">
+                                <div class="tier-title">Ascendido</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>350</td><td>Max HP</td><td>50</td></tr>
+                                    <tr><td>MP</td><td>250</td><td>Max MP</td><td>15</td></tr>
+                                    <tr><td>Defensa</td><td>40</td><td>Defensa</td><td>10</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>40</td><td>Resistencia Magica</td><td>10</td></tr>
+                                    <tr><td>Ataque</td><td>40</td><td>Ataque</td><td>12</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>55</td><td>Poder de Habilidad</td><td>12</td></tr>
+                                    <tr><td>Velocidad</td><td>15</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>7</td></tr>
+                                </table>
+                            </div>
+                            <!-- Divino -->
+                            <div class="tier-card">
+                                <div class="tier-title">Divino</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>400</td><td>Max HP</td><td>60</td></tr>
+                                    <tr><td>MP</td><td>300</td><td>Max MP</td><td>19</td></tr>
+                                    <tr><td>Defensa</td><td>45</td><td>Defensa</td><td>12</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>45</td><td>Resistencia Magica</td><td>12</td></tr>
+                                    <tr><td>Ataque</td><td>50</td><td>Ataque</td><td>15</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>65</td><td>Poder de Habilidad</td><td>15</td></tr>
+                                    <tr><td>Velocidad</td><td>15</td><td>Velocidad</td><td>1</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>7</td></tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- ASESINO -->
+                    <div id="sub-clase-asesino" class="sub-content-panel">
+                        <h3 class="section-title" style="font-size: 1.4rem; border:none; margin-bottom:1rem;">🗡️ Clase: Asesino</h3>
+                        <div class="intro-text">
+                            Sombras mortales especializadas en velocidad y daño explosivo letal. Revisa las estadísticas según su nivel de reencarnación.
+                        </div>
+                        <div class="stats-tier-container">
+                            <!-- Mortal -->
+                            <div class="tier-card">
+                                <div class="tier-title">Mortal</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>100</td><td>Max HP</td><td>20</td></tr>
+                                    <tr><td>MP</td><td>40</td><td>Max MP</td><td>1</td></tr>
+                                    <tr><td>Defensa</td><td>20</td><td>Defensa</td><td>5</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>20</td><td>Resistencia Magica</td><td>5</td></tr>
+                                    <tr><td>Ataque</td><td>20</td><td>Ataque</td><td>2</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>2</td><td>Poder de Habilidad</td><td>2</td></tr>
+                                    <tr><td>Velocidad</td><td>20</td><td>Velocidad</td><td>2</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>2</td></tr>
+                                </table>
+                            </div>
+                            <!-- Renacido -->
+                            <div class="tier-card">
+                                <div class="tier-title">Renacido</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>150</td><td>Max HP</td><td>25</td></tr>
+                                    <tr><td>MP</td><td>90</td><td>Max MP</td><td>4</td></tr>
+                                    <tr><td>Defensa</td><td>25</td><td>Defensa</td><td>7</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>25</td><td>Resistencia Magica</td><td>7</td></tr>
+                                    <tr><td>Ataque</td><td>25</td><td>Ataque</td><td>4</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>7</td><td>Poder de Habilidad</td><td>4</td></tr>
+                                    <tr><td>Velocidad</td><td>20</td><td>Velocidad</td><td>2</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>3</td></tr>
+                                </table>
+                            </div>
+                            <!-- Inmortal -->
+                            <div class="tier-card">
+                                <div class="tier-title">Inmortal</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>200</td><td>Max HP</td><td>30</td></tr>
+                                    <tr><td>MP</td><td>140</td><td>Max MP</td><td>7</td></tr>
+                                    <tr><td>Defensa</td><td>30</td><td>Defensa</td><td>9</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>30</td><td>Resistencia Magica</td><td>9</td></tr>
+                                    <tr><td>Ataque</td><td>30</td><td>Ataque</td><td>8</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>12</td><td>Poder de Habilidad</td><td>8</td></tr>
+                                    <tr><td>Velocidad</td><td>20</td><td>Velocidad</td><td>2</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>4</td></tr>
+                                </table>
+                            </div>
+                            <!-- Santificado -->
+                            <div class="tier-card">
+                                <div class="tier-title">Santificado</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>250</td><td>Max HP</td><td>40</td></tr>
+                                    <tr><td>MP</td><td>190</td><td>Max MP</td><td>10</td></tr>
+                                    <tr><td>Defensa</td><td>35</td><td>Defensa</td><td>11</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>35</td><td>Resistencia Magica</td><td>11</td></tr>
+                                    <tr><td>Ataque</td><td>35</td><td>Ataque</td><td>11</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>17</td><td>Poder de Habilidad</td><td>11</td></tr>
+                                    <tr><td>Velocidad</td><td>20</td><td>Velocidad</td><td>2</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>5</td></tr>
+                                </table>
+                            </div>
+                            <!-- Ascendido -->
+                            <div class="tier-card">
+                                <div class="tier-title">Ascendido</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>300</td><td>Max HP</td><td>50</td></tr>
+                                    <tr><td>MP</td><td>240</td><td>Max MP</td><td>15</td></tr>
+                                    <tr><td>Defensa</td><td>40</td><td>Defensa</td><td>13</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>40</td><td>Resistencia Magica</td><td>13</td></tr>
+                                    <tr><td>Ataque</td><td>40</td><td>Ataque</td><td>14</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>20</td><td>Poder de Habilidad</td><td>14</td></tr>
+                                    <tr><td>Velocidad</td><td>20</td><td>Velocidad</td><td>2</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>7</td></tr>
+                                </table>
+                            </div>
+                            <!-- Divino -->
+                            <div class="tier-card">
+                                <div class="tier-title">Divino</div>
+                                <table class="stats-table">
+                                    <tr><th>Estadísticas Base</th><th></th><th>Aumentos por Nivel</th><th></th></tr>
+                                    <tr><td>HP</td><td>350</td><td>Max HP</td><td>50</td></tr>
+                                    <tr><td>MP</td><td>290</td><td>Max MP</td><td>17</td></tr>
+                                    <tr><td>Defensa</td><td>45</td><td>Defensa</td><td>13</td></tr>
+                                    <tr><td>Resistencia Magica</td><td>45</td><td>Resistencia Magica</td><td>13</td></tr>
+                                    <tr><td>Ataque</td><td>45</td><td>Ataque</td><td>17</td></tr>
+                                    <tr><td>Poder de Habilidad</td><td>32</td><td>Poder de Habilidad</td><td>17</td></tr>
+                                    <tr><td>Velocidad</td><td>20</td><td>Velocidad</td><td>2</td></tr>
+                                    <tr><td>Puntos</td><td>0</td><td>Puntos</td><td>8</td></tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- PANEL 3: SISTEMAS -->
+        <div id="sistemas" class="content-panel">
+            <h2 class="section-title">⚙️ Sistemas del Reino</h2>
+            
+            <div class="submenu-layout">
+                <div class="vertical-submenu">
+                    <button class="sub-tab-btn active" onclick="openSubTab(event, 'sistemas', 'sub-sistema-alas')">🪽 Sistema de Alas</button>
+                    <button class="sub-tab-btn" onclick="openSubTab(event, 'sistemas', 'sub-sistema-montura')">🐎 Sistema de Montura</button>
+                    <button class="sub-tab-btn" onclick="openSubTab(event, 'sistemas', 'sub-sistema-mascotas')">🐾 Sistema de Mascotas</button>
+                    <button class="sub-tab-btn" onclick="openSubTab(event, 'sistemas', 'sub-sistema-zodiaco')">✨ Sistema Zodiacal</button>
+                    <button class="sub-tab-btn" onclick="openSubTab(event, 'sistemas', 'sub-sistema-esqueleto')">💀 Sistema Esqueleto</button>
+                    <button class="sub-tab-btn" onclick="openSubTab(event, 'sistemas', 'sub-sistema-bestias')">🐾 Alma de las Bestias</button>
+					<button class="sub-tab-btn" onclick="openSubTab(event, 'sistemas', 'sub-sistema-arma-destino')">⚔️ Arma del Destino</button>
+                </div>
+
+                <div class="sub-content-container">
+                    <div id="sub-sistema-alas" class="sub-content-panel active">
+                        <div class="intro-text">
+                            Las alas otorgan poder celestial y prestigio a los aventureros más audaces de Gothrisea. Conoce cómo obtenerlas y mejorarlas paso a paso.
+                        </div>
+                        <div class="quest-list">
+                            <div class="quest-item">
+                                <div class="quest-title">1. Obtención Inicial</div>
+                                <div class="quest-desc">Deberás dirigirte al <strong>Maestro de Vuelo</strong> en la ciudad de <strong>Achyn</strong>. Al hablar con él, te encomendará una misión: debes derrotar a los jefes de la mazmorra <em>Oscuridad</em> en su dificultad normal. Una vez aniquilados, regresa con el Maestro de Vuelo para completar la misión y las alas aparecerán automáticamente en tu inventario.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">2. Mejora de Alas</div>
+                                <div class="quest-desc">Para potenciar tus alas necesitarás los ítems <strong>[Pluma I]</strong> y <strong>[Libros]</strong>, los cuales son otorgados como botín por los jefes de mazmorra (a mayor dificultad, mayor será la cantidad y la probabilidad de obtención).<br><br>Garantiza tus materiales y dirígete a la <strong>Biblioteca</strong> (cuyo portal se encuentra en la ciudad de Achyn) para encontrar al NPC <strong>Libros de Alas</strong> y sintetizar el objeto <strong>[Libro: Mejora de alas I]</strong>.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">3. Zona de Mejora</div>
+                                <div class="quest-desc">Con tu libro e ítems listos, viaja al mapa del <strong>Taller del Viento</strong>. En este lugar encontrarás al NPC especializado en mejoras correspondiente a la etapa actual de tus alas.</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="sub-sistema-montura" class="sub-content-panel">
+                        <div class="intro-text">
+                            Recorre los vastos y peligrosos terrenos de Gothrisea con velocidad inigualable gracias a las monturas.
+                        </div>
+                        <div class="quest-list">
+                            <div class="quest-item">
+                                <div class="quest-title">1. Obtención Inicial</div>
+                                <div class="quest-desc">Deberás adquirir tu montura inicial dirigiéndote al <strong>Vendedor de Objetos</strong> en la ciudad de <strong>Achyn</strong>. La montura básica lleva por nombre <strong>[Tortuga I]</strong> y tiene un costo de <strong>5,000 [GT Lunis]</strong>.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">2. Mejora de Montura</div>
+                                <div class="quest-desc">Para evolucionar tu montura requerirás los componentes <strong>[Piedra Morfosis [Mascotas]]</strong> y <strong>[Libro]</strong>. Deberás ingresar a la <strong>Biblioteca</strong> (accesible desde Achyn) y buscar al NPC <strong>Libros de Mascotas</strong>, quien te permitirá forjar el objeto crucial <strong>[Libro: Mejora de Montura I]</strong>.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">3. Zona de Mejora</div>
+                                <div class="quest-desc">Finalmente, dirígete al <strong>Maestro de Monturas</strong> ubicado en la ciudad de <strong>Achyn</strong>, con quien podrás interactuar para seleccionar y ascender de categoría tu montura.</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="sub-sistema-mascotas" class="sub-content-panel">
+                        <div class="intro-text">
+                            Un fiel compañero te asistirá en tus batallas. Existen diversos métodos para invocar a tu criatura acompañante en el mundo.
+                        </div>
+                        <div class="quest-list">
+                            <div class="quest-item">
+                                <div class="quest-title">Método 1: Comercio Local</div>
+                                <div class="quest-desc">Dirígete al NPC <strong>Vendedora de Objetos</strong> en la ciudad de <strong>Achyn</strong>. En sus vitrinas podrás adquirir directamente un fiel <em>Slime</em> como tu primera mascota.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">Método 2: Eclosión Divina</div>
+                                <div class="quest-desc">Podrás obtener a la majestuosa mascota <strong>Ángel</strong> a través de los <em>Huevos de Ángel</em>, los cuales se consiguen participando en la ruleta de la fortuna o mediante eventos especiales del servidor.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">Método 3: Tienda de Cristales</div>
+                                <div class="quest-desc">Una vía exclusiva para obtener criaturas exóticas y de gran rareza intercambiando cristales especiales dentro de la tienda del reino.</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="sub-sistema-zodiaco" class="sub-content-panel">
+                        <div class="intro-text">
+                            Mecánicas de obtención de esencia y forja de armaduras celestiales del sistema Zodiaco.
+                        </div>
+                        <div class="quest-list">
+                            <div class="quest-item">
+                                <div class="quest-title">1. Esencia del Zodiaco</div>
+                                <div class="quest-desc">
+                                    Al completar las misiones del zodiaco, recibirás como recompensa la <strong>Esencia del Zodiaco</strong>. Esta esencia se divide en 4 tipos diferentes:<br>
+                                    <ul style="margin-top: 0.5rem; margin-left: 1.5rem; color: var(--gold-light);">
+                                        <li>Esencia Arma</li>
+                                        <li>Esencia Escudo</li>
+                                        <li>Esencia Pechera</li>
+                                        <li>Esencia Signo</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">2. Forja tu Armadura</div>
+                                <div class="quest-desc">
+                                    Una vez que hayas recolectado la cantidad suficiente de Esencia del Zodiaco, dirígete al NPC <strong>Maestro del Zodiaco</strong> para crear e intercambiar los materiales por la pieza de armadura zodiacal correspondiente.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="sub-sistema-esqueleto" class="sub-content-panel">
+                        <div class="intro-text">
+                            El <strong>Sistema Esqueleto</strong> es un nuevo método para potenciar tu equipamiento. Este sistema te permite mejorar tus estadísticas a través de un proceso de progresión por niveles y etapas.
+                        </div>
+                        <div class="quest-list">
+                            <div class="quest-item">
+                                <div class="quest-title">1. Niveles y Etapas</div>
+                                <div class="quest-desc">
+                                    El sistema se divide en varios niveles, y cada nivel cuenta con <strong>12 etapas únicas</strong>. Para avanzar de una etapa a la siguiente, necesitas acumular <strong>100 Puntos de Esqueleto</strong>.
+                                </div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">2. Ofrendas y Puntos de Esqueleto</div>
+                                <div class="quest-desc">
+                                    Para obtener Puntos de Esqueleto, debes realizar la siguiente ofrenda:<br>
+                                    <ul style="margin-top: 0.5rem; margin-left: 1.5rem; color: var(--gold-light);">
+                                        <li><strong>Piedra Morfosis [Esqueleto]</strong> x10</li>
+                                        <li><strong>Hueso</strong> x25</li>
+                                    </ul><br>
+                                    Cada intento consume estos materiales y te otorga una cantidad aleatoria de <strong>2 a 5 Puntos de Esqueleto</strong>.
+                                </div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">3. Recompensas y Evolución</div>
+                                <div class="quest-desc">
+                                    Al completar cada etapa, tu equipamiento obtendrá una mejora en sus estadísticas.<br><br>
+                                    Al completar la <strong>Etapa 12</strong>, se desbloqueará el siguiente nivel, y tu equipamiento manifestará una <strong>mejora visual permanente</strong>. Luego, el ciclo de progresión por etapas se reiniciará en el nuevo nivel.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="sub-sistema-bestias" class="sub-content-panel">
+                        <div class="intro-text">
+                            El <strong>Sistema Alma de las Bestias</strong> añade un nuevo equipamiento. Para mejorarlo, necesitas conseguir Puntos de Bestia que te ayudarán a subir de nivel (actualmente hay <strong>50 niveles</strong> en total). Al alcanzar un nuevo nivel, obtendrás una mejora automática.
+                        </div>
+                        <div class="quest-list">
+                            <div class="quest-item">
+                                <div class="quest-title">1. Obtención y Uso de Esencias</div>
+                                <div class="quest-desc">
+                                    El ítem principal es la <strong>[Esencia de la Bestia]</strong>. Puedes obtenerlo con una probabilidad del <strong>5%x3</strong> al derrotar a cada uno de los 3 jefes de la mazmorra. Puedes usar el ítem desde tu inventario o anclándolo a la barra de hechizos rápidos.<br><br>
+                                    Cada vez que usas una esencia, se consume y te otorga una cantidad aleatoria de <strong>10 a 60 Puntos de Bestia</strong>.
+                                </div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">2. Multiplicadores de Esencia</div>
+                                <div class="quest-desc">
+                                    Existen dos ítems adicionales, la <strong>[Esencia de la Bestia Mayor]</strong> y la <strong>[Esencia de la Bestia Épica]</strong>. No se pueden usar solos, pero si los tienes en el inventario al usar una <strong>[Esencia de la Bestia]</strong>, se consumirán automáticamente para aumentar los puntos obtenidos:<br>
+                                    <ul style="margin-top: 0.5rem; margin-left: 1.5rem; color: var(--gold-light);">
+                                        <li><strong>[Esencia de la Bestia Mayor]:</strong> Incrementa los puntos en un 30%.</li>
+                                        <li><strong>[Esencia de la Bestia Épica]:</strong> Incrementa los puntos en un 70%.</li>
+                                    </ul><br>
+                                    <em>Ejemplo con el valor máximo:</em> Si usas una esencia de 60 puntos con ambas secundarias en el inventario, obtendrás 60 (Base) + 18 (30%) + 42 (70%) = <strong>120 Puntos</strong>. Si no tienes las esencias secundarias, recibirás únicamente el valor base.
+                                </div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">3. Los Cristales y los Críticos</div>
+                                <div class="quest-desc">
+                                    Existe la posibilidad de obtener un "Crítico" para multiplicar los puntos. Para ello, debes depositar cristales en el Fondo de Almas con el NPC <strong>Maestro de las Bestias</strong> en <strong>Achyn</strong>.<br><br>
+                                    ⚠️ <em>¡Cuidado!</em> Los cristales que deposites no pueden ser retirados.<br><br>
+                                    Si tienes cristales en el fondo de almas, puedes obtener un crítico x2 o x3:<br>
+                                    <ul style="margin-top: 0.5rem; margin-left: 1.5rem; color: var(--gold-light);">
+                                        <li>El multiplicador <strong>x2</strong> consume <strong>4 cristales</strong>.</li>
+                                        <li>El multiplicador <strong>x3</strong> consume <strong>6 cristales</strong>.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+					
+					<div id="sub-sistema-arma-destino" class="sub-content-panel active">
+                        <div class="intro-text">
+                            El <strong>Arma del Destino</strong> es un nuevo sistema de progresión que cuenta con varias etapas de mejoras. Puede obtenerse acudiendo al NPC <strong>Maestro del destino</strong>, ubicado en <strong>Achyn</strong>.
+                        </div>
+                        <div class="quest-list">
+                            <div class="quest-item">
+                                <div class="quest-title">1. Esencia del destino</div>
+                                <div class="quest-desc">Se consigue al derrotar a los <strong>Boss de la mazmorra Oscuridad</strong> con una probabilidad del <strong>5%</strong>.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">2. Alma del Destino</div>
+                                <div class="quest-desc">Se consigue al derrotar a los <strong>Boss de la mazmorra Desierto</strong> con una probabilidad del <strong>5%</strong>.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">3. Sello del Destino</div>
+                                <div class="quest-desc">Se consigue al derrotar a los <strong>Boss de la mazmorra Bosque Maldito</strong> con una probabilidad del <strong>5%</strong>.</div>
+                            </div>
+                            <div class="quest-item">
+                                <div class="quest-title">4. Piedra de Encantamiento</div>
+                                <div class="quest-desc">Se consigue al derrotar a los monstruos <strong>elites</strong> con una probabilidad del <strong>10%</strong>.</div>
+                            </div>
+                        </div>
+					
+                </div>
+            </div>
+        </div>
+
+        <!-- PANEL 4: HABILIDADES -->
+        <div id="habilidades" class="content-panel">
+            <h2 class="section-title">✨ Grimorio de Habilidades</h2>
+            <div class="coming-soon">
+                Próximamente: Catálogo de hechizos, técnicas y maestrías de combate...
+            </div>
+        </div>
+
+        <!-- PANEL 5: CRISTALES -->
+        <div id="cristales" class="content-panel">
+            <h2 class="section-title">💎 Guía de Recarga de Cristales</h2>
+            
+            <div class="intro-text">
+                Los cristales son la divina moneda otorgada por las Diosas como recompensa por apoyar el juego mediante recargas. Estas preciosas gemas pueden ser empleadas en la tienda de artículos para adquirir una variedad de objetos, que incluyen alas, monturas, skins, iconos y otros tesoros celestiales.
+            </div>
+
+            <div class="quest-list">
+                <div class="quest-item">
+                    <div class="quest-title">1. Acceso a la Plataforma de Recarga</div>
+                    <div class="quest-desc">
+                        Para realizar la recarga, simplemente debes acceder al siguiente enlace oficial:<br>
+                        <a href="https://espectrow94.itch.io/lost-dungeon" target="_blank" class="link-crystal">https://espectrow94.itch.io/lost-dungeon</a><br><br>
+                        Una vez dentro, desplázate hasta la sección denominada <strong>"Cristales"</strong> ubicada al final de la página web, donde se detalla la cantidad de cristales disponible y su respectivo valor.
+                    </div>
+                </div>
+
+                <div class="quest-item">
+                    <div class="quest-title">2. Proceso de Pago</div>
+                    <div class="quest-desc">
+                        Cuando hayas decidido qué cantidad comprar, haz clic en el botón <strong>"Get for $.$$"</strong>. Esto abrirá un recuadro interactivo que te ofrecerá la opción de pago seguro a través de <strong>PayPal</strong>.
+                    </div>
+                </div>
+
+                <div class="quest-item">
+                    <div class="quest-title">3. Registro de Datos en el Formulario</div>
+                    <div class="quest-desc">
+                        Una vez realizado el pago con éxito, serás redirigido a una ventana de confirmación de la compra.<br><br>
+                        En la parte inferior de esta ventana encontrarás un botón que dice <strong>"Provide information"</strong>. Al hacer clic en él, se abrirá un formulario donde deberás ingresar los datos correspondientes al juego. Es fundamental completar estos campos (no se solicita ningún tipo de información o dato sensible).
+                    </div>
+                </div>
+
+                <div class="quest-item">
+                    <div class="quest-title">4. Tiempos de Entrega y Precauciones Importantes</div>
+                    <div class="quest-desc">
+                        <ul style="margin-left: 1.2rem; color: var(--text-main); display: flex; flex-direction: column; gap: 8px;">
+                            <li><strong>Plazo de Entrega:</strong> Los cristales suelen entregarse dentro de un plazo estimado de <strong>15 minutos a 1 hora</strong>.</li>
+                            <li><strong>Coincidencia de Usuario:</strong> Es crucial que el nombre de usuario ingresado <strong>coincida exactamente</strong> con el de tu personaje en el juego.</li>
+                            <li><strong>Selección de Personaje:</strong> Si tu cuenta posee más de un personaje, debes especificar claramente a cuál de ellos se dirige la recarga.</li>
+                            <li>⚠️ <strong>Aviso Importante:</strong> Si los datos proporcionados no coinciden con los del juego, no se realizará la entrega de los cristales para evitar errores de acreditación.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="quest-item">
+                    <div class="quest-title">5. Soporte y Asistencia</div>
+                    <div class="quest-desc">
+                        En caso de que no recibas tu recarga después de <strong>12 horas</strong>, el equipo se pondrá en contacto contigo a través de correo electrónico. Si lo prefieres, también puedes recibir asistencia inmediata abriendo un ticket en nuestro servidor de <strong>Discord</strong> oficial.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts de Navegación -->
+    <script>
+        function openTab(evt, tabName) {
+            const panels = document.getElementsByClassName("content-panel");
+            for (let i = 0; i < panels.length; i++) {
+                panels[i].classList.remove("active");
+            }
+
+            const buttons = document.getElementsByClassName("tab-btn");
+            for (let i = 0; i < buttons.length; i++) {
+                buttons[i].classList.remove("active");
+            }
+
+            document.getElementById(tabName).classList.add("active");
+            evt.currentTarget.classList.add("active");
+        }
+
+        function openSubTab(evt, parentTabId, subTabName) {
+            const parentPanel = document.getElementById(parentTabId);
+            const subPanels = parentPanel.getElementsByClassName("sub-content-panel");
+            for (let i = 0; i < subPanels.length; i++) {
+                subPanels[i].classList.remove("active");
+            }
+
+            const subButtons = parentPanel.getElementsByClassName("sub-tab-btn");
+            for (let i = 0; i < subButtons.length; i++) {
+                subButtons[i].classList.remove("active");
+            }
+
+            document.getElementById(subTabName).classList.add("active");
+            evt.currentTarget.classList.add("active");
+        }
+    </script>
+</body>
+</html>
